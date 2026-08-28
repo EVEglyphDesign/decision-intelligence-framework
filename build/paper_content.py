@@ -15,7 +15,7 @@ SUBTITLE = (
     "and Adoption-First Sequencing in the SAP Program Context"
 )
 AUTHOR = "EVEglyphDesign — practitioner author"
-VERSION = "v1.0 — invited peer review draft"
+VERSION = "v1.1 — invited peer review draft (capital-asset framing)"
 ABSTRACT = (
     "Decision intelligence is now defined as a superset discipline in which "
     "business intelligence is one optional input, yet enterprise "
@@ -84,14 +84,33 @@ add("h2", "1. Introduction")
 
 add(
     "p",
-    "Enterprise transformation programs are asked to absorb generative and "
-    "agentic AI at a pace that is not compatible with how enterprise standards "
-    "evolve. Standards bodies operate by consensus at intervals of years; the "
-    "platforms currently reshaping the delivery methodology reprice, rebrand, "
-    "and re-scope their offers at intervals of months. In practice this means "
-    "programs must adopt AI before an enterprise-grade standard for using it "
-    "has crystallised. That gap is where fear, over-buying, and integrator "
-    "lock-in enter transformation portfolios.",
+    "The single largest information-technology capital asset most enterprises "
+    "own is not the package they bought. It is the accumulated business "
+    "context they built on top of it — the industry-specific reasoning, the "
+    "structured and unstructured decision history, the configuration and "
+    "customisation choices, and the tacit institutional judgement that has "
+    "been layered onto ERP, CRM, and adjacent platforms for decades. That "
+    "asset is almost always larger than the licences that carry it, and it is "
+    "almost never treated on the balance sheet, in the transformation plan, "
+    "or in the vendor contract as the asset it is. This paper is a framework "
+    "for treating it that way — for making the client's own reasoning the "
+    "asset that a transformation program compounds, rather than the asset it "
+    "quietly leaks to whoever holds the delivery platform.",
+)
+
+add(
+    "p",
+    "The pressure to do this now is structural. Enterprise transformation "
+    "programs are being asked to absorb generative and agentic AI at a pace "
+    "that is not compatible with how enterprise standards evolve. Standards "
+    "bodies operate by consensus at intervals of years; the platforms "
+    "currently reshaping delivery methodology reprice, rebrand, and re-scope "
+    "their offers at intervals of months. Programs must adopt AI before an "
+    "enterprise-grade standard for using it has crystallised. That gap is "
+    "where fear, over-buying, and integrator lock-in enter transformation "
+    "portfolios — and it is also where the client's capital asset is most "
+    "exposed. The framework in this paper is a way to close the gap on the "
+    "client's side of the line rather than the vendor's.",
 )
 
 add(
@@ -118,19 +137,24 @@ add(
     "p",
     "This paper proposes a practitioner framework for using decision "
     "intelligence inside the SAP program context, and stakes three load-bearing "
-    "claims. First, the AI context-reasoning surface for a transformation "
-    "program is a client-side capital asset and must be hosted wholly inside "
-    "the client's DMZ; the systems-integrator-owned pattern that is currently "
-    "consolidating in the market is not neutral. Second, the SAP program "
+    "claims — each of which is a claim about the client's capital asset, not "
+    "a claim about methodology. First, the AI context-reasoning surface for a "
+    "transformation program is a client-side capital asset and must be hosted "
+    "wholly inside the client's DMZ; the systems-integrator-owned pattern "
+    "currently consolidating in the market moves that asset outside the "
+    "client's balance sheet and is not neutral. Second, the SAP program "
     "already has a viable numbering spine in the APQC Process Classification "
     "Framework and its five-digit stable IDs, and using that spine to thread "
     "blueprint, technical design, technical object, test plan, dataset, and "
     "role and authorisation records converts point-in-time deliverables into a "
-    "traceable program record. Third, the constraint on transformation success "
-    "has moved from technical delivery to human adoption, and the plan must be "
-    "resequenced accordingly. The framework is additive: it does not displace "
-    "SAP Cloud ALM, SAP Signavio, SAP Solution Manager, Joule, Jira, or Azure "
-    "DevOps. It orchestrates work around them.",
+    "traceable program record that survives the delivery team's departure. "
+    "Third, the constraint on transformation success has moved from technical "
+    "delivery to human adoption, and the plan must be resequenced so that the "
+    "authorised human decisions — the ones that make the reasoning surface "
+    "defensible as an asset — are rehearsed early rather than at cutover. The "
+    "framework is additive: it does not displace SAP Cloud ALM, SAP Signavio, "
+    "SAP Solution Manager, Joule, Jira, or Azure DevOps. It orchestrates work "
+    "around them and lands the residual with the client.",
 )
 
 add(
@@ -486,7 +510,29 @@ add(
     "practical for the first time. The compounding capital asset is the "
     "sovereign, indexed, and searchable record of what the program decided "
     "and why. Framing this as \"program memory\" rather than \"analytics\" "
-    "changes the buying question.",
+    "changes the buying question — from which platform will host the "
+    "analytics, to which side of the contract holds the resulting asset when "
+    "the engagement ends.",
+)
+
+add(
+    "p",
+    "There is also a defensibility question that the buying conversation "
+    "tends to skip. Copyright, in the US framing, protects fixed expression "
+    "and not ideas, methods, or reasoning patterns (the idea/expression "
+    "dichotomy in 17 U.S.C. \u00a7 102(b), "
+    + L("U.S. Copyright Act, \u00a7 102(b)", "https://www.copyright.gov/title17/92chap1.html#102") +
+    "). Patents can reach further into methods but expire and require public "
+    "disclosure. The regime that actually rewards a client for compounding a "
+    "sovereign reasoning surface inside its own DMZ is trade-secret protection, "
+    "which turns on the client keeping the material confidential and taking "
+    "reasonable measures to do so ("
+    + L("Defend Trade Secrets Act, 18 U.S.C. \u00a7 1836", "https://www.law.cornell.edu/uscode/text/18/1836") +
+    "). Program memory held by an SI is at best jointly held; program memory "
+    "held inside the client's DMZ, under the client's access controls, is the "
+    "legal shape of a trade secret. This is one of the practical reasons the "
+    "framework insists on the client-DMZ location for the reasoning surface, "
+    "independent of the sovereignty argument.",
 )
 
 
