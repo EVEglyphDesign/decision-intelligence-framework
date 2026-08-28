@@ -1,0 +1,475 @@
+{
+ "t5_AI_SAP": [
+  {
+   "url": "https://www.sap.com/products/artificial-intelligence.html",
+   "title": "Joule Business AI Solutions | SAP",
+   "content": "| Field | Extracted information |\n|---|---|\n| Title | **Joule Business AI Solutions \\| SAP** |\n| Author(s) | Not stated |\n| Publisher/journal | Not stated |\n| Publication year | **year not stated** |\n| Claims about AI/generative AI in SAP programs | Joule \u201cenables intent-driven work across every business function by transforming transactional tasks into intelligent, connected workflows that sharpen decisions and accelerate processes.\u201d Joule Assistants and Agents are grounded in SAP\u2019s harmonized data and trusted architecture and \u201cdeliver reliable performance without compromising on compliance, security, or scale.\u201d |\n| Cloud ALM | Not stated |\n| Functional specifications | Not stated |\n| Test scripts | Not stated |\n| Cutover | Not stated |\n| Hypercare | Not stated |",
+   "description": "Joule brings AI assistants and agents together to streamline workflows, automate decisions, and deliver connected intelligence across the enterprise.",
+   "hostname": "SAP SE",
+   "published_date": "2026-08-21",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.sap.com/products/artificial-intelligence/ai-agents.html",
+   "title": "Joule Agents and Joule Assistants - Artificial Intelligence - SAP",
+   "content": "| Requested item | Extracted information |\n|---|---|\n| Exact title | **Joule Agents and Joule Assistants** |\n| Author(s) | Not stated |\n| Publisher/journal | Not stated |\n| Publication year | **year not stated** |\n\nJoule Agents are described as AI agents with business-process expertise that automate workflows at scale, while Joule Assistants use deep role and process context to coordinate Joule Agents and execute complex workflows across the business. The page states that Joule Studio enables teams to create custom AI agents using low-code or pro-code approaches and agent frameworks such as LangChain and LlamaIndex.\n\nThe page does not mention Cloud ALM, functional specifications, test scripts, cutover, or hypercare.",
+   "description": "See how Joule Agents and Joule Assistants help companies analyze data, automate workflows, and support informed decisions autonomously across business domains.",
+   "hostname": "SAP SE",
+   "published_date": "2026-08-25",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://news.sap.com/2025/02/joule-sap-uniquely-delivers-ai-agents/",
+   "title": "How SAP Uniquely Delivers AI Agents with Joule",
+   "content": "| Requested information | Extracted details |\n|---|---|\n| Exact title | **How SAP Uniquely Delivers AI Agents with Joule** |\n| Author(s) | **Brenda Bown**, chief marketing officer of SAP Business AI at SAP |\n| Publisher/journal | Not stated in the page content |\n| Publication year | **2025** |\n| Claims about AI/generative AI in SAP programs | SAP states that **Joule**, its generative AI copilot, provides one integrated experience across the SAP Business Suite, with a unified user interface across business functions and **more than 1,300 skills**. SAP says Joule agents can work together and with business users to execute complex, cross-functional processes, using SAP Business Data Cloud and SAP Knowledge Graph to ground decisions and actions in trusted data and business-process context. |\n| Cloud ALM | Not mentioned in the page content |\n| Functional specifications | Not mentioned in the page content |\n| Test scripts | Not mentioned in the page content |\n| Cutover | Not mentioned in the page content |\n| Hypercare | Not mentioned in the page content |",
+   "description": "SAP have been investing heavily to deliver the full promise of AI agents, including a collection of ready-to-use Joule agents. Learn more.",
+   "author": "Brenda Bown",
+   "hostname": "SAP News Center",
+   "published_date": "2025-02-13",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://news.sap.com/2026/01/sap-business-ai-release-highlights-q4-2025/",
+   "title": "SAP Business AI: Release Highlights Q4 2025",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **SAP Business AI: Release Highlights Q4 2025** |\n| Author(s) | No author is explicitly identified. The page states: \u201cPhilipp Herzig is CTO of SAP SE.\u201d |\n| Publisher/journal | Not explicitly stated on the page. |\n| Publication year | **year not stated** |\n| What it claims about AI/generative AI in SAP programs | The page claims that Joule became more integrated in Q4 2025, including bidirectional integration with Microsoft 365 Copilot, deep research that synthesizes internal SAP data and external web sources, and Joule Preview Landscape capabilities for testing and validating framework updates for two weeks and content updates for four weeks before production release. It also claims that SAP Cloud ALM can use AI to generate business requirements from Fit-to-Standard workshop transcripts, reducing requirements-creation time by up to 50% and subsequent user-story creation time by up to 20%. |\n| Functional specifications, test scripts, cutover, and hypercare | The page does not explicitly mention AI or generative AI capabilities for functional specifications, test scripts, cutover, or hypercare. |",
+   "description": "In Q4 2025, SAP highlighted new models, sovereign cloud offerings, partnerships, and to more enhance the way customers work with AI.",
+   "author": "Philipp Herzig",
+   "hostname": "SAP News Center",
+   "published_date": "2026-01-14",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://news.sap.com/2026/04/sap-business-ai-release-highlights-q1-2026/",
+   "title": "SAP Business AI: Release Highlights Q1 2026 | SAP News Center",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **SAP Business AI: Release Highlights Q1 2026** |\n| Author(s) | **Jonathan von Rueden** |\n| Publisher/journal | **SAP News Center** |\n| Publication year | **2026** |\n| Claims about AI/generative AI in SAP programs | Joule is live across **35 solutions** and is embedded in applications including SAP Datasphere and SAP Intelligent Clinical Supply Management; SAP reports **over 30 specialized agents** and **more than 2,500 Joule Skills**. The page describes AI capabilities including natural-language task execution, document analysis, project setup, testing and development support, finance automation, supply-chain planning, and conversational access to enterprise data. |\n| Cloud ALM, functional specifications, test scripts, cutover, and hypercare | The page does **not explicitly mention SAP Cloud ALM, functional specifications, cutover, or hypercare**. It mentions ABAP Unit test generation for public, protected, and private methods of global ABAP classes and public methods of local classes within global class pools. |",
+   "description": "In Q1 2026, SAP has a new in the chief AI officer role, but an unchanged mission: helping our customers get real value from AI.",
+   "author": "Jonathan von Rueden",
+   "hostname": "SAP News Center",
+   "published_date": "2026-04-14",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://news.sap.com/2026/02/process-conversation-joule-sap-signavio-solutions-generally-available/",
+   "title": "Joule with SAP Signavio Solutions Now Generally Available",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Joule with SAP Signavio Solutions Now Generally Available** |\n| Author(s) | **Lucas de Boer** \u2014 Global Marketing program lead for SAP Signavio |\n| Publisher/journal | Not stated in the page content |\n| Publication year | **Year not stated** |\n| Claims about AI/generative AI in SAP programs | Joule is described as an AI solution that turns siloed data and tasks into intelligent, connected workflows, with AI agents for core functions powered by SAP business process expertise. Joule with SAP Signavio solutions provides conversational, informational, navigational, and transactional capabilities for exploring, understanding, managing, and transforming business processes, with additional analytical capabilities planned for future releases. |\n| Cloud ALM, functional specs, test scripts, cutover, and hypercare | Not mentioned in the page content. |",
+   "description": "Now generally available, your brand new process companion is Joule with SAP Signavio. Learn more about the offering now.",
+   "author": "Lucas de Boer",
+   "hostname": "SAP News Center",
+   "published_date": "2026-02-10",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://community.sap.com/t5/technology-blog-posts-by-sap/ai-in-sap-cloud-alm-takes-monitoring-to-another-level/ba-p/14152014",
+   "title": "AI in SAP Cloud ALM Takes Monitoring to Another Level",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **AI in SAP Cloud ALM Takes Monitoring to Another Level** |\n| Author | **PTownsend** |\n| Publisher/journal | **Technology Blog Posts by SAP** |\n| Publication year | **2025** |\n\n- The article states that Business AI is being continuously infused into **SAP Cloud ALM** and related solutions, with further **Joule** and **agentic AI** scenarios anticipated. It describes AI-enabled **Synthetic User Monitoring**, including automatically computed and predicted dynamic thresholds based on historical execution durations and seasonality, and **Real User Monitoring**, including alert latency, automatically analyzed data distributions, and thresholds that no longer require manual maintenance.\n- It says future SAP Cloud ALM AI capabilities will support **content generation**, reduced configuration efforts, automatic data analysis, and proactive actions, including generating project artifacts such as **documents or requirements** to improve productivity, alert resolution, and project delivery and execution.\n\n| Requested topic | Information in the page |\n|---|---|\n| Joule | Further **Joule** scenarios are described as \u201chovering on the horizon.\u201d |\n| SAP Cloud ALM | Detailed current AI use cases are provided for Synthetic User Monitoring and Real User Monitoring. |\n| Functional specifications | Not stated in the page. |\n| Test scripts | Not stated in the page. |\n| Cutover | Not stated in the page. |\n| Hypercare | Not stated in the page. |",
+   "description": "With Business AI being continuously infused into SAP Cloud ALM and its related solutions, not to mention further Joule and agentic AI scenarios that are hovering on the horizon, let\u2019s look past the buzzwords and dive into some of the real use cases you can find in SAP Cloud ALM right now today \u2013 wit...",
+   "author": "PTownsend Product; Topic Expert",
+   "hostname": "SAP Community",
+   "published_date": "2025-07-17",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://help.sap.com/docs/joule/serviceguide/what-is-joule",
+   "title": "Environment",
+   "content": "| Field | Extracted information |\n|---|---|\n| Title | **Environment** (page title); **What is Joule?** (page heading) |\n| Author(s) | Not stated |\n| Publisher/journal | Not stated |\n| Publication year | year not stated |\n| Claims about AI/generative AI in SAP programs | Joule is described as an AI copilot that understands a user\u2019s business, helps users interact with SAP business systems, directs them to the right application, helps complete certain tasks, and finds information quickly. It provides conversational interactions that simplify access to information and automate business processes; the page does not specifically mention Cloud ALM, functional specifications, test scripts, cutover, or hypercare. |",
+   "hostname": "SAP",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://eajournals.org/ejcsit/vol13-issue32-2025/ai-powered-hyperautomation-in-sap-s-4hana-migration-transforming-erp-transitions/",
+   "title": "AI-Powered Hyperautomation in SAP S/4HANA Migration",
+   "content": "| Requested information | Extracted details |\n|---|---|\n| Exact title | **AI-Powered Hyperautomation in SAP S/4HANA Migration** |\n| Author(s) | Not stated on the page. |\n| Publisher/journal | Not stated on the page. |\n| Publication year | **2025** |\n| Claims about AI/generative AI in SAP programs | The page claims that AI-powered hyperautomation in SAP S/4HANA migration enables intelligent data extraction, automated mapping, predictive risk analytics, and orchestrated cutover execution, while automating repetitive tasks, reducing system downtime, improving data accuracy, and accelerating migration timelines. It does not specifically mention Joule, Cloud ALM, functional specifications, test scripts, hypercare, or generative AI. |",
+   "description": "SAP S/4HANA migration presents organizations with complex challenges requiring extensive data transformation and validation processes. Traditional approaches rely heavily on manual interventions, resulting in increased costs, heightened risks, and frequent errors. Hyperautomation\u2014the strategic integration of Artificial Intelligence (AI), Robotic Process Automation (RPA), and Machine Learning (ML)\u2014is fundamentally transforming SAP migrations through automation of repetitive tasks, [\u2026]",
+   "author": "John Wesly Sajja",
+   "hostname": "European Journal of Computer Science and Information Technology (EJCSIT)",
+   "published_date": "2025-05-31",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://ijcesen.com/index.php/ijcesen/article/view/4016",
+   "title": "Enhancing SAP S/4HANA and Salesforce Quality ...",
+   "content": "- **Exact title:** Enhancing SAP S/4HANA and Salesforce Quality Assurance & Quality Control through AI-Driven Test Automation Frameworks for Regulatory Compliance\n- **Author(s):** Not stated on the page.\n- **Publisher/journal:** *International Journal of Computational and Experimental Science and Engineering*\n- **Publication year:** 2025\n- **Claims about AI/generative AI in SAP programs:** The article introduces an AI-based test automation framework for SAP S/4HANA and Salesforce implementations that uses machine learning algorithms and natural language processing for intelligent test case generation, predictive risk evaluation, self-healing test scripts, and automated compliance checking. The page does not mention SAP Joule, Cloud ALM, functional specifications, cutover, or hypercare.",
+   "description": "Both enterprise resource planning and customer relationship management systems are under increasing pressure to ensure that they remain compliant with their regulations and provide efficient quality assurance processes. The outdated testing models are not capable of keeping up with the dynamics of current enterprise platforms, especially those that are closely regulated, such as the healthcare and medical device manufacturing industries. In this article, an AI-based test automation framework is introduced to support quality assurance and quality control processes during the implementation of SAP S/4HANA and Salesforce by means of machine learning algorithms and natural language processing. It has an intelligent test case generation, predictive risk evaluation, self-healing test scripts, and an automated compliance checking framework. Case studies of implementations show that efficiency of testing, detection of defects, and coverage of regulatory compliance have been greatly enhanced in the financial services and healthcare sectors, as well as within the medical device manufacturing settings. The framework considers major technical issues such as data quality management, the complexity of system integration, and regulatory validation requirements with the help of modular architecture and standard protocols of interfaces.",
+   "author": "Vijay Kumar Kola",
+   "hostname": "International Journal of Computational and Experimental Science and Engineering",
+   "published_date": "2025-10-03",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "http://www.ijlemr.com/papers/volume9-issue10/6-IJLEMR-89005.pdf",
+   "title": "Leveraging Gen AI for Automated Test Script and ...",
+   "content": "- **Exact title:** *Leveraging Gen AI for Automated Test Script and Test Case Generation in SAP ERP Projects*\n- **Author(s):**\n  - Indrajit Roy Chowdhury\n  - Gunjan Goswami\n- **Publisher/journal:** *International Journal of Latest Engineering and Management Research (IJLEMR)*\n- **Publication year:** 2024\n- **Claim about AI/generative AI in SAP programs:** The paper claims that Generative AI can automate the creation of test scripts and test cases for SAP ERP projects by analyzing historical test data, requirements documents, and system logs. It reports improved efficiency, accuracy, and test coverage, including final training accuracy of **93.26%**, validation accuracy of **92.54%**, and test-data metrics of **93% accuracy**, **93% precision**, **100% recall**, and **96% F1 score**.\n- **Specific topics:** Joule, Cloud ALM, functional specifications, cutover, and hypercare are not mentioned in the page content.",
+   "hostname": "ijlemr",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.ijcttjournal.org/archives/ijctt-v72i8p131",
+   "title": "SAP Business Transformation: Steps for Effective Cutover and Data ...",
+   "content": "- **Title:** SAP Business Transformation: Steps for Effective Cutover and Data Migration\n- **Author:** Saurav Mago\n- **Publisher/journal:** *International Journal of Computer Trends and Technology (IJCTT)*\n- **Publication year:** 2024\n- **AI/generative AI claims:** The page lists \u201cGenAI\u201d and \u201cML in SAP\u201d among the keywords, but it does not state specific claims about Joule, Cloud ALM, functional specifications, test scripts, cutover, or hypercare. It states that cutover involves planning, data migration, system testing, and user training, followed by system stabilization and user support during the Hypercare phase.",
+   "description": "ERP SAP Software integrates core business functions into a unified system, enhancing efficiency and data accuracy across an organization. SAP Implementation oft\u2026",
+   "author": "Saurav Mago",
+   "hostname": "Seventh Sense Research Group\u00ae",
+   "published_date": "2024-08-31",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ],
+ "t6_sovereign": [
+  {
+   "url": "https://resources.nvidia.com/en-us-telco-ai-factories-mc/en-us-telco-ai-factories/what-is-sovereign-ai",
+   "title": "What Is Sovereign AI? - NVIDIA",
+   "content": "| Field | Extracted information |\n|---|---|\n| Title | What Is Sovereign AI? |\n| Author | Not stated |\n| Organization | NVIDIA |\n| Publisher | NVIDIA |\n| Publication year | year not stated |\n| Sovereign AI / data residency / on-premise or in-boundary model hosting claim | \u201cSovereign AI refers to a nation\u2019s capabilities to produce artificial intelligence using its own infrastructure, data, workforce and business networks.\u201d \u201cThe latter includes sovereign foundation models, such as large language models, developed by local teams and trained on local datasets to promote inclusiveness with specific dialects, cultures and practices.\u201d |",
+   "description": "Sovereign AI refers to a nation\u2019s capabilities to produce artificial intelligence using its own infrastructure, data, workforce and business networks.",
+   "author": "Angie Lee",
+   "hostname": "NVIDIA Blog",
+   "published_date": "2025-07-31",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://blogs.nvidia.com/blog/sovereign-ai-agents-factories/",
+   "title": "Sovereign AI Agents Think Local, Act Global With AI Factories",
+   "content": "| Requested information | Extracted content |\n|---|---|\n| Exact title | **Sovereign AI Agents Think Local, Act Global With AI Factories** |\n| Author/organization | **NVIDIA**; no individual author is stated. |\n| Publisher | Not explicitly stated. |\n| Publication year | **year not stated** |\n| Sovereign AI / data residency / on-premise or in-boundary model hosting claim | \u201cUsing these tools, enterprises can build scalable AI factories on premises or in the cloud to rapidly create secure, optimized sovereign AI agents.\u201d \u201cOn-premises sovereign AI infrastructure is especially valuable in regulated sectors such as government, finance and healthcare.\u201d |",
+   "description": "Validated design for AI factories pairs accelerated infrastructure with NVIDIA software to streamline full-stack AI development for nations and enterprises.",
+   "author": "Kari Briski",
+   "hostname": "NVIDIA Blog",
+   "published_date": "2025-06-11",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.nvidia.com/en-us/lp/industries/global-public-sector/sovereign-ai-technical-overview/",
+   "title": "A Technical Guide to Building Sovereign AI Models - NVIDIA",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **A Technical Guide to Building Sovereign AI Models** |\n| Author/organization | NVIDIA |\n| Publisher | NVIDIA |\n| Publication year | year not stated |\n\n- \u201cAll infrastructure, whether on\u2011premises or cloud-based, must be located within national borders and subject to robust governance and security to uphold data sovereignty.\u201d",
+   "description": "Download Now.",
+   "hostname": "NVIDIA",
+   "published_date": "2026-08-07",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.reuters.com/business/media-telecom/nvidias-pitch-sovereign-ai-resonates-with-eu-leaders-2025-06-16/",
+   "title": "Nvidia's pitch for sovereign AI resonates with EU leaders",
+   "content": "- **Title:** \u201cNvidia's pitch for sovereign AI resonates with EU leaders\u201d\n- **Author/organization:** Reuters; individual author not stated\n- **Publisher:** Reuters\n- **Publication year:** 2025\n- **Sovereign AI / data residency / in-boundary model hosting claim:** \u201cThis idea revolves around the understanding that the languages, histories, cultures, and knowledge bases of different regions vary significantly, necessitating that each nation cultivates and possesses its own artificial intelligence.\u201d The movement toward sovereign AI could support \u201cregional data infrastructure,\u201d including a local alternative for European enterprises.",
+   "description": "Nvidia CEO Jensen Huang has been pitching the idea of \"sovereign AI\" since 2023. Europe is now starting to listen and act.",
+   "author": "Supantha Mukherjee",
+   "hostname": "www.reuters.com",
+   "published_date": "2025-06-16",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
+   "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
+   "content": "- **Title:** How to Govern Autonomous Agents in Enterprise AI Factories\n- **Author/organization:** Alex Sandu; Sergey Marunich; Jon Fernandez; Ashwin Jha; Nic Borensztein \u2014 NVIDIA\n- **Publisher:** NVIDIA\n- **Publication year:** year not stated\n- **Sovereign AI / data residency / on-premise or in-boundary model hosting claim:** The page does not explicitly claim sovereign AI, data residency, or in-boundary model hosting. It states that the Secure Agent Workspace can be deployed on-premises using Red Hat OpenShift Virtualization or in the cloud using Microsoft Azure, with agent execution remaining within a managed boundary with centralized policy, access control, and auditing.",
+   "description": "AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on behalf of a user.",
+   "author": "Michelle Horton",
+   "hostname": "NVIDIA Technical Blog",
+   "published_date": "2026-06-29",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+   "title": "Regulation - EU - 2024/1689",
+   "content": "| Field | Extracted information |\n|---|---|\n| **Exact title** | **Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (Text with EEA relevance)** |\n| **Author/organization** | European Parliament and the Council of the European Union |\n| **Publisher** | Official Journal of the European Union, **OJ L, 2024/1689, 12.7.2024**; document hosted on EUR-Lex |\n| **Publication year** | 2024 |\n\nThe page does not explicitly make a claim using the terms **\u201csovereign AI,\u201d \u201cdata residency,\u201d \u201con-premise hosting,\u201d** or **\u201cin-boundary model hosting.\u201d** It states that the Regulation applies to providers and deployers established in third countries where the AI system\u2019s output is used in the Union, while Union law on personal-data protection, privacy and communications confidentiality continues to apply to personal data processed under the Regulation.",
+   "hostname": "eur-lex.europa.eu",
+   "published_date": "2024-07-12",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/779251/EPRS_BRI(2025)779251_EN.pdf",
+   "title": "Cloud and AI Development act - europarl.europa.eu",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Cloud and AI development act** |\n| Author/organization | **Tristan Marcelin, Members' Research Service, EPRS** |\n| Publisher | **European Parliamentary Research Service (EPRS)** |\n| Publication year | **2025** |\n| Sovereign AI / data residency / on-premise or in-boundary model hosting claim | The third pillar focuses on ensuring that \u201ca set of narrowly defined highly critical use cases can be operated using highly secure EU-based cloud capacity.\u201d The Commission\u2019s cloud sovereignty framework identifies the maximum assurance level as one where \u201cthe technology and operations are under complete EU control and only subject to EU law\u201d; however, non-European sovereign cloud solutions would not fully eliminate the risk of external interference. |",
+   "hostname": "europa",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://arxiv.org/html/2509.18101v1",
+   "title": "A Cost-Benefit Analysis of On-Premise Large Language Model ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **A Cost-Benefit Analysis of On-Premise Large Language Model Deployment: Breaking Even with Commercial LLM Services** |\n| Author(s) | **Guanzhong Pan**; **Haibo Wang** |\n| Organization | **Carnegie Mellon University** |\n| Publisher | **arXiv** |\n| Publication year | **2025** |\n| Sovereign AI / data residency / in-boundary model hosting claim | On-premise deployments give organizations full control of infrastructure and ensure that sensitive data remain in-house rather than being used for external model training. The paper states that on-premise deployment is viable primarily for organizations with extreme high-volume processing requirements (**\u226550M tokens/month**) or strict data residency mandates. |",
+   "author": "Guanzhong Pan Affiliation Carnegie Mellon University arthurp cmu edu",
+   "hostname": "arxiv.org",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.innoq.com/en/articles/2025/09/on-premise-llms-strategischer-hebel/",
+   "title": "Think Locally: On-Premise LLMs as Drivers of Competitive Advantage",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Think Locally: On-Premise LLMs as Drivers of Competitive Advantage** |\n| Author/organization | Not stated |\n| Publisher | Not stated |\n| Publication year | **year not stated** |\n| Sovereign AI / data residency / in-boundary model hosting claim | Local deployment of open-weights models enables organisations to maintain data within their own infrastructure while retaining control over model versions and updates. Running open-weights LLMs locally keeps intellectual property, personally identifiable information, and financial records within the corporate network and hardware throughout operation; in the case of software engineers\u2019 devices, no data leave the workstation.",
+   "description": "Consider this scenario: Your organisation has integrated AI tools into critical business processes, your legal team has carefully reviewed data processing agreements, and your IT department has configured systems to comply with GDPR requirements. Then, a foreign court issues an order that overrides all these protections, requiring your AI provider to indefinitely retain data that should be deleted\u2014including potentially sensitive corporate information shared by your employees.",
+   "author": "Jan St\u0119pie\u0144",
+   "hostname": "www.innoq.com",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ],
+ "t7_memory": [
+  {
+   "url": "https://www.standishgroup.com/",
+   "title": "The Standish Group",
+   "content": "| Exact title | Author(s)/organization | Publisher | Publication year | What it documents |\n|---|---|---|---|---|\n| CHAOS Report Beyond Infinity (digital version) | The Standish Group (site organization) | Not stated | year not stated | The page does not state what it documents about project outcomes/failure rates, knowledge transfer, or knowledge loss. |\n| CHAOS Report: Decision Latency Theory | The Standish Group (site organization) | Not stated | year not stated | The page does not state what it documents about project outcomes/failure rates, knowledge transfer, or knowledge loss. |\n| Good Sponsor Guide | The Standish Group (site organization) | Not stated | year not stated | The page does not state what it documents about project outcomes/failure rates, knowledge transfer, or knowledge loss. |\n| Good Place Guide | The Standish Group (site organization) | Not stated | year not stated | The page does not state what it documents about project outcomes/failure rates, knowledge transfer, or knowledge loss. |\n| Public Execution of Miss Scarlet (digital version) | The Standish Group (site organization) | Not stated | year not stated | The page does not state what it documents about project outcomes/failure rates, knowledge transfer, or knowledge loss. |\n| Good Team Guide | The Standish Group (site organization) | Not stated | year not stated | The page does not state what it documents about project outcomes/failure rates, knowledge transfer, or knowledge loss. |",
+   "description": "Project management consulting",
+   "hostname": "The Standish Group",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.pmi.org/learning/library/knowledge-transfer-project-management-offices-1468",
+   "title": "How to facilitate the knowledge transfer",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **How to facilitate the knowledge transfer** |\n| Author(s)/organization | **Not stated in the page content.** |\n| Publisher | **Not stated in the page content.** |\n| Publication year | **year not stated** |\n| Relevant content | The paper documents a systematic approach to transferring project knowledge from external and internal sources to where it should be applied. It identifies the individual, project, and organisational levels, and states that an incentive system, a data repository, and a reporting system are needed for an integrated knowledge-transfer solution; the PMO is described as the architect and facilitator of knowledge transfers between these levels. |\n| Figures stated | The page states that studies covered **more than 400 companies**, of which **272 reported having PMOs**; among those 272 PMOs, **8%** did not support knowledge-management processes, **46%** supported some, **41%** supported most, and **4%** supported all. It also states that **almost 38% of the 403 PMOs** investigated addressed the need to create and maintain a data repository. |\n| Project outcomes/failure rates | **No project failure rates are stated in the page content.** |\n| Knowledge loss | The page states that knowledge transfer is difficult when knowledge is held by individuals, who may trade it informally through the \u201cgrapevine effect,\u201d leaving people outside the specific social network unable to gain from others\u2019 knowledge. It also warns that if most staff leave a relatively small organisation, ongoing projects can be seriously jeopardised. |",
+   "description": "Knowledge transfer is crucial to a company's operations. This paper proposes that project management offices (PMOs) should play an important role in managing knowledge transfer. An emphasis on data repository, incentives, and reporting systems as key elements leads to a discussion of the routes knowledge transfer takes at the individual, project, and organizational levels.",
+   "author": "Spalek; Seweryn",
+   "hostname": "Pminstitute",
+   "published_date": "2014-05-05",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pulse/capture-value-knowledge-transfer.pdf",
+   "title": "[PDF] PROJECT MANAGEMENT - PMI",
+   "content": "| Field | Extracted information |\n|---|---|\n| **Exact title** | **Capturing the Value of Project Management Through Knowledge Transfer** |\n| **Author(s)/organization** | **Project Management Institute (PMI)**; introduction by **Larry Prusak**; opening message by **Mark A. Langley**, President and CEO, Project Management Institute |\n| **Publisher** | **Project Management Institute, Inc.** |\n| **Publication year** | **2015** |\n\nThe report documents that organizations most effective at knowledge transfer improve project outcomes by **nearly 35 percent** and are **three times as likely** to have a formal knowledge-transfer process (**92 percent compared with 33 percent**). It also states that **one in three unsuccessful projects (34 percent)** is adversely affected by untimely or inaccurate knowledge transfer; the most-effective organizations report **82 percent** of projects meeting original goals/business intent, **74 percent** completed on time, and **75 percent** completed within budget, compared with **62 percent**, **42 percent**, and **48 percent**, respectively, among the least-effective organizations.",
+   "hostname": "pmi",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0268401208001606",
+   "title": "Knowledge transfer processes in IT outsourcing relationships and their impact on shared knowledge and outsourcing performance",
+   "content": "**Title:** Knowledge transfer processes in IT outsourcing relationships and their impact on shared knowledge and outsourcing performance\n\n**Authors:** Stefan Blumenberg; Heinz-Theo Wagner; Daniel Beimborn\n\n**Publisher:** Not stated\n\n**Publication year:** 2009\n\n**What it documents:** The page identifies a work about knowledge transfer processes in IT outsourcing relationships and their impact on shared knowledge and outsourcing performance. No further details about project outcomes, failure rates, knowledge loss, or specific figures are provided because the page content could not be displayed.",
+   "hostname": "sciencedirect",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://dl.acm.org/doi/abs/10.4018/irmj.2005040101",
+   "title": "Tacit Knowledge Sharing During ERP Implementation: A Multi-Site Case Study: Information Resources Management Journal: Vol 18, No 2",
+   "content": "- **Title:** Tacit Knowledge Sharing During ERP Implementation: A Multi-Site Case Study\n- **Author(s)/organization:** Not stated\n- **Publisher:** Not stated\n- **Publication year:** year not stated\n- **What it documents:** The study examines tacit knowledge sharing during enterprise resource planning (ERP) implementation and presents findings from interviews conducted at three firms that implemented ERP. It identifies and categorizes facilitators of tacit knowledge sharing, proposes which facilitators seem to result in the most sharing, and provides guidelines for practitioners.",
+   "description": "This study examines tacit knowledge sharing in enterprise resource planning ERP implementation. There is often a large gap in knowledge among ERP implementation personnel because of ERP's cross-functional nature. An underlying assumption of knowledge ...",
+   "author": "JonesMary C",
+   "hostname": "Information Resources Management Journal",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.diva-portal.org/smash/get/diva2:829255/FULLTEXT01.pdf",
+   "title": "Tacit Knowledge Preservation at Vendor Organizations in ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | *Tacit Knowledge Preservation at Vendor Organizations in Offshore Outsourcing Software Development* |\n| Author(s) | Praveen Shivakumar; Krishna kanth Vijapurapu |\n| Organization | School of Computing, Blekinge Institute of Technology, SE-371 79 Karlskrona, Sweden |\n| Publisher | Not explicitly stated |\n| Publication year | 2014 \u2014 March 2014 |\n| Project outcomes, failure rates, knowledge transfer, and knowledge loss | The thesis documents that high personnel turnover increases the cost of knowledge transfer because clients must repeat knowledge transfer with replacement staff, increasing control and coordination effort; it can also lead to loss or termination of offshore outsourcing relationships because of increased cost and low quality. The survey received 142 responses, of which 53 were selected for analysis; only 8 of 53 tacit knowledge preservation techniques were reported as being used by more than 25% of survey participants, leading the authors to recommend making the tacit knowledge preservation process mandatory in every software project. |",
+   "hostname": "diva-portal",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "http://www.diva-portal.org/smash/get/diva2:4611/FULLTEXT01.pdf",
+   "title": "[PDF] Knowledge Transfer within ERP Implementations - DiVA portal",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Knowledge Transfer within ERP Implementations** |\n| Author(s) | **Ilia Revia** |\n| Organization | **H\u00f6gskolan i J\u00f6nk\u00f6ping** |\n| Publisher | **Not stated** |\n| Publication year | **2007** |\n\nThe thesis documents that ERP implementation failure rates are estimated at **40% to 60% or higher**, and that **90% of ERP projects end up late or over budget**. It identifies major knowledge-transfer barriers as the **tacit nature of knowledge** and the **lack of social relationships** among stakeholders; important implementation knowledge may also **vanish soon after implementation**, making knowledge transfer and retention necessary.",
+   "hostname": "diva-portal",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.ingka.com/static/ingkagroup_annualsummaryandsustainabilityreport_fy24.pdf",
+   "title": "Ingka Group Annual Summary and Sustainability Report",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Ingka Group Annual Summary and Sustainability Report FY24** |\n| Author(s)/organization | **Ingka Group**; no individual report author is named. The report covers entities controlled by **Ingka Holding B.V.** |\n| Publisher | **Ingka Holding B.V.** |\n| Publication year | **2025** |\n| Digital/business transformation, technology investment and restructuring | In FY24, Ingka Group invested in logistics and automation solutions, strengthened its use of AI, rolled out new IKEA app features, launched the IKEA AI assistant in the OpenAI GPT store in the US, used **300 drones** for inventory checks across **nine countries**, and continued testing smart warehouse robots in South Korea, Japan and China; the IKEA app was downloaded **18.9 million times**, had over **273 million visits**, and IKEA Kreativ had over **2.9 million active users** in **29 countries**. |\n| Digital/business transformation, technology investment and restructuring | Ingka Group\u2019s FY24 capital expenditure was **EUR 3.4 billion**, including investments in business transformation, fulfilment capabilities, customer experiences, renewable energy and forestland; the Group also reduced the number of group-level decision-making bodies and devolved more decision-making to managers in the business and Group functions. |",
+   "hostname": "ingka",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.ingka.com/newsroom/creating-a-simpler-more-resilient-ikea-for-the-future/",
+   "title": "Creating a simpler, more resilient IKEA for the future",
+   "content": "| Field | Extracted information |\n|---|---|\n| Title | **Creating a simpler, more resilient IKEA for the future** |\n| Author(s)/organization | **Ingka Group**; no individual author is stated. |\n| Publisher | **Not stated on the page.** |\n| Publication year | **year not stated** |\n\nIngka Group is simplifying its organisation to strengthen IKEA retail, place stores at the core of its omnichannel business, invest in digital capabilities, and enable faster decisions, lower costs and lower prices; as a result, **800 roles may become redundant within Group Functions**. The company has invested **more than EUR 2.1 billion** to lower prices and support consumers, invested or committed around **EUR 4.2 billion** in renewable energy and related technologies with up to **EUR 7.5 billion planned by 2030**, acquired logistics technology company **Locus in 2025**, and plans to open **up to 20** smaller-city and suburban stores by September, creating **500 new roles**.",
+   "description": "Ingka Group is accelerating its long-term journey to become more affordable, accessible and sustainable \u2013 for generations to come. By strengthening its focus on its core business, IKEA retail, the company is simplifying its organisation while investing in new and existing IKEA stores and advancing its digital capabilities.",
+   "hostname": "Ingka Group",
+   "published_date": "2026-03-19",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.ingka.com/newsroom/ingka-group-takes-next-steps-to-become-even-more-resilient-for-the-future/",
+   "title": "Ingka Group takes next steps to become even more ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| **Title** | **Ingka Group takes next steps to become even more resilient for the future** |\n| **Author(s)/organization** | Ingka Group; no individual author is stated. |\n| **Publisher** | Ingka Group / Ingka.com |\n| **Publication year** | year not stated |\n\nIngka Group documents business transformation and technology investment aimed at creating a more accessible, affordable, sustainable omnichannel IKEA experience, including substantial investment in store expansion, existing-store revamping, digital development, new digital tools and services, automation, and improved ways of working. The restructuring includes designing a more efficient organization: **55 office-based global-function jobs in Malm\u00f6 are at risk of redundancy in Sweden**, while Ingka Group has **594 customer meeting places, including 375 flagship stores**, opened **43 new locations worldwide last year**, and continues adding new stores and plan-and-order points.",
+   "description": "Ingka Group is on a journey to create a better IKEA that is more accessible, affordable, and sustainable. The company is investing substantially in expansion and revamping existing stores, as well as digital development, to create a unique omnichannel experience for its customers. The company is committed to keeping prices as low as possible and accelerating its efforts to further reduce its climate footprint across the value chain, while also looking into how it can increase efficiency and simplify ways of working to ensure it is financially fit for generations to come.",
+   "hostname": "Ingka Group",
+   "published_date": "2025-09-03",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://tech.ingka.com/newsfeed",
+   "title": "Newsfeed",
+   "content": "- **Exact title:** Newsfeed\n- **Author(s)/organization:** Ingka Digital\n- **Publisher:** Not stated\n- **Publication year:** year not stated\n- **What it documents:** The page is labeled \u201cNews from Ingka Digital.\u201d It directs readers to the Ingka.com Newsroom for news about Ingka and IKEA and to the Flat Pack Tech blog for technology-related topics.\n- **Project outcomes/failure rates, knowledge transfer or knowledge loss, digital/business transformation, technology investment, restructuring, and figures:** None stated.",
+   "description": "We are Ingka Group",
+   "hostname": "tech.ingka.com",
+   "published_date": "2025-03-25",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.cs.vu.nl/~x/the_rise_and_fall_of_the_chaos_report_figures.pdf",
+   "title": "The Rise and Fall of the Chaos Report Figures",
+   "content": "- **Title:** *The Rise and Fall of the Chaos Report Figures*\n- **Author(s)/organization:** J. Laurenz Eveleens and Chris Verhoef, Vrije Universiteit Amsterdam\n- **Publisher:** IEEE Computer Society\n- **Publication year:** 2010\n- **Project outcomes/failure rates:** The article documents that the Standish Group reported a 16% software project success rate, 53% challenged projects, and 31% failed projects in 1994; its later 2009 figures were 32% successful, 44% challenged, and 24% failed. The authors analyzed 5,457 forecasts from 1,211 real-world projects and concluded that the Standish definitions and resulting success and failure rates are misleading, one-sided, distort estimation practices, and produce meaningless figures.",
+   "hostname": "vu",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ],
+ "t8_HITL": [
+  {
+   "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+   "title": "AI Risk Management Framework - NIST",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **AI Risk Management Framework** |\n| Author(s) | Not stated. The page states that the framework was developed by NIST, led by the Information Technology Laboratory (ITL) AI Program, and in collaboration with the private and public sectors. |\n| Publisher/journal/standards body | **National Institute of Standards and Technology (NIST)** |\n| Publication year | **2023** \u2014 released on January 26, 2023 |\n| Human oversight / human-in-the-loop | The page does not explicitly state requirements or findings regarding human oversight or human-in-the-loop processes in AI systems. It states that the framework is intended for voluntary use and to improve the ability to incorporate trustworthiness considerations into the design, development, use, and evaluation of AI products, services, and systems. |",
+   "hostname": "NIST",
+   "published_date": "2021-07-12",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+   "title": "Artificial Intelligence Risk Management Framework (AI ...",
+   "content": "- **Exact title:** *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*\n- **Author(s):** National Institute of Standards and Technology (NIST)\n- **Publisher/journal/standards body:** National Institute of Standards and Technology, U.S. Department of Commerce\n- **Publication year:** 2023\n\n- **Human oversight / human-in-the-loop requirements and findings:**\n  - The Framework states that processes for human oversight must be defined, assessed, and documented in accordance with organizational policies. It also requires organizations to define and differentiate roles and responsibilities for human-AI configurations and oversight of AI systems.\n  - Human oversight may be necessary when an AI system cannot detect or correct errors; practical AI safety approaches include real-time monitoring and the ability to shut down, modify, or introduce human intervention into systems that deviate from intended or expected functionality. It also notes that human-AI configurations can range from fully autonomous to fully manual, and that some systems may not require human oversight while others specifically require it.",
+   "hostname": "nist",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.iso.org/standard/42001",
+   "title": "ISO/IEC 42001:2023 - AI management systems",
+   "content": "- **Exact title:** ISO/IEC 42001:2023 - AI management systems\n- **Author(s):** Not stated\n- **Publisher/standards body:** ISO/IEC\n- **Publication year:** 2023\n- **Human oversight / human-in-the-loop:** The page does not explicitly state requirements or findings regarding human oversight or human-in-the-loop mechanisms in AI systems. It states that ISO/IEC 42001 specifies requirements for the responsible development, provision, or use of AI systems and provides guidance for managing AI-related risks and opportunities across an organization.",
+   "description": "Information technology \u2014 Artificial intelligence \u2014 Management system",
+   "hostname": "ISO",
+   "published_date": "2023-12-18",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.iso.org/artificial-intelligence/ai-management-systems",
+   "title": "AI management systems: What businesses need to know - ISO",
+   "content": "| Requested information | Extracted content |\n|---|---|\n| Exact title | **AI management systems: What businesses need to know - ISO** |\n| Author(s) | Not stated |\n| Publisher/journal/standards body | **ISO**; the page discusses **ISO/IEC 42001**, described as \u201cthe world\u2019s first AI management system standard.\u201d |\n| Publication year | year not stated |\n| Human oversight / human-in-the-loop | The page states that an AI system\u2019s input, including predefined rules and data, \u201ccan be provided by humans or machines.\u201d It also says ISO/IEC 42001\u2019s \u201cPlan-Do-Check-Act\u201d approach ensures that \u201cthe correct level of oversight is in place,\u201d but it does not specify detailed human-in-the-loop requirements. |",
+   "description": "With the risks and complexity of AI, it\u2019s important to have robust governance mechanisms. AI management systems play a crucial role in the development and deployment of AI technologies.",
+   "hostname": "ISO",
+   "published_date": "2024-01-31",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://artificialintelligenceact.eu/article/14/",
+   "title": "Article 14: Human Oversight | EU Artificial Intelligence Act",
+   "content": "- **Title:** Article 14: Human Oversight\n- **Author(s):** Not stated\n- **Publisher/journal/standards body:** Not stated\n- **Publication year:** year not stated\n- **Requirements regarding human oversight:** High-risk AI systems must be designed and developed with appropriate human-machine interface tools so that natural persons can effectively oversee them while they are in use. Human oversight must aim to prevent or minimise risks to health, safety, or fundamental rights and must enable oversight personnel to understand the system\u2019s capabilities and limitations, monitor its operation, detect anomalies and dysfunctions, account for automation bias, correctly interpret outputs, disregard or override outputs, and intervene or stop the system safely.\n- **Additional human-in-the-loop requirement:** For high-risk AI systems referred to in point 1(a) of Annex III, deployers generally may not take action or decisions based on the system\u2019s identification unless it has been separately verified and confirmed by at least two competent, trained, and authorised natural persons; this requirement does not apply where Union or national law considers it disproportionate for law enforcement, migration, border control, or asylum purposes.",
+   "hostname": "artificialintelligenceact.eu",
+   "published_date": "2026-08-02",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tandfonline.com/doi/full/10.1080/17579961.2023.2245683",
+   "title": "'Human oversight' in the EU artificial intelligence act",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | \u201c\u2018Human oversight\u2019 in the EU artificial intelligence act\u201d |\n| Author(s) | Lena Enqvist |\n| Publisher/journal/standards body | Not stated in the provided page content |\n| Publication year | 2023 |\n| Human oversight / human-in-the-loop finding | Article 14 of the proposed EU Artificial Intelligence Act would require high-risk AI systems to be designed and developed so they can be effectively overseen by natural persons during use. The oversight should aim to prevent or minimise risks to health, safety, and fundamental rights, including by enabling human overseers to understand system capacities and limitations, detect anomalies, avoid automation bias, interpret outputs, disregard or override outputs, and interrupt the system. |\n| Limitations identified | The article finds that the draft provides limited detail on what human overseers must examine, when oversight must be performed, and who specifically must perform it. It places primary responsibility on providers to install technical oversight capabilities before market placement or use, leaving users substantial discretion in organising and performing oversight and creating a risk of superficial human involvement. |",
+   "description": "Human oversight has been much stressed and discussed as a safeguarding measure to ensure human centrism in AI deployment. Through its proposal of a new EU Artificial Intelligence Act, the Commissio...",
+   "author": "Lena Enqvist",
+   "hostname": "Taylor & Francis",
+   "published_date": "2023-07-03",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147196",
+   "title": "Human Oversight under Article 14 of the EU AI Act",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Human Oversight under Article 14 of the EU AI Act** |\n| Author(s) | Not stated on the page |\n| Publisher/journal/standards body | Not stated on the page |\n| Publication year | **2025** \u2014 the page states \u201cDate Written: February 14, 2025\u201d and \u201c15 Pages Posted: 22 Apr 2025.\u201d |\n| Human oversight / human-in-the-loop | Article 14 requires providers of high-risk AI systems to create the technical and operational conditions for effective human oversight, primarily to prevent risks to health, safety, and fundamental rights through output correction, while also preserving human agency and building trust in AI systems. The page finds that human oversight can be limited by cognitive constraints and automation bias, requiring implementation that avoids overreliance on human oversight as a standalone safeguard. |",
+   "description": "This chapter analyses the human oversight requirement for high-risk AI systems under Article 14 AI Act, a provision that marks a significant development i",
+   "author": "Fink; Melanie",
+   "hostname": "papers.ssrn.com",
+   "published_date": "2025-02-14",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.mdpi.com/1099-4300/28/4/377",
+   "title": "Human-in-the-Loop Artificial Intelligence: A Systematic Review of Concepts, Methods, and Applications",
+   "content": "- **Title:** Human-in-the-Loop Artificial Intelligence: A Systematic Review of Concepts, Methods, and Applications\n- **Authors:** Konstantinos Lazaros; Aristidis G. Vrahatis; Sotiris Kotsiantis\n- **Publisher/journal/standards body:** MDPI; *Entropy*\n- **Publication year:** 2026\n- **What it requires/finds regarding human oversight / human-in-the-loop in AI systems:** The review specifies HITL AI as a design paradigm in which human input has operational impact on AI model development, deployment, supervision, or governance. It finds that effective oversight requires appropriate authority, information, time, expertise, and the ability to evaluate and override AI decisions; high-stakes applications generally require tighter human control, while oversight must also address scalability, cognitive load, trust calibration, fairness, accountability, and adversarial manipulation.",
+   "description": "The integration of human judgment into artificial intelligence (AI) systems has emerged as a key research direction, particularly for high-stakes applications where full automation remains insufficient. Human-in-the-Loop (HITL) AI represents a field that combines machine learning capabilities with human oversight, feedback, and decision-making at various stages of the AI pipeline. This survey provides a systematic review of HITL approaches, covering theoretical foundations, technical methods, ethical considerations, and domain-specific applications. We propose a unified taxonomy that categorizes HITL systems based on loop placement, interaction granularity, and temporal characteristics. This review synthesizes findings from healthcare, autonomous systems, cybersecurity, and other high-risk domains where human oversight is essential. We also examine the challenges of scalability, cognitive load, and trust calibration that affect the practical deployment of HITL systems. The final section outlines open research directions and introduces a framework for designing effective human\u2013AI collaborative systems.",
+   "author": "Konstantinos Lazaros; Aristidis G Vrahatis; Sotiris Kotsiantis; Lazaros; Konstantinos; Vrahatis; Aristidis G; Kotsiantis; Sotiris",
+   "hostname": "MDPI",
+   "published_date": "2026-03-26",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "http://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/SydLawRw/2021/2.html",
+   "title": "Buckley, Ross P; Zetzsche, Dirk A; Arner, Douglas W; Tang, Brian W --- \"Regulating Artificial Intelligence in Finance: Putting the Human in the Loop\" [2021] SydLawRw 2; (2021) 43(1) Sydney Law Review 43",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | \u201cRegulating Artificial Intelligence in Finance: Putting the Human in the Loop\u201d |\n| Author(s) | Ross P Buckley; Dirk A Zetzsche; Douglas W Arner; Brian W Tang |\n| Publisher/journal/standards body | *Sydney Law Review*, 43(1) |\n| Publication year | 2021 |\n| Findings/requirements regarding human oversight / human-in-the-loop | The article argues that the most effective regulatory approaches to AI in finance bring humans into the loop through personal responsibility regimes, eliminating the \u201cblack box\u201d argument as a defence to responsibility and legal liability for AI operations and decisions. It proposes requiring three internal governance tools: **(1) AI due diligence; (2) AI explainability; and (3) AI review committees**, supported by designated senior managers\u2019 personal responsibility for AI systems. |",
+   "description": "Australasian Legal Information Institute (AustLII), a joint facility of UTS and UNSW Faculties of Law.",
+   "hostname": "austlii.edu.au",
+   "published_date": "2024-01-05",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://ideas.repec.org/a/inm/ormnsc/v72y2026i1p242-264.html",
+   "title": "Evidence from a Field Experiment on Human\u2013AI ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| **Exact title** | **My Advisor, Her AI, and Me: Evidence from a Field Experiment on Human\u2013AI Collaboration and Investment Decisions** |\n| **Author(s)** | Cathy (Liu) Yang; Kevin Bauer; Xitong Li; Oliver Hinz |\n| **Publisher** | INFORMS |\n| **Journal** | *Management Science* |\n| **Standards body** | Not stated |\n| **Publication year** | 2026 |\n\nThe study finds that having a human banker in the loop of AI-based financial advisory, with the banker given the final say over the advice, does not compromise advice quality. Bank customers are more likely to align their final investment decisions with human\u2013AI collaborative advice than with pure AI advice, particularly for riskier investments; the increased persuasive efficacy is attributed largely to human involvement serving as a peripheral cue that enhances the advice\u2019s affective appeal rather than to perceived complementarities in human and AI capabilities.",
+   "description": "Amid ongoing policy and managerial debates on keeping humans in the loop of artificial intelligence (AI) decision-making processes, we investigate whether human involvement in AI-based service product",
+   "author": "Cathy Yang; Kevin Bauer; Xitong Li; Oliver Hinz",
+   "hostname": "Management Science",
+   "published_date": "2026-02-02",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ]
+}

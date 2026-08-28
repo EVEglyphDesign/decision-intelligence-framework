@@ -1,0 +1,262 @@
+{
+ "acad_DI": [
+  {
+   "url": "https://www.journaldtai.com/index.php/jdtai/article/view/47",
+   "title": "Decision Intelligence: Merging AI and Analytics for ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Decision Intelligence: Merging AI and Analytics for Strategic Gains** |\n| Author(s) | **Jan Kowalski** |\n| Journal | **Digital Transformation and Administration Innovation** |\n| Publisher | **Not stated on the page** |\n| Publication year | **2024** in the \u201cHow to Cite\u201d entry; the issue is listed as **Vol. 1 No. 2 (2023): Serial Number 2** |\n| Definition/positioning of decision intelligence | The study explores decision intelligence as the combination of **artificial intelligence (AI) and analytics** to enhance strategic decision-making processes within organizations. It positions decision intelligence as providing strategic advantages such as improved decision-making accuracy, cost efficiency, competitive advantage, and decision speed, while also involving challenges including data integration issues, algorithmic bias, system interoperability, and high implementation costs. |",
+   "description": "This study aims to explore the role of decision intelligence, combining artificial intelligence (AI) and analytics, in enhancing strategic decision-making processes within organizations. A qualitative research approach was employed, utilizing semi-structured interviews to collect data from 22 participants recruited from online platforms. The study adopted a theoretical saturation approach, with interviews continuing until no new insights were observed. Data were analyzed using NVivo software, and open coding was employed to identify key themes, subcategories, and concepts within the dataset. The analysis revealed four main themes: 1) Strategic Benefits of Decision Intelligence, which emphasized the positive impacts on decision-making accuracy, cost efficiency, and competitive advantage; 2) Integration Challenges, identifying barriers such as data integration issues, algorithmic bias, system interoperability, and high implementation costs; 3) AI-Driven Analytics Techniques, which highlighted the importance of predictive models, real-time analytics, sentiment analysis, and data visualization in enhancing decision-making; and 4) Future Prospects and Innovations, which pointed to the potential for next-generation AI models and human-centric innovations in shaping future strategic decision-making. The findings suggest that while decision intelligence offers significant strategic advantages, including improved decision speed and accuracy, its successful implementation is hindered by several challenges. Addressing data integration issues, mitigating algorithmic bias, and managing the high costs of implementation are crucial for organizations to fully realize the potential of decision intelligence. Future research should focus on expanding the sample size and exploring the long-term effects of decision intelligence on organizational performance.",
+   "author": "Jan Kowalski",
+   "hostname": "Digital Transformation and Administration Innovation",
+   "published_date": "2024-10-01",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://journals.sagepub.com/doi/full/10.1177/22779752211017386",
+   "title": "Decision Intelligence: Creating a Fit between Intelligence Requirements and Intelligence Processing Capacities - Roger Moser, Srinath Rengarajan, Gopalakrishnan Narayanamurthy, 2021",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Decision Intelligence: Creating a Fit between Intelligence Requirements and Intelligence Processing Capacities** |\n| Author(s) | Roger Moser; Srinath Rengarajan; Gopalakrishnan Narayanamurthy |\n| Journal | **IIM Kozhikode Society & Management Review** |\n| Publisher | Not stated in the page content |\n| Publication year | **2021** \u2014 first published online June 16, 2021 |\n| Definition/positioning of decision intelligence | \u201cThis paper conceptualizes a \u2018*Decision Intelligence*\u2019 framework for achieving such a fit\u201d between the intelligence required for decisions and how companies gather and process intelligence. The framework comprises four elements: **Decision Context**, **Framework Proficiency**, **Intelligence Access**, and **Decision Proficiency**. |",
+   "description": "Dynamic business environments throw up many challenges for senior executives. To make strategic decisions in such environments, it is crucial for them to find t...",
+   "author": "Roger Moser; Srinath Rengarajan; Gopalakrishnan Narayanamurthy",
+   "hostname": "Sage Journals",
+   "published_date": "2021-07-19",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://ideas.repec.org/a/das/njaigs/v7y2024i01p304-319id361.html",
+   "title": "A Decision Intelligence Framework: Integrating Human ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **A Decision Intelligence Framework: Integrating Human Intuition with Ai Models** |\n| Author(s) | Not stated on the page. |\n| Journal/publisher | Not stated on the page. |\n| Publication year | **2024** |\n| Definition or positioning of decision intelligence | The page does not state how the work defines or positions decision intelligence. |\n| Gartner hype cycle position/innovation | Not applicable; the page does not contain Gartner information. |",
+   "description": "Decision intelligence (DI) has emerged as a transformative interdisciplinary field that integrates data science, social science, and managerial expertise to improve complex decision-making processes.",
+   "author": "Nazia Tasleem; Raghvendra Singh Raghav; Mohammed Nadeem Ansari; Anuradha Jaggi Sharma",
+   "hostname": "Journal of Artificial Intelligence General science (JAIGS) ISSN:3006-4023",
+   "published_date": "2024-01-01",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://ideas.repec.org/a/for/ijafaa/y2024i74p42-44.html",
+   "title": "Decision Intelligence: A Critical Reflection",
+   "content": "- **Title:** Decision Intelligence: A Critical Reflection\n- **Author:** Roger Moser\n- **Journal:** *Foresight: The International Journal of Applied Forecasting*\n- **Publisher:** International Institute of Forecasters\n- **Publication year:** 2024\n- **Decision intelligence:** The article provides guidance for applying decision intelligence\u2019s data-to-action process to improve decision making.",
+   "description": "Moser provides guidance for applying DI's data-to-action process to improve decision making. Copyright International Institute of Forecasters, 2024",
+   "author": "Roger Moser",
+   "hostname": "Foresight: The International Journal of Applied Forecasting",
+   "published_date": "2024-02-02",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.gartner.com/en/articles/hype-cycle-for-artificial-intelligence",
+   "title": "The 2025 Hype Cycle for Artificial Intelligence Goes Beyond GenAI",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **The 2025 Hype Cycle for Artificial Intelligence Goes Beyond GenAI** |\n| Author(s) | Haritha Khandabattu |\n| Journal/publisher | Gartner |\n| Publication year | 2025 |\n| Decision intelligence definition or positioning | Decision intelligence is not explicitly defined or discussed on the page. The page mentions \u201cdecision models\u201d in the context of ModelOps, which focuses on the end-to-end governance and life cycle management of advanced analytics, AI and decision models. |\n| Named hype cycle positions/innovations | **GenAI:** Enters the **Trough of Disillusionment**. |\n|  | **AI-ready data:** One of the two biggest movers on the 2025 Hype Cycle; sits at the **Peak of Inflated Expectations**. |\n|  | **AI agents:** One of the two biggest movers on the 2025 Hype Cycle; sits at the **Peak of Inflated Expectations**. |\n|  | **Model operationalization (ModelOps):** Ultimately expected to reach the **Plateau of Productivity**. |\n|  | **AI-native software engineering:** Makes its AI Hype Cycle debut in 2025; no specific hype cycle position is stated. |",
+   "description": "The 2025 Hype Cycle for Artificial Intelligence helps leaders prioritize high-impact, emerging AI techniques, navigate regulatory complexity and scale operations.",
+   "hostname": "Gartner",
+   "published_date": "2025-07-08",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.gartner.com/en/newsroom/press-releases/2025-08-05-gartner-hype-cycle-identifies-top-ai-innovations-in-2025",
+   "title": "Gartner Hype Cycle Identifies Top AI Innovations in 2025",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Gartner Hype Cycle Identifies Top AI Innovations in 2025** |\n| Author(s) | Not stated. |\n| Journal/publisher | Gartner, Inc. |\n| Publication year | 2025 |\n| Definition or positioning of decision intelligence | Decision intelligence is not mentioned or defined on the page. |\n| Named hype cycle position/innovation | **AI agents** and **AI-ready data** are identified as the two fastest-advancing technologies on the **2025 Gartner Hype Cycle for Artificial Intelligence**. They are positioned at the **Peak of Inflated Expectations**. |\n| Named hype cycle position/innovation | **Multimodal AI** and **AI trust, risk and security management (AI TRiSM)** are identified as among the AI innovations Gartner expects to reach mainstream adoption within the next five years and are described as dominating the **Peak of Inflated Expectations**. |",
+   "description": "AI agents and AI-ready data are the two fastest advancing technologies on the 2025 Gartner Hype Cycle for Artificial Intelligence, according to Gartner.",
+   "hostname": "Gartner",
+   "published_date": "2025-08-05",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ],
+ "tmf_apqc": [
+  {
+   "url": "https://www.tmforum.org/resources/introductory-guide-whitepaper/dt4di-from-strategy-to-implementation-v3-0-0-ig1307/",
+   "title": "IG1307 Digital Twin for Decision Intelligence (DT4DI): From Strategy to Implementation v3.0.0",
+   "content": "- **Exact title:** IG1307 Digital Twin for Decision Intelligence (DT4DI): From Strategy to Implementation v3.0.0\n- **Document ID:** IG1307\n- **Document version:** 3.0.0\n- **Publisher:** Not explicitly stated\n- **Publication date:** 19-May-2025\n- **Publication year:** 2025\n\n- **Content:** The introductory guide presents the context, background, scope, and project deliverables for engineering Decision Intelligence solutions powered by Digital Twin and AI, expanding and complementing traditional Business Intelligence for business analysis, business processes, and decision-making in the CSP industry. It also describes Decision Intelligence and Digital Twin and their use in supporting knowledge-driven, results-oriented CSP organizations.\n- **Named use cases/case studies:** None stated.",
+   "description": "To be more competitive, CSPs must move away from traditional Business Intelligence (BI) to a Decision Intelligence (DI) strategy and approach, taking",
+   "hostname": "TM Forum",
+   "published_date": "2025-05-30",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tmforum.org/resources/introductory-guide/dt4di-top-use-cases-v8-0-0-ig1310c/",
+   "title": "DT4DI Top Use Cases v8.0.0 (IG1310C) - TM Forum",
+   "content": "- **Exact title:** DT4DI Top Use Cases v8.0.0 (IG1310C)\n- **Document ID/version:** IG1310C; version 8.0.0\n- **Publisher:** TM Forum\n- **Publication date:** 13-Jan-2025\n- **Publication year:** 2025\n- **Content:** The guide describes the DT4DI Use Case Repository, a collection of use cases documented and organized to make them easy to disclose and use. It is intended as a comprehensive reference point for documenting, tracking, and leveraging DT4DI use cases across TM Forum.\n- **Named use cases/case studies:** No specific use case or case study names are stated on the page.",
+   "description": "The DT4DI Use Case Repository is a collection of use cases that have been documented and organized to make them easy to disclose and use. This repository",
+   "hostname": "TM Forum",
+   "published_date": "2025-05-13",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tmforum.org/resources/guidebook/gb1079-dt4di-top-use-cases-v1-0-0/",
+   "title": "GB1079 DT4DI Top Use Cases v1.0.0 - TM Forum",
+   "content": "- **Exact title:** GB1079 DT4DI Top Use Cases v1.0.0 - TM Forum\n- **Document ID/version:** GB1079; v1.0.0\n- **Publisher:** TM Forum\n- **Publication year/date:** year not stated\n- **Content:** The page identifies this as the current Production version of an asset included in the most recent Production Release of the Open Digital Framework. No specific guide contents, named use cases, or case studies are provided.\n- **Signavio/SAP:** No information about Signavio or SAP, or how the APQC PCF is provided or used inside the tool, is stated.",
+   "description": "The DT4DI Use Case Repository is a collection of use cases that have been documented and organized to make them easy to disclose and use.",
+   "hostname": "TM Forum",
+   "published_date": "2025-09-10",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.signavio.com/reference-models/apqc-framework/",
+   "title": "APQC Process Classification Framework - SAP Signavio",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **APQC Process Classification Framework - SAP Signavio** |\n| Document ID/version | Not stated |\n| Publisher | SAP Signavio; the page also states: \u201c\u00a9 APQC, Inc. 2016. ALL RIGHTS RESERVED\u201d |\n| Publication year/date | **2016** is stated in the copyright notice; publication date is not stated |\n| TM Forum guide specifications, named use cases/case studies | No TM Forum guide, specifications, use cases, or case studies are stated on the page. |\n| Signavio/SAP use of the APQC PCF | APQC\u2019s Process Classification Frameworks\u00ae are integrated into the SAP Signavio Process Modeler, allowing users to evaluate industry standards against their own current-state and future-state process models and compare processes with trusted industry benchmarks. Current Signavio customers can access the frameworks and KPIs by contacting their sales representative for import instructions. |",
+   "description": "Signavio & APQC give organizations the power to meet and exceed the process efficiency of their competitors.",
+   "hostname": "SAP Signavio | Business Process Transformation Suite",
+   "published_date": "2021-11-11",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://help.sap.com/docs/signavio-process-manager/user-guide/import-apqc-framework",
+   "title": "Import the APQC Process Classification Framework",
+   "content": "| Field | Extracted information |\n|---|---|\n| Title | **Import the APQC Process Classification Framework** |\n| Document ID/version | Not stated |\n| Publisher | Not stated |\n| Publication year/date | Year not stated; publication date not stated |\n| Content | APQC frameworks are imported into a workspace in **SAP Signavio Process Manager** from a Microsoft Excel spreadsheet, with the hierarchy represented through a folder tree, linked value chains, BPMN diagrams, and activity elements. A single top-level value chain links all imported level 1 value chains, and the diagram\u2019s Description attribute contains the related APQC glossary term. |",
+   "hostname": "help.sap.com",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.signavio.com/news/press-release-apqc-signavio-pcf/",
+   "title": "APQC and Signavio announce full integration of Process ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **APQC and Signavio announce full integration of Process ...** |\n| Document ID/version | Not stated |\n| Publisher | Signavio |\n| Publication year/date | 2016 |\n| Content | APQC\u2019s Process Classification Framework (PCF) is available in Signavio\u2019s web-based BPM solution, where organizations can use it to optimize and benchmark business processes. It is preloaded in the Signavio workspace and includes KPI definitions and descriptions that serve as a standard while remaining customizable to an individual organization\u2019s requirements. |",
+   "description": "April 26th 2016: APQC, the world\u2019s foremost authority in benchmarking and process and performance improvement, and Signavio, a leading provider for Business Process and Decision Management software, announce the integration of APQC\u2019s Process Classification Framework\u00ae in Signavio\u2019s solutions.",
+   "hostname": "Press Release: APQC and Signavio announce full integration of Process Classification Framework - SAP Signavio",
+   "published_date": "2016-04-26",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://userapps.support.sap.com/sap/support/knowledge/en/3431337",
+   "title": "3431337 - APQC Framework download for Signavio",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **3431337 - APQC Framework download for Signavio** |\n| Document ID | **3431337** |\n| Version | Not stated |\n| Publisher | SAP Support page; publisher not otherwise stated |\n| Publication year/date | **year not stated** |\n| Content | The APQC framework Excel file can be downloaded by obtaining the latest version from the APQC website, for example: https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-cross-industry-excel-7 |\n| Signavio/SAP use | The page concerns **SAP Signavio Process Manager**, including **Smart Folders for SAP Signavio Process Manager**. It does not specify how the APQC PCF is used inside the tool beyond directing users to download the latest APQC framework Excel file from the APQC website. |\n| TM Forum guide, specified use cases, or case studies | Not present on this page.",
+   "description": "Where do you download the APQC framework?",
+   "hostname": "userapps.support.sap.com",
+   "published_date": "2024-04-12",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ],
+ "sap_ai_sov": [
+  {
+   "url": "https://www.sap.com/products/technology-platform/cloud-alm-requirement-generation.html",
+   "title": "SAP Cloud ALM, requirement generation",
+   "content": "- **Title:** SAP Cloud ALM, requirement generation\n- **Author/organization:** Not stated\n- **Publisher:** Not stated\n- **Publication year:** year not stated\n- **Key claim:** This AI feature automatically generates high-quality business requirements from Fit-to-Standard workshop transcripts by analyzing discussion content and populating a predefined customer requirements template. Consultants can review, refine, and validate the generated requirements before saving them; SAP Activate and SAP Best Practices content is integrated to suggest solution proposals.",
+   "description": "Generate requirements from meeting notes to enhance Fit-to-Standard workshops in SAP Cloud ALM.",
+   "hostname": "SAP SE",
+   "published_date": "2026-08-06",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://community.sap.com/t5/technology-blog-posts-by-sap/ai-goes-calm-ai-assisted-requirement-generation/ba-p/14294426",
+   "title": "Re: AI Goes CALM: AI-Assisted Requirement Generation",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | Re: AI Goes CALM: AI-Assisted Requirement Generation |\n| Author | Sinje |\n| Organization | Not explicitly stated |\n| Publisher | Not explicitly stated |\n| Publication year | year not stated |\n| Key claim | Within the requirements application, users can now generate requirements using AI capabilities, using materials such as Fit-to-Standard meeting recording transcripts, meeting minutes, and other project-related documents to populate a customer-defined requirement template. Users should review and adjust the AI-generated content before saving the requirement. |\n",
+   "description": "only meant for go live or also documentation for req /changes after go live?",
+   "author": "Sinje Product; Topic Expert",
+   "hostname": "SAP Community",
+   "published_date": "2026-02-08",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.sap.com/products/security-and-sovereignty.html",
+   "title": "SAP Sovereign Cloud for Local Control and Compliance",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | SAP Sovereign Cloud for Local Control and Compliance |\n| Author/organization | SAP is identified as the organization offering SAP Sovereign Cloud; no author is explicitly stated. |\n| Publisher | Not stated |\n| Publication year | year not stated |\n| Key claim | SAP Sovereign Cloud stores data in local data centers or approved countries, avoiding unauthorized cross-border transfers and meeting critical infrastructure requirements. Sensitive operations remain local, and control planes are hosted locally with strong separation enforced through encryption or dedicated infrastructure. |",
+   "description": "Adopt the cloud on your terms with SAP Sovereign Cloud\u2014secure, compliant, and locally controlled to meet your legal, regulatory, and operational needs.",
+   "hostname": "SAP SE",
+   "published_date": "2026-08-09",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://news.sap.com/2025/11/sap-eu-ai-cloud-unified-vision-europe-sovereign-ai-cloud-future/",
+   "title": "SAP Unveils EU AI Cloud: A Unified Vision for Europe's Sovereign AI and Cloud Future",
+   "content": "- **Title:** \u201cSAP Unveils EU AI Cloud: A Unified Vision for Europe's Sovereign AI and Cloud Future\u201d\n- **Author:** Not stated\n- **Organization:** SAP SE\n- **Publisher:** SAP News Center\n- **Publication year:** 2025\n- **Key claim:** EU AI Cloud is a sovereign AI and cloud offering for Europe that supports EU data residency and full sovereignty, enabling organizations to meet their regulatory and operational requirements. AI models run on SAP\u2019s software abstraction layer\u2014SAP Cloud Infrastructure and SAP Business Technology Platform\u2014in European data centers, ensuring compliance and independence from U.S. hyperscalers.",
+   "description": "With the EU AI Cloud, SAP is uniting under a single strategic framework: a sovereign AI and cloud offering designed for Europe.",
+   "author": "Sap News",
+   "hostname": "SAP",
+   "published_date": "2025-11-27",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.sap.com/products/artificial-intelligence/ai-ethics.html",
+   "title": "Responsible AI - SAP",
+   "content": "- **Title:** Responsible AI\n- **Author/organization:** SAP\n- **Publisher:** SAP\n- **Publication year:** year not stated\n- **Key claim:** SAP states that its locally hosted AI keeps customer data and workflows in-region, fully controlled and safeguarded by SAP, supporting sovereign AI. SAP\u2019s AI ethics principles include human oversight and determination, and every SAP AI use case must undergo an AI Ethics impact assessment, risk classification, and review steps based on the risks involved.",
+   "description": "Learn how we at SAP embed responsible AI principles\u2014transparency, fairness, and accountability\u2014into AI systems to support ethical innovation.",
+   "hostname": "SAP SE",
+   "published_date": "2026-08-21",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www-api.ibm.com/adobe/assets/urn:aaid:aem:c8af1164-1b81-49f0-bf9d-bb4dc8da1e19/original/as/ibm-guide-to-architecting-secure-enterprise-ai-agents-with-mcp-techxchange-2025.pdf",
+   "title": "Architecting Secure Enterprise AI Agents with MCP",
+   "content": "| Field | Extracted information |\n|---|---|\n| **Exact title** | *Architecting Secure Enterprise AI Agents with MCP* |\n| **Author/organization** | IBM |\n| **Publisher** | Not explicitly stated |\n| **Publication year** | 2025 |\n| **Key claim \u2014 secure enterprise agent architecture boundaries** | Enterprise agents should be designed with \u201cexplicit authority bounds and human-in-the-loop paths,\u201d while tools should be kept \u201cleast-privilege, versioned, and well-documented.\u201d Agents and tools should run inside constrained, sandboxed execution environments, complemented by runtime policies at the MCP Gateway layer that enforce controls such as rate limits, throttling, outbound access controls, approvals, and auditing. |",
+   "hostname": "ibm",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ],
+ "ikea": [
+  {
+   "url": "https://www.inter.ikea.com/en/newsroom/inter-ikea-group-reports-resilient-fy25-results-amid-global-challenges",
+   "title": "Inter IKEA Group reports resilient FY25 results amid global ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | Inter IKEA Group reports resilient FY25 results amid global challenges |\n| Organization | Inter IKEA Group |\n| Publisher | Not stated |\n| Publication year | 2025 (FY25) |\n\n- Comparable operating expenses remained relatively stable in FY25, with an increase as a result of the first-time inclusion of operating expenses for the acquired retail and forest operations in Baltics and additional investments in sustainability and digital capabilities.\n- Investments are planned to build a facility for sorting recycled wood for particle board production, in the IKEA Industry site in Kazlu Ruda, Lithuania; the investment will support the goal of using 80% recycled wood in the particle board used in IKEA products by 2030.\n\n- Multi-year business/digital transformation figures: Not stated.\n- Technology or transformation investment figures: No monetary figure stated; the page states additional investments in sustainability and digital capabilities and a planned recycled-wood sorting facility investment supporting 80% recycled wood by 2030.\n- Organisational restructuring: Not stated.",
+   "hostname": "inter.ikea.com",
+   "published_date": "2025-11-07",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.ingka.com/annual-summary-and-sustainability-report/",
+   "title": "Annual Summary and Sustainability Report FY25",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | Annual Summary and Sustainability Report FY25 |\n| Organization | Ingka Group |\n| Publisher | Not stated on the page |\n| Publication year | FY25 |\n\n- \u201cSince FY16, we have reduced emissions from our own operations by 70.6%, supported by EUR 4.3 billion invested or committed to invest in wind and solar farms.\u201d\n- No figures or statements on multi-year business/digital transformation, technology investment, or organisational restructuring are stated on the page.",
+   "description": "Read the Ingka Group Annual Summary and Sustainability Report (ASSR) summarizing Ingka Group's performance, progress and challenges in FY25.",
+   "hostname": "Ingka Group",
+   "published_date": "2026-01-30",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.ingka.com/newsroom/ingka-ab-takes-next-steps-to-strengthen-the-business-for-the-future/",
+   "title": "Ingka AB takes next steps to strengthen the business for the future",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | Ingka AB takes next steps to strengthen the business for the future |\n| Organization | Ingka AB |\n| Publisher | Not stated |\n| Publication year | year not stated |\n\n- \u201cWith a mission to support more than 40 companies across the IKEA value chain, Ingka AB enables other areas of the IKEA business to focus on their core business by delivering high-quality, centralised support services in areas such as finance, administration, operations, and HR.\u201d\n- \u201cAs part of this ongoing organisational development and transformation, up to 45 roles at Ingka AB HR Service Centre and Finance Services in \u00c4lmhult, Sweden, are at risk of redundancy.\u201d",
+   "description": "Ingka AB, a business support organisation within Ingka Group, is taking the next steps in its long-term transformation journey to build a more accessible, affordable and sustainable IKEA, creating greater value for the many people and helping ensure the business remains fit for the future.",
+   "hostname": "Ingka Group",
+   "published_date": "2025-10-22",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.inter.ikea.com/-/media/interikea/igi/financial-reports/fy25-financial-reports/inter-ikea-holding-bv-annual-report-fy25-final.pdf?rev=10c81cc96c064789932e13ebf6229492&sc_lang=en",
+   "title": "Inter IKEA Holding B.V. Annual Report FY25",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Inter IKEA Holding B.V. Annual Report FY25** |\n| Organization | **Inter IKEA Holding B.V.**; the report concerns the **Inter IKEA Group** |\n| Publisher | **Not explicitly stated** |\n| Publication year | **2025** |\n\n- The implementation of a new ERP solution for the wholesale entities in Supply is the main change driver for the business transformation: during FY25, the first part was completed by replacing current general ledger systems with a new digital core, and implementation will continue in FY26 and FY27 to address inbound and outbound goods flows and financial transactions.\n- During FY25, software solutions were acquired to consolidate and enhance digital capabilities within the Group; the Group\u2019s co-worker base increased from **23,892 average FTE in FY24** to **25,971 in FY25**, primarily due to the acquisition of IKEA Baltics. \n- Organisational restructuring figures or a specific organisational restructuring programme are **not explicitly stated**.",
+   "hostname": "ikea",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ]
+}

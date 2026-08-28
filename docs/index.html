@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>A Decision Intelligence Framework for Enterprise Transformation Programs · EVEglyphDesign</title>
+<meta name="description" content="Invited peer-review draft of a decision intelligence framework for enterprise transformation programs, in the SAP program context. Sovereign context reasoning, APQC-spined traceability, and adoption-first sequencing.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --cream: #fdfaf4;
+    --cream2: #f7f2e7;
+    --ink: #1a1a1a;
+    --line: #e7e1d3;
+    --mute: #6b665c;
+    --orange: #e87722;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--cream); color: var(--ink); }
+  body { font-family: 'Inter', system-ui, sans-serif; font-size: 17px; line-height: 1.55; }
+  a { color: var(--orange); text-decoration: none; border-bottom: 1px solid rgba(232,119,34,0.35); }
+  a:hover { border-bottom-color: var(--orange); }
+  .wrap { max-width: 780px; margin: 0 auto; padding: 64px 28px 96px; }
+  header .eyebrow { font-size: 12px; font-weight: 600; color: var(--orange); letter-spacing: 0.04em; text-transform: uppercase; margin-bottom: 14px; }
+  h1 { font-family: 'Fraunces', Georgia, serif; font-weight: 700; font-size: 42px; line-height: 1.08; margin: 0 0 12px; letter-spacing: -0.01em; }
+  .subtitle { font-family: 'Fraunces', Georgia, serif; font-size: 20px; color: var(--mute); margin: 0 0 24px; line-height: 1.35; }
+  .byline { font-size: 14px; color: var(--mute); margin-bottom: 40px; }
+  h2 { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 26px; margin: 44px 0 12px; letter-spacing: -0.005em; }
+  h3 { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 18px; margin: 24px 0 8px; }
+  p { margin: 0 0 14px; }
+  hr { border: 0; border-top: 1px solid var(--line); margin: 40px 0; }
+  ul { padding-left: 1.2em; margin: 0 0 14px; }
+  li { margin-bottom: 6px; }
+  .cta {
+    background: var(--cream2);
+    border: 1px solid var(--line);
+    padding: 24px 26px;
+    margin: 28px 0;
+    display: grid;
+    gap: 12px;
+  }
+  .cta .row { display: flex; align-items: center; justify-content: space-between; gap: 18px; flex-wrap: wrap; }
+  .cta .label { font-weight: 600; color: var(--ink); }
+  .cta .meta { color: var(--mute); font-size: 14px; }
+  .pill {
+    display: inline-block;
+    background: var(--orange);
+    color: var(--cream);
+    padding: 8px 14px;
+    font-size: 13px;
+    font-weight: 600;
+    border: 0;
+    letter-spacing: 0.01em;
+  }
+  .pill:hover { border: 0; color: var(--cream); }
+  .abstract {
+    background: var(--cream2);
+    border-left: 3px solid var(--orange);
+    padding: 18px 22px;
+    margin: 24px 0;
+    font-size: 15px;
+    line-height: 1.55;
+  }
+  .abstract .label { font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 600; color: var(--orange); letter-spacing: 0.05em; text-transform: uppercase; margin-bottom: 6px; }
+  table { width: 100%; border-collapse: collapse; margin: 12px 0 20px; font-size: 14px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--mute); font-weight: 600; }
+  td.phase { font-weight: 600; white-space: nowrap; }
+  footer { margin-top: 60px; padding-top: 24px; border-top: 1px solid var(--line); color: var(--mute); font-size: 13px; }
+  footer .mark { font-family: 'Fraunces', Georgia, serif; color: var(--orange); margin-top: 8px; display: block; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">EVEglyphDesign · Peer-review draft</div>
+    <h1>A Decision Intelligence Framework for Enterprise Transformation Programs</h1>
+    <p class="subtitle">Sovereign context reasoning, APQC-spined traceability, and adoption-first sequencing in the SAP program context.</p>
+    <div class="byline">EVEglyphDesign — practitioner author · v1.0 — invited peer review draft · 2026</div>
+  </header>
+
+  <div class="cta">
+    <div class="row">
+      <div>
+        <div class="label">The peer-review draft (PDF)</div>
+        <div class="meta">Controlled copy · EgD-KEY-2026-07 · 8 pages · SHA-256 stamped</div>
+      </div>
+      <a class="pill" href="EVEglyphDesign_Decision_Intelligence_Framework.pdf">Open the PDF</a>
+    </div>
+    <div class="row">
+      <div>
+        <div class="label">Comment or contribute</div>
+        <div class="meta">Peer-review commentary via GitHub issues</div>
+      </div>
+      <a class="pill" href="https://github.com/EVEglyphDesign/decision-intelligence-framework/issues">Open an issue</a>
+    </div>
+  </div>
+
+  <div class="abstract">
+    <div class="label">Abstract</div>
+    <p>Decision intelligence is now defined as a superset discipline in which business intelligence is one optional input, yet enterprise transformation programs continue to treat it either as a synonym for analytics or as an unbounded aspiration. This paper proposes a practitioner framework for embedding decision intelligence inside the SAP program context along three load-bearing choices: an AI context-reasoning surface hosted wholly inside the client's DMZ and operated as a durable enterprise capital asset; a program-wide numbering spine anchored on the APQC Process Classification Framework (v7.4) that threads blueprint, technical design, technical object, test plan, dataset, and role and authorisation records through the SAP Activate phase model; and an adoption-first sequencing that moves learning and role design forward in the plan on the evidence that people, not technology, are now the binding constraint on transformation outcomes.</p>
+    <p style="margin-bottom:0">The framework is positioned as additive to the existing SAP toolchain (Cloud ALM, Signavio, Solution Manager, Joule) and to the emerging TM Forum DT4DI stack (IG1307, IG1310, IG1310A, IG1310B, IG1310C), and it makes an explicit break with the systems-integrator-owned platform pattern by naming the sovereign context-reasoning repository as a client-held residual.</p>
+  </div>
+
+  <h2>The framework in one glance</h2>
+  <p>Three load-bearing choices, each aligned to primary sources:</p>
+  <ul>
+    <li><strong>Sovereign context reasoning inside the client's DMZ.</strong> The AI reasoning surface that processes program context is a client-owned capital asset, not an SI-owned platform. Compatible with <a href="https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/">NVIDIA's Secure Agent Workspace</a> and <a href="https://www-api.ibm.com/adobe/assets/urn:aaid:aem:c8af1164-1b81-49f0-bf9d-bb4dc8da1e19/original/as/ibm-guide-to-architecting-secure-enterprise-ai-agents-with-mcp-techxchange-2025.pdf">IBM's MCP reference architecture</a>; in explicit tension with <a href="https://www.idc.com/resource-center/blog/from-labor-arbitrage-to-platform-led-outcomes-how-agentic-ai-is-rewriting-the-it-services-playbook/">IDC's Service Provider Agentic AI Platform</a>.</li>
+    <li><strong>APQC-spined traceability through SAP Activate.</strong> The <a href="https://www.apqc.org/process-frameworks/pcf-faqs">APQC PCF v7.4</a> provides five-digit stable IDs that thread blueprint → technical design → technical object → test plan → dataset → roles, aligned to <a href="https://www.sap.com/products/erp/activate-methodology.html">SAP Activate's six phases</a> and landed in <a href="https://help.sap.com/docs/signavio-process-manager/user-guide/import-apqc-framework">SAP Signavio Process Manager</a>.</li>
+    <li><strong>Adoption-first sequencing.</strong> On <a href="https://www.prosci.com/blog/why-ai-transformation-fails">Prosci's finding</a> that 63% of AI implementation challenges are human-factor, learning-path assignment and human-authorised decision rehearsal move to Prepare, not Deploy.</li>
+  </ul>
+
+  <h2>SAP Activate phase map</h2>
+  <table>
+    <thead><tr><th>Phase</th><th>DI framework contribution</th><th>Landing tool</th></tr></thead>
+    <tbody>
+      <tr><td class="phase">Discover</td><td>Baseline decision inventory; fit-to-DI heat map; sovereign-surface scoping</td><td>Client DMZ; SAP Signavio</td></tr>
+      <tr><td class="phase">Prepare</td><td>APQC spine adoption; role design; learning-path assignment; DMZ AI stand-up</td><td>SAP Cloud ALM; Signavio; Joule</td></tr>
+      <tr><td class="phase">Explore</td><td>Fit-to-standard sessions traced by PCF ID; human-authorised decision rehearsal</td><td>SAP Cloud ALM (requirement generation)</td></tr>
+      <tr><td class="phase">Realize</td><td>Test plan and dataset lineage on the same PCF ID; migration objects registered</td><td>SAP Cloud ALM; migration cockpit</td></tr>
+      <tr><td class="phase">Deploy</td><td>Cutover authorised as decision artifact; hypercare designed against adoption gaps</td><td>SAP Cloud ALM; ticketing</td></tr>
+      <tr><td class="phase">Run</td><td>Sovereign context repository handed to client; DT4DI-style maturity metric adopted</td><td>Client-owned DMZ surface</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Peer-review invitation</h2>
+  <p>The framework is offered as a practitioner argument. Ten specific claims in the paper are ahead of the peer-reviewed literature; the paper names each one and invites review. The four load-bearing claims for reviewers are:</p>
+  <ol>
+    <li>The client-DMZ sovereignty claim.</li>
+    <li>The APQC-spine traceability claim.</li>
+    <li>The adoption-first sequencing claim.</li>
+    <li>The human-authorised decision artifact as the control boundary.</li>
+  </ol>
+  <p>Commentary via <a href="https://github.com/EVEglyphDesign/decision-intelligence-framework/issues">GitHub issues on this repository</a>. Suggested peer-review venues are listed in Appendix A of the PDF.</p>
+
+  <h2>Related work in this canon</h2>
+  <ul>
+    <li><a href="https://github.com/EVEglyphDesign/egd-perplexity-sap-accelerator">Perplexity SAP Accelerator</a> — the delivery-layer companion.</li>
+    <li><a href="https://github.com/EVEglyphDesign/eve-datasphere-sovereign">EVE Datasphere Sovereign</a> — the customer-owned SAP reference model with ACDOCA as ledger spine.</li>
+    <li><a href="https://github.com/EVEglyphDesign/eve-glyph-boot-contract">EgD Boot Contract</a> — the operating and output canon.</li>
+  </ul>
+
+  <footer>
+    EVEglyphDesign · Controlled copy · EgD-KEY-2026-07 · <a href="https://github.com/EVEglyphDesign/decision-intelligence-framework">source on GitHub</a>
+    <span class="mark">Pour le bien-être du peuple</span>
+  </footer>
+</div>
+</body>
+</html>

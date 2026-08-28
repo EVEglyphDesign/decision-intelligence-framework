@@ -1,0 +1,441 @@
+{
+ "t9_adoption": [
+  {
+   "url": "https://www.prosci.com/methodology/adkar",
+   "title": "The Prosci ADKAR\u00ae Model",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **The Prosci ADKAR\u00ae Model** |\n| Author(s)/organization | **Prosci**; the model was developed by Prosci founder **Jeff Hiatt** |\n| Publisher | Not stated |\n| Publication year | year not stated |\n| What it says about change management and adoption | The Prosci ADKAR\u00ae Model focuses on individual change and guides individuals through a particular change while addressing roadblocks or barrier points. It identifies five outcomes an individual needs to achieve for a change to be successful: **Awareness, Desire, Knowledge, Ability and Reinforcement**. |\n| Figures and specific details | The model was developed nearly two decades ago after studying the change patterns of **more than 700 organizations** and is used by **thousands of change leaders around the world**. Activities for moving individuals through ADKAR transitions occur during **Phase 2 \u2013 Manage Change** of the Prosci 3-Phase Process. |\n| ERP/AI programs, training sequencing, or constraint shifting from technical delivery to people learning | Not stated. |",
+   "description": "Learn more about ADKAR, a research-based, individual change model that is part of the Prosci change management methodology.",
+   "hostname": "prosci.com",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.prosci.com/methodology-overview",
+   "title": "Methodology",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Methodology** |\n| Author(s)/organization | **Prosci** |\n| Publisher | Publisher not stated |\n| Publication year | year not stated |\n| What it says | Technology deployments and new processes often fail when leaders and teams focus too heavily on technical aspects; successful change also requires focusing on the people side so each individual embraces and adopts the change. The Prosci Methodology supports individuals transitioning from the current state to the future state and comprises three main components: the PCT Model, ADKAR Model, and Prosci 3-Phase Process. |\n| Relevant figures | Prosci has conducted in-depth change research for **more than 25 years**; the methodology was refreshed in **2021**; the Prosci Certification Program is a **3-day** learning experience. |\n| ERP/AI programs | ERP and AI programs are not specifically mentioned. |\n| Training sequencing | Training sequencing is not specifically mentioned. |\n| Constraint shifting from technical delivery to people learning | This specific phrasing is not stated; the page does state that successful change requires managing both the technical side and the people side, with the people side focused on individuals embracing and adopting the change. |",
+   "description": "A structured, adaptable, repeatable approach to enable individuals to successfully move through changes in your organization.",
+   "hostname": "prosci.com",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.prosci.com/blog/ai-in-change-management-early-findings",
+   "title": "AI in Change Management: Early Findings - Prosci",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **AI in Change Management: Early Findings** |\n| Author(s) / organization | **Scott Anderson**; **Prosci** |\n| Publisher | **Prosci** |\n| Publication year | **2024** \u2014 Published January 30, 2024 |\n| Updated | April 13, 2026 |\n\nProsci\u2019s research says that AI adoption in change management remains limited despite familiarity: **84%** of change practitioners were at least moderately familiar with AI in October 2023, declining to **77%** a year later, while only **39% of 656 respondents** reported using AI in their change management work. The article identifies adoption barriers including insufficient understanding and experience, privacy and security concerns, limited access to tools and resources, competing priorities, inadequate organizational support and maturity, and recommends Force Field Analysis plus the ADKAR Model\u2014including workshops, training modules, hands-on training, mentoring, feedback and reinforcement\u2014to support AI adoption.\n\nThe page does not mention ERP programs or state that the constraint is shifting from technical delivery to people learning.",
+   "description": "Prosci research on using AI in change management explores change practitioner uses, benefits and impacts. Learn how to get started.",
+   "author": "Scott Anderson",
+   "hostname": "Prosci Inc",
+   "published_date": "2026-04-13",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.prosci.com/blog/why-ai-transformation-fails",
+   "title": "Why AI Transformation Fails - Prosci",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Why AI Transformation Fails: Research Insights from 1,100+ Change Professionals** |\n| Author(s)/organization | **Prosci** |\n| Publisher | **Prosci** |\n| Publication year | **2025** |\n| Relevant findings | The research states that **63% of AI implementation challenges stem from human factors, not technical limitations**, and identifies successful AI adoption as fundamentally a **change management challenge** requiring widespread internal expertise, experimentation, individual choice balanced with centralized governance, and proven methodologies. **User proficiency accounts for 38% of AI failure points**, compared with **16% for technical challenges**, **15% for organizational adoption issues**, and **13% for data quality concerns**; proficiency-related barriers include a **22% learning curve**, **11% ineffective prompt engineering**, and **6% inadequate training and support**. |",
+   "description": "Discover why AI transformation often fails and learn how to overcome human barriers to unlock successful AI adoption in your organization.",
+   "author": "Prosci",
+   "hostname": "Prosci Inc",
+   "published_date": "2026-06-23",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.kotterinc.com/methodology/8-steps/",
+   "title": "The 8-Step Process for Leading Change | Dr. John Kotter",
+   "content": "| Requested item | Extracted information |\n|---|---|\n| Exact title | **The 8 Steps for Leading Change** |\n| Author(s)/organization | **Dr. John Kotter**; **Kotter** |\n| Publisher | Not stated on the page |\n| Publication year | year not stated |\n| What it says about change management | Kotter\u2019s methodology is described as \u201cthe proven approach to producing lasting change.\u201d Over four decades, Dr. Kotter observed leaders and organizations transforming or executing strategies, identified common success factors, and documented them as the **8 Steps for Leading Change**. |\n| What it says about adoption and participation | Large-scale change requires \u201cmassive numbers of people\u201d to rally around a common opportunity; individuals must want to contribute actively, and collectively they must pursue the goal together. |\n| What it says about training sequencing or ERP/AI programs | ERP programs and training sequencing are not mentioned. The page does state that shifting economic pressures, political instability, and the urgent need to define a modern AI strategy make it critical to use a proven, adaptable framework for leading complex change. |\n| Figures and dated references | **Over four decades** of observation; the linear 8 Step evolved into the **8 Accelerators** in Dr. Kotter\u2019s **2014** book, *Accelerate*, and Kotter\u2019s **2021** book, *CHANGE.*",
+   "description": "The 8-Step Process for Leading Change is an award-winning strategy by Dr. John Kotter from Leading Change & has transformed countless organizations.",
+   "author": "Alex Bedard",
+   "hostname": "Kotter International Inc",
+   "published_date": "2026-05-27",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://econjournals.com/index.php/irmm/article/view/19741",
+   "title": "Do Change Management Influence ERP Implementation ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Do Change Management Influence ERP Implementation Success? Evidence from Morocco** |\n| Author(s) / organization | **Smail Mahjoubi** \u2014 Laboratory for Prospective Research in Finance and Management (LRPFG), University HASSAN II \u2013 Casablanca, Morocco.<br><br>**Smail Kabbaj** \u2014 Laboratory for Prospective Research in Finance and Management (LRPFG), University HASSAN II \u2013 Casablanca, Morocco. |\n| Publisher | **Not stated on the page.** |\n| Publication year | **2025** |\n| Relevant content | The study investigates change management in the implementation of Enterprise Resource Planning (ERP) systems within Moroccan companies, focusing on technological, organizational, and environmental elements. It highlights managerial support, employee engagement, infrastructure alignment, proactive risk management, a robust change management framework, aligned strategic goals, and sufficient resource allocation as important for sustainable ERP implementation success. |\n| Figures | **No figures or numerical findings are stated in the page content.** |\n| Training sequencing / constraint shifting from technical delivery to people learning | **Not stated on the page.** |",
+   "description": "This study investigates the change management in the implementation of Enterprise Resource Planning (ERP) systems within Moroccan companies. Focusing on a range of technological, organizational, and environmental (TOE) elements, this research aims to identify key drivers and challenges that companies face in digital transformation. Through an analysis of various case studies and empirical data, the study evaluates the roles of managerial support, employee engagement, infrastructure alignment, and proactive risk management in ensuring ERP project success. Findings highlight the necessity of a robust change management framework, aligned strategic goals, and sufficient resource allocation for achieving sustainable ERP implementation success. This research contributes to the existing literature by offering a comprehensive model for ERP system adoption in Moroccan companies, providing practical insights for organizations seeking to enhance their competitive edge in a digitalized market.",
+   "author": "Smail Mahjoubi; Smail Kabbaj",
+   "hostname": "International Review of Management and Marketing",
+   "published_date": "2025-10-13",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.paradigmpress.org/fms/article/download/938/812",
+   "title": "[PDF] User Training and Change Management Synergy: Keys to ERP ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **User Training and Change Management Synergy: Keys to ERP Success in SMEs** |\n| Author | **Daphne Rebecca Wright** |\n| Organization | **Carleton University, Ottawa, Canada** |\n| Publisher | **Not stated in the page content** |\n| Publication year | **2023** |\n| Publication details | **Frontiers in Management Science**, ISSN **2788-8592**, **December 2023, Volume 2, No. 6** |\n| DOI | **10.56397/FMS.2023.12.06** |\n\n- The paper states that effective ERP adoption in Canadian SMEs depends on the interconnected roles of user training and change management: training enhances user competence and minimizes resistance, while change management addresses organizational and human factors, fosters a positive attitude toward change, and aligns organizational culture with ERP adoption goals.\n- It states that training should be strategically aligned with broader change objectives, incorporate change messaging and clear communication, and help employees understand both how to use the ERP system and the organizational shifts and positive impacts associated with the change. The page does not state a specific sequencing model or describe a shift from technical delivery constraints to people-learning constraints.\n\n**Figures:** No figures are stated in the page content.",
+   "hostname": "paradigmpress",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://ai.wharton.upenn.edu/wp-content/uploads/2025/10/2025-Wharton-GBK-AI-Adoption-Report_Full-Report.pdf",
+   "title": "PptxGenJS Presentation",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **\u201cAccountable Acceleration: Gen AI Fast-Tracks Into the Enterprise.\u201d** |\n| Author(s)/organization | **Jeremy Korst, WG'03; Stefano Puntoni, PhD; Prasanna Tambe, PhD; Wharton Human-AI Research; GBK Collective** |\n| Publisher | **Not explicitly stated.** The report states that it was sponsored by **Wharton Human-AI Research**, part of the Wharton AI & Analytics Initiative at the Wharton School, University of Pennsylvania, and that **GBK Collective performed research and analysis**. |\n| Publication year | **2025** |\n| Publication date | **October 2025** |\n\n- The report says that \u201c**people and processes are the new constraint**,\u201d with leadership alignment, workforce skills, governance, and change management becoming paramount as Gen AI matures; **43%** of leaders warn of skill atrophy even though **89%** believe Gen AI tools augment work. Recruiting advanced Gen AI skills (**49%**) and delivering effective training (**46%**) are identified as the toughest talent challenges, while leadership capable of effective change management is a challenge for **41%** of enterprises.\n- Adoption is increasingly employee-led: **70%** of firms allow all employees access to Gen AI, and the leading rollout strategies are investing in employee training programs (**48%**) and allowing employees to test and innovate (**46%**). However, training investment has softened by **8 percentage points**, and confidence that moderate or extensive training will produce fluency has declined by **14 percentage points**.",
+   "hostname": "upenn",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.ey.com/en_gl/newsroom/2025/11/ey-survey-reveals-companies-are-missing-out-on-up-to-40-percent-of-ai-productivity-gains-due-to-gaps-in-talent-strategy",
+   "title": "EY survey reveals companies are missing out on up to 40 ...",
+   "content": "- **Title:** \u201cEY survey reveals companies are missing out on up to 40% of AI productivity gains due to gaps in talent strategy\u201d\n- **Author(s)/organization:** EY organization; named spokesperson Kim Billeter, EY Global and EY Americas People Consulting Leader. No individual article author is stated.\n- **Publisher:** EYGM Limited, a member of the global EY organization\n- **Publication year:** 2025\n\n- **What it says about adoption, training, sequencing, and people-related constraints:**\n  - The EY 2025 Work Reimagined Survey reports that **88% of employees use AI at work**, but primarily for basic tasks such as search and document summarization; only **5%** use AI in advanced ways to transform their work. The survey says that when AI is used effectively and on stable talent foundations, it can unlock **up to 40% more productivity gains**, while only **28%** of organizations are on track to achieve the \u201cTalent Advantage.\u201d\n  - The survey identifies insufficient learning and talent foundations as constraints on AI value: only **12%** of employees receive sufficient AI training, while leadership, supportive culture, and continuous learning are described as vital for adoption. Employees receiving more than **81 hours of annual AI training** report an average productivity gain of **14 hours per week**, compared with a median of **eight hours**, although they are also **55% more likely to leave** their organization.",
+   "description": "LONDON, 10 NOVEMBER 2025. The EY 2025 Work Reimagined Survey, which surveyed 15,000 employees and 1,500 employers across 29 countries, reveals a critical disconnect between artificial intelligence (AI) adoption and human readiness.",
+   "author": "Authorsalutation; Authorfirstnamerenny; Authorlastnamepopoola; Authorjobtitleey Global Media Relations; Social Media Leader; Service Lines; Corporate Programs; Authorurlhttps; Www Ey Com; En Gl; People; Renny-Popoola; Renny Popoola",
+   "hostname": "EY",
+   "published_date": "2025-11-10",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://sloanreview.mit.edu/article/turbocharging-organizational-learning-with-genai/",
+   "title": "Turbocharging Organizational Learning With GenAI",
+   "content": "| Field | Extracted information |\n|---|---|\n| **Title** | **Turbocharging Organizational Learning With GenAI** |\n| **Author(s)** | **Paul Baier and John J. Sviokla** |\n| **Organization / affiliation** | Cofounders of **GAI Insights**, a research and best practices firm for artificial intelligence and generative AI; both are executive fellows at **Harvard Business School**. |\n| **Publisher** | **Not stated** |\n| **Publication year** | **Year not stated** |\n| **What it says about change management, adoption, training, and learning** | Leaders should embrace generative AI as a new organizational capability rather than merely adopt it as a stand-alone technology. **Blue Cross Blue Shield of Michigan**, a **$35 billion** health insurer, implemented a cross-functional GenAI/AI leadership team to educate employees, promote responsible AI practices, improve efficiency, and innovate processes; after applying a GenAI tool to existing IT contracts, it recouped **more than $10 million** in savings. **Wolters Kluwer**, a **4.2 billion euro** business and academic information company, scheduled **one hour a week** for peer-led learning sessions, most focused on practical GenAI/AI applications, boosting employee skills, innovation, and retention. |\n| **Other stated figure relevant to adoption** | ChatGPT garnered **more than 100 million users in its first two months** of public availability. |",
+   "description": "Generative AI can greatly enhance organizational learning, but using it successfully requires the right mindset.",
+   "author": "Paul Baier; John J Sviokla",
+   "hostname": "MIT Sloan Management Review",
+   "published_date": "2025-01-13",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://erp.today/how-ai-is-forcing-erp-vendors-to-rethink-the-human-side-of-transformation/",
+   "title": "How AI Is Forcing ERP Vendors to Rethink the Human Side ...",
+   "content": "- **Title:** How AI Is Forcing ERP Vendors to Rethink the Human Side ...\n- **Author(s)/organization:** Not stated. The research cited is from **SAP and Wakefield Research**.\n- **Publisher:** ERP Today\n- **Publication year:** year not stated\n- **What it says:** Change management accounts for roughly **40%** of success in AI-enabled ERP-connected HR platform implementations, compared with **35%** for data readiness and **25%** for technology configuration. Organizations that treat AI enablement as a technical switch rather than a sustained organizational change program face cognitive strain, inconsistent adoption, governance gaps, and adoption failures that erode productivity gains; the article also states that **56%** of CHROs report early-career talent using unsanctioned AI tools when formal guidance is unclear.",
+   "description": "Research indicates that 88% of chief human resource officers believe AI accelerates the readiness of early-career talent, placing pressure on ERP vendors to enhance their platforms for intuitive AI experiences, while also emphasizing the need for clear governance to mitigate risks.",
+   "author": "Chris Vavra; Christopher-Vavra",
+   "hostname": "ERP Today",
+   "published_date": "2026-04-08",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://4439340.fs1.hubspotusercontent-na1.net/hubfs/4439340/Reports/ERP%20Report/2026-erp-report-panorama-consulting-group.pdf",
+   "title": "The 2026 ERP Report",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **The 2026 ERP Report** |\n| Author(s)/organization | **Panorama Consulting Group** |\n| Publisher | **Not explicitly stated** |\n| Publication year | **2026** |\n\n- \u201cUnfortunately, less than a quarter of organizations reported an intense focus on OCM.\u201d\n- \u201cIf employees are absorbing frequent changes, such as SaaS-driven changes (new features and UI updates), the cumulative change load creates fatigue. Any new initiative on top of this requires an intense focus on change management in order to prevent training gaps, inconsistent adoption, and workarounds.\u201d",
+   "hostname": "hubspotusercontent-na1",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ],
+ "t10_SI": [
+  {
+   "url": "https://upperedge.com/system-integrators/state-of-the-si-market-2025-the-race-to-lead-in-ai-enabled-consulting/",
+   "title": "State of the SI Market 2025: The Race to Lead in AI-Enabled ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **State of the SI Market 2025: The Race to Lead in AI-Enabled ...** |\n| Author | **Will Sleeper** |\n| Organization | **UpperEdge** |\n| Publisher | **Not stated** |\n| Publication year | **2025** |\n\nThe article describes systems integrators embedding AI more deeply into service delivery and ERP and transformation engagements. It highlights delivery-model changes including Accenture\u2019s creation of \u201cReinvention Services,\u201d which consolidates Strategy and Consulting, Technology, Song, and Operations into a single, AI-focused delivery organization.\n\nThe page does not address the boundary between systems-integrator-owned and client-owned AI tooling or assets, nor does it discuss ownership of AI-related intellectual property.",
+   "description": "Explore the SI market 2025 race in AI-enabled consulting as Accenture, IBM, EY & Deloitte reshape digital transformation strategies.",
+   "author": "Will Sleeper",
+   "hostname": "UpperEdge",
+   "published_date": "2025-08-22",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.altmansolon.com/thought-leadership/enterprise-ai-systems-integrators",
+   "title": "Reinventing Systems Integration in the Gen AI Era",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Reinventing Systems Integration in the Gen AI Era** |\n| Author(s)/organization | **Altman Solon**; no individual author is stated |\n| Publisher | **Not explicitly stated**; the page identifies Altman Solon as the organization behind the insight |\n| Publication year | **2025** |\n\nThe page does not specify a boundary between systems-integrator-owned and client-owned AI tooling or assets, nor does it state who owns the related AI intellectual property. It describes a shift toward a service model in which systems integrators charge an upfront fee for access to a platform hosting enterprise data and an LLM/SLM for annotation and training, with inference queries charged by token type; the platform access typically includes data scientists and industry experts.",
+   "description": "As enterprises prioritize AI DevOps, systems integrators are emerging as key players in transformation, opening doors to value creation for investors.",
+   "author": "Altman Solon",
+   "hostname": "Altman Solon",
+   "published_date": "2025-03-17",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.accenture.com/us-en/services/ai-data/ai-refinery",
+   "title": "Unlock Scalable AI with Accenture AI Refinery",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Unlock Scalable AI with Accenture AI Refinery** |\n| Author(s)/organization | **Accenture** |\n| Publisher | **Not stated** |\n| Publication year | **year not stated** |\n| What it says about AI tooling/assets and ownership | AI Refinery enables companies to build their own agents, create autonomous networks, and orchestrate agents created by Accenture and partners. Companies can customize pre-built foundation models using **their own proprietary data**, while Accenture provides pre-configured industry components, best practices, and foundational elements to help them adopt enterprise AI faster. |",
+   "description": "Accenture AI RefineryTM is a platform that consists of four components that address barriers when scaling AI. Learn more.",
+   "hostname": "accenture.com",
+   "published_date": "2024-10-09",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://newsroom.accenture.com/blogs/2026/accenture-launches-forward-deployed-engineering-program-with-sap",
+   "title": "BLOG: Accenture Launches Forward Deployed Engineering ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Blog: Accenture Launches Forward Deployed Engineering Program with SAP** |\n| Author(s)/organization | No individual author is stated. The organizations named are **Accenture** and **SAP**. |\n| Publisher | Not stated. |\n| Publication year | **2026** |\n| Delivery-model shift / AI tooling and assets | Accenture is launching a forward deployed engineering program with SAP in which Accenture and SAP teams work alongside clients to define, prioritize, develop and implement AI use cases on the SAP Business AI Platform. Accenture will bring its methodologies, assets and digital twin knowledge, while the teams collaborate with clients through discovery, data integration, rapid AI buildout, production activation and ongoing improvements. |\n| IP ownership of AI assets | Not stated. |",
+   "description": "Why now?, AI platforms are moving decisively from experimentation to scaled, enterprise-level deployment.",
+   "hostname": "newsroom.accenture.com",
+   "published_date": "2026-06-08",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.deloitte.com/us/en/about/press-room/deloitte-adopts-sap-joule-for-consultants-solution.html",
+   "title": "Deloitte Adopts SAP Joule for Consultants Solution to Accelerate ...",
+   "content": "- **Exact title:** Deloitte Adopts SAP Joule for Consultants Solution to Accelerate Value Delivery for SAP Projects\n- **Author(s)/organization:** Deloitte; no individual author is listed.\n- **Publisher:** Deloitte\n- **Publication year:** 2025\n- **Systems-integrator/client-owned AI tooling or assets:** The page states that SAP Joule for Consultants \u201cacts as a digital, context-aware solution offering SAP project delivery support that taps proprietary SAP data and tools.\u201d It also says the solution will work \u201cin tandem with Deloitte Ascend\u2122\u201d and be combined with Deloitte\u2019s domain and industry experience.\n- **IP ownership of AI assets:** The page does not state who owns the intellectual property or AI assets.\n- **Delivery-model shifts:** The page does not explicitly describe a shift in the delivery model. It says the solution is intended to accelerate knowledge search, enhance consultant productivity, minimize rework, streamline project execution, and free up time for more strategic activities.",
+   "description": "Deloitte, one of SAP\u2019s largest and most enduring collaborators dating back to 1989, today announced its adoption of SAP Joule for Consultants, a solution that is designed to accelerate knowledge search to help drive value delivery and enhance productivity for consulting teams working on SAP projects and cloud transformations.",
+   "hostname": "Deloitte",
+   "published_date": "2025-11-12",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.morganlewis.com/blogs/sourcingatmorganlewis/2024/09/structuring-rights-to-ai-ml-outputs-insights-and-improvements-when-customer-data-is-foundational",
+   "title": "Structuring Rights to AI/ML Outputs, Insights, and Improvements ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Structuring Rights to AI/ML Outputs, Insights, and Improvements When Customer Data Is Foundational** |\n| Author(s)/organization | **Morgan Lewis**; individual author(s) not stated |\n| Publisher | **Morgan Lewis** |\n| Publication year | **2024** |\n\nThe page explains that the vendor may own the pre-trained model, associated hyperparameters, vendor interfaces, and pre-trained model weights or other parameters, while the parties must negotiate ownership of improvements when the customer\u2019s data is foundational to fine-tuning. It also considers whether customer-owned data includes transformations, derivatives, or certain model outputs, and what rights the customer retains to use the model or custom parameters after the relationship ends.",
+   "description": "How are intellectual property (IP) and data rights allocated when a particular dataset is a key to unlocking a powerful new artificial intelligence/machine learning (AI/ML) model or use case? To find a balance, contracting parties may end up trading a black box for Pandora\u2019s box.",
+   "hostname": "morganlewis.com",
+   "published_date": "2024-09-04",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.lathropgpm.com/insights/navigating-ai-ownership-in-commercial-and-ip-license-agreements-key-considerations-for-tech-providers-and-customers/",
+   "title": "Navigating AI Ownership in Commercial and IP License Agreements",
+   "content": "| Field | Information |\n|---|---|\n| Title | **Navigating AI Ownership in Commercial and IP License Agreements** |\n| Author(s) / organization | Author not stated; contact listed: **Chiara Portner**. Organization: **Lathrop GPM** |\n| Publisher | **Lathrop GPM** |\n| Publication year | **year not stated** |\n\n- Because purely AI-generated works lacking meaningful human input may not qualify for copyright registration, agreements should include explicit ownership clauses specifying which party owns AI-generated outputs, including derivatives where applicable; some providers expressly assign ownership to the customer, while others state that the customer owns outputs or condition ownership on certain terms.\n- A technology company building on a third-party model may have constrained rights to grant its customers, so upstream model-provider terms regarding outputs, training data, confidentiality, indemnity and data use must be aligned with downstream customer agreements to avoid ownership conflicts, infringement exposure and liability gaps.",
+   "description": "Get the latest news and updates from Lathrop GPM, a top law firm providing legal insights, achievements, and community impact.",
+   "author": "Margo Hellman",
+   "hostname": "Lathrop GPM",
+   "published_date": "2026-05-18",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.idc.com/resource-center/blog/from-labor-arbitrage-to-platform-led-outcomes-how-agentic-ai-is-rewriting-the-it-services-playbook/",
+   "title": "IDC - How Agentic AI Is Rewriting the IT Services Playbook",
+   "content": "- **Title:** How Agentic AI Is Rewriting the IT Services Playbook\n- **Author:** Dina Capelle, Senior Research Analyst, Service Provider Agentic AI Platforms\n- **Organization:** IDC\n- **Publisher:** IDC\n- **Publication year:** year not stated\n\n- **Relevant statement:** IDC describes Service Provider Agentic AI Platforms (SPAAPs) as proprietary platforms built, operated, and maintained by services firms; they can serve as internal delivery platforms or client-facing platforms that complement or replace processes in the client environment and persist after the engagement ends.\n- **Relevant statement:** Services leaders are advised to establish clear IP and data ownership terms, while delivery models shift toward proprietary platforms, productized services, and outcome-based pricing alongside time-and-materials pricing.",
+   "description": "IDC's Dina Capelle on how agentic AI is shifting IT services from labor arbitrage to platform-led, outcome-based delivery and what service providers must do now.",
+   "author": "Dina Capelle; Christina Cardoza",
+   "hostname": "IDC",
+   "published_date": "2026-05-11",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/the-end-of-erp-as-we-know-it-five-ways-ai-is-disrupting-erp",
+   "title": "The end of ERP as we know it? Five ways AI is disrupting ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| **Title** | **The end of ERP as we know it? Five ways AI is disrupting ERP** |\n| **Authors** | Bj\u00f8rnar Jensen; Darwin Deano; Florian Bauer; Joe Boden; Nicolas Roth |\n| **Organization** | McKinsey Technology |\n| **Publisher** | Not stated in the page content |\n| **Publication year** | year not stated |\n| **Delivery-model shifts and AI tooling/assets** | System integrators are largely continuing to use the proven ERP delivery model, selectively adding AI use cases, while AI-native start-ups are offering AI-enhanced ERP delivery capabilities. ERP vendors could provide agentic AI-supported, end-to-end deployment and migration solutions, potentially acquiring promising start-ups to own the agentic layer above toolchains and the end-to-end integration while continuing to partner with selected leading tool providers. |\n| **IP ownership / systems-integrator-owned versus client-owned assets** | The page does not explicitly state a boundary between systems-integrator-owned and client-owned AI tooling or assets, and it does not specify ownership of AI intellectual property. |",
+   "description": "Discover how AI disruption in ERP is driving modernization with embedded AI solutions, transforming SAP and ERP platforms into AI-native, agentic systems.",
+   "author": "Bj\u00f8rnar Jensen; Darwin Deano; Florian Bauer; Joe Boden; Nicolas Roth",
+   "hostname": "McKinsey & Company",
+   "published_date": "2026-05-11",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://newsroom.ibm.com/2026-01-19-ibm-launches-enterprise-advantage-service-to-help-businesses-scale-agentic-ai",
+   "title": "IBM Launches Enterprise Advantage Service to Help ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **IBM Launches Enterprise Advantage Service to Help Businesses Scale Agentic AI** |\n| Author(s)/organization | **IBM**; no individual author is stated. |\n| Publisher | **IBM** |\n| Publication year | **2026** |\n| What it says about tooling/assets and delivery model | IBM Enterprise Advantage combines IBM consultants\u2019 expertise with technology built from **IBM Consulting Advantage**, described as IBM\u2019s own internal AI-powered delivery platform, and gives clients access to the same approach and capabilities to build **their own tailored internal AI platform**. It is an asset-based consulting service using proven AI tools, expertise, and reusable AI assets, while allowing clients to continue using their existing cloud providers, AI models, and core infrastructure. |\n| IP ownership of AI assets | The page does not explicitly state who owns the intellectual property in the AI assets. |",
+   "description": "IBM announced IBM Enterprise Advantage, a first-of-its-kind asset-based consulting service that combines proven AI-tools and expertise to help clients quickly build, govern, and operate their own tailored internal AI platform at scale.",
+   "hostname": "IBM Newsroom",
+   "published_date": "2026-01-19",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ],
+ "extra": [
+  {
+   "url": "https://www.gartner.com/reviews/market/decision-intelligence-platforms",
+   "title": "Best Decision Intelligence Platforms Reviews 2025 | Gartner Peer Insights",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | Decision Intelligence Platforms Reviews and Ratings |\n| Author/organization | Gartner Peer Insights |\n| Publisher | Not stated |\n| Publication year | year not stated |\n| Key claim | \u201cDecision intelligence platforms (DIPs) are software used to create solutions that support, automate and augment decision making of humans or machines, powered by the composition of data, analytics, knowledge and artificial intelligence (AI) techniques.\u201d \u201cDIPs must have collaborative capabilities for decision modeling, execution and monitoring.\u201d |\n\n- DIPs are used to \u201cdesign decision-centric solutions, explicitly model decisions, orchestrate decision execution flows, and evaluate and govern decisions and audit their outcomes.\u201d\n- Optional DIP features stated on the page include:\n  - Logic-based techniques\n  - Machine learning\n  - Business intelligence\n  - Natural language processing\n  - Optimization\n  - Graph technology\n  - AI agents\n  - Simulation\n  - Real-time event stream processing\n  - Multi-structured data preparation\n- Relevant AI-governance claim for Rainbird: \u201cIts main differentiation is trust in that all decisions are auditable and explainable.\u201d\n- Relevant AI-governance claim for ACTICO: ACTICO\u2019s solutions \u201censures regulatory compliance\u201d and combine \u201chuman expertise, artificial intelligence, and automation.\u201d",
+   "description": "Find the top Decision Intelligence Platforms with Gartner. Compare and filter by verified product reviews and choose the software that\u2019s right for your organization.",
+   "hostname": "Gartner_Peer",
+   "published_date": "2025-01-01",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.standishgroup.com/products/project-resolution-benchmark",
+   "title": "CHAOS Report: Decision Latency Theory",
+   "content": "- **Exact title:** *The CHAOS Report: Decision Latency Theory: It's All About the Interval*\n- **Author/organization:** Not stated\n- **Publisher:** Not stated\n- **Publication year:** 2018\n- **Key claim:** The report identifies the underlying causes of software project outcomes and analyzes factors that contribute to project success, called \u201cthe winning hand,\u201d and those that lead to failure, called \u201cthe losing hand.\u201d It specifically presents analysis and insights related to decision latency theory.",
+   "description": "The CHAOS Report: Decision Latency Theory: It's All About the Interval, released in 2018, identifies the underlying causes of software project outcomes. This 70-page report incorporates traditional CHAOS data through numerous charts, derived from an extensive database containing over 50,000 detailed project profiles",
+   "hostname": "The Standish Group",
+   "published_date": "2022-02-07",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.globenewswire.com/news-release/2023/01/30/2597645/0/en/Gartner-Research-Predicts-Decision-Intelligence-to-be-Among-Most-Relevant-Technology-Trends-in-the-Next-Decade.html",
+   "title": "Gartner\u00ae Research Predicts Decision Intelligence to be Among Most Relevant Technology Trends in the Next Decade",
+   "content": "| Field | Extracted information |\n|---|---|\n| Title | \u201cHype Cycle for Emerging Technologies in Finance, 2023\u201d |\n| Author/organization | Mark D. McDonald and Nisha Bhandare; Gartner |\n| Publisher | Gartner, Inc. |\n| Publication year | 2022 |\n| Key claim | \u201cDecision intelligence (DI) is a practical discipline used to improve decision making by explicitly understanding and engineering how decisions are made, and how outcomes are evaluated, managed and improved via feedback.\u201d \u201cSoftware tools are now emerging that will enable organizations to practically implement DI projects and strategies.\u201d |",
+   "description": "Axiom-One, the decision intelligence (DI) platform from Third Axiom, leverages advanced technologies and available data to generate insights and improve...",
+   "author": "Third Axiom",
+   "hostname": "Third Axiom",
+   "published_date": "2023-01-30",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tmforum.org/resources/toolkit/ai-governance/",
+   "title": "AI Governance Toolkit - TM Forum",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | AI Governance Toolkit |\n| Author/organization | Not stated on the page. |\n| Publisher | Not stated on the page. |\n| Publication year | Year not stated for the toolkit page. The listed resources have team-approved dates ranging from 2018 to 2022. |\n| Key claim relevant to AI governance | \u201cAI Governance toolkit will assist with safely deploying AI at scale.\u201d It is intended to help communications service providers deploy AI solutions within a framework that enables and demonstrates proper control and governance to the satisfaction of stakeholders, external regulators, customers and the general public. |\n\n### Resources explicitly listed\n\n| Resource name | Document version | Document type | Team approved date | Download information |\n|---|---:|---|---|---|\n| Resource name not stated | 1.0.0 | Introductory Guide | 26 May 2021 | Not stated |\n| Resource name not stated | 1.0.0 | Introductory Guide | 2 Apr 2021 | Not stated |\n| Resource name not stated | 1.0.0 | Specifications | 11 Nov 2020 | For Forum Members \u2014 Download |\n| Resource name not stated | 1.0.1 | Standard | 3 Dec 2018 | Not stated |\n| GB1021 AI & DA Management Standards Guidebook: AI Checklists v1.0.0 | 1.0.0 | How To Guide | 2 Oct 2020 | Not stated |\n| Resource name not stated | 1.0.0 | Poster | 22 Apr 2022 | Not stated |\n| Resource name not stated | Reference | Not stated | 2 Oct 2020 | Not stated |\n| Resource name not stated | 1.0.1 | Standard | 3 Dec 2018 | Not stated |\n| Resource name not stated | 4.0.0 | Specifications | 30 Jun 2020 | Not stated |\n| Resource name not stated | 1.0.1 | Specifications | 30 Nov 2019 | Not stated |\n| Resource name not stated | 4.0.0 | Specifications | 31 Jul 2020 | Not stated |\n\n- No information is stated on the page about Gartner\u2019s Hype Cycle.\n- No information is stated on the page about Gartner Magic Quadrant placement.\n- No information is stated on the page about project decision latency or failure rates.",
+   "description": "Unlock the AI Governance Toolkit to safely deploy AI at scale. Ensure proper control and governance, meeting stakeholder and regulatory requirements.",
+   "hostname": "TM Forum",
+   "published_date": "2024-11-05",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.forbes.com/sites/eriklarson/2022/05/10/gartners-decision-intelligence-trend-is-taking-off-what-took-so-long/",
+   "title": "Gartner's Decision Intelligence Trend Is Taking Off. What Took So Long?",
+   "content": "| Field | Extracted information |\n|---|---|\n| Title | **Gartner's Decision Intelligence Trend Is Taking Off. What Took So Long?** |\n| Author/organization | **Erik Larson** |\n| Publisher | **Forbes** |\n| Publication year | **2022** |\n| Key claim | Decision intelligence emerged as a prominent technology term, but Gartner did not designate it as one of the **Top Trends for 2022** until October of the previous year, when it also provided a clear definition. This transformed decision intelligence from an ambiguous marketing buzzword into a crucial business strategy. |",
+   "description": "Suddenly, companies are treating decision-making like other modern business processes and implementing systems to model, track, learn from and improve specific management decisions.",
+   "author": "Erik Larson",
+   "hostname": "www.forbes.com",
+   "published_date": "2022-05-10",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://inform.tmforum.org/research-and-analysis/reports/optimizing-governance-to-accelerate-genai-deployment",
+   "title": "Optimizing governance to accelerate GenAI deployment",
+   "content": "- **Title:** \u201cOptimizing governance to accelerate GenAI deployment\u201d\n- **Author/organization:** TM Forum\n- **Publisher:** Not stated\n- **Publication year:** year not stated\n- **Key claim:** \u201cGovernance is a critical component of operators\u2019 AI strategies and key to deploying the technology at scale.\u201d \u201cGovernance of AI technologies and processes is a vital part of realizing its business value, and can even be the difference between success and failure.\u201d",
+   "description": "Governance is a critical component of operators\u2019 AI strategies and key to deploying the technology at scale.",
+   "author": "Dawn Bushaus",
+   "hostname": "TMForum",
+   "published_date": "2025-09-30",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tmforum.org/toolkits/digital-twin-for-decision-intelligence-dt4di-toolkit/",
+   "title": "Digital Twin for Decision Intelligence (DT4DI) Toolkit",
+   "content": "## Page\n\n| Field | Extracted information |\n|---|---|\n| Exact title | Digital Twin for Decision Intelligence (DT4DI) Toolkit |\n| Author/organization | Not stated |\n| Publisher | Not stated |\n| Publication year | Year not stated |\n| Key claim | Digital twin for decision intelligence (DT4DI) assets help organizations upgrade decision-making and business processes using digital twin and AI. The page states that DT4DI is an emerging discipline that can help organizations become knowledge-driven and results-oriented. |\n\n## Resources listed\n\n| Exact title as shown | Author/organization | Publisher | Publication year | Team Approved Date | Key claim relevant to the requested topics |\n|---|---|---|---|---|---|\n| IG1307 Digital Twin for Decision Intelligence (DT4DI): From Strategy to Implementation v3.0.0 | Not stated | Not stated | Year not stated | 15 May 2025 | No specific claim about market definition, Gartner hype cycle or Magic Quadrant placement, project decision latency or failure rates, or AI governance is stated. |\n| Title not stated; document version shown as 3.7.0 | Not stated | Not stated | Year not stated | 7 Nov 2024 | No specific claim about market definition, Gartner hype cycle or Magic Quadrant placement, project decision latency or failure rates, or AI governance is stated. |\n| IG1310A Digital Twin for Decision Intelligence (DT4DI) Reference Architecture v2.2.0 | Not stated | Not stated | Year not stated | 18 Oct 2023 | No specific claim about market definition, Gartner hype cycle or Magic Quadrant placement, project decision latency or failure rates, or AI governance is stated. |\n| IG1310B Digital Twin for Decision Intelligence (DT4DI) Maturity Model v1.0.0 | Not stated | Not stated | Year not stated | 18 Aug 2023 | No specific claim about market definition, Gartner hype cycle or Magic Quadrant placement, project decision latency or failure rates, or AI governance is stated. |\n| Title not stated; document version shown as 10.0.0 | Not stated | Not stated | Year not stated | 14 May 2025 | No specific claim about market definition, Gartner hype cycle or Magic Quadrant placement, project decision latency or failure rates, or AI governance is stated. |",
+   "description": "Open Digital Architecture Quick links Open APIs eTOM SID ODA Manifesto Open API Manifesto ODA Training Open API conformance certification How to apply ODA",
+   "hostname": "TM Forum",
+   "published_date": "2024-07-02",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ],
+ "venues": [
+  {
+   "url": "https://aisel.aisnet.org/misqe/policies.html",
+   "title": "Information for Authors | MISQE | AIS Journals - AIS eLibrary",
+   "content": "| Requested information | Extracted details |\n|---|---|\n| Exact page title | **Information for Authors \\| MISQE \\| AIS Journals - AIS eLibrary** |\n| Publisher/organization | **AIS Journals / AIS eLibrary** |\n| Venue scope | \u201cThe key criterion for publication in *MIS Quarterly Executive* is whether a paper provides new insights for Information Systems (IS) and business professionals engaged in IS decision-making.\u201d |\n| What it accepts | \u201cAnyone may submit an original article to be considered for publication in *MIS Quarterly Executive* provided he or she owns the copyright to the work being submitted or is authorized by the copyright owner or owners to submit the article.\u201d Manuscripts must not exceed **7,500 words**, must be accompanied by an **Addendum**, and must be submitted electronically via **ManuscriptCentral**. |\n| Review process | Submissions are screened for review readiness by the **Editor-in-Chief** and, if assigned, the **Senior Editor**; after screening, they go to **at least, but generally no more than, two Editorial Board reviewers**. The process is typically **single-blind**, and authors receive one consensus document from the Senior Editor summarizing the review team\u2019s conclusions rather than separate reviews from each reviewer. |",
+   "hostname": "aisel.aisnet.org",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://hicss.hawaii.edu/authors/",
+   "title": "Authors | HICSS",
+   "content": "- **Page title:** Authors | HICSS\n- **Publisher/organization:** HICSS\n- **Scope and submissions:** HICSS solicits papers emphasizing advances in research and development in several areas of system sciences; each paper must be submitted to one minitrack within one of the 11 larger tracks. Papers must contain original material, must not have been previously published or submitted elsewhere, and acceptance is based on a strict peer review in a double-blind process from June through August.\n- **Publication year:** Not stated.",
+   "hostname": "hicss.hawaii.edu",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.computer.org/digital-library/magazines/so/cfp-ieee-software",
+   "title": "Call for Papers: IEEE Software",
+   "content": "- **Page title:** Call for Papers: IEEE Software\n- **Publisher/organization:** IEEE\n- **Scope and submissions:** *IEEE Software* is a bimonthly magazine providing reliable, useful, peer-reviewed information for software practitioners, positioned between pure research and pure practice and covering topics including process improvement, project management, development tools, software maintenance, web applications, testing, and usability. It accepts peer-reviewed articles and columns, including articles describing software development in companies, laboratories, and universities; new tools; current trends; and past projects\u2019 limitations, failures, and successes.\n- **Publication year:** Not stated.",
+   "description": "IEEE Software welcomes articles describing how software is developed in specific companies, laboratories, and university environments as well as articles describing new tools, current trends, and past projects\u2019 limitations and failures as well as successes.",
+   "hostname": "IEEE Computer Society",
+   "published_date": "2025-01-07",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://cacm.acm.org/practice/communications-practice-section-welcomes-submissions/",
+   "title": "Communications Practice Section Welcomes Submissions",
+   "content": "| Field | Information |\n|---|---|\n| Page title | **Communications Practice Section Welcomes Submissions** |\n| Publisher/organization | **ACM** |\n| Venue scope and submissions | *Communications*\u2019 Practice section considers submissions on \u201cany topic of broad interest to the world\u2019s computing practitioners,\u201d including deep dives on specific problems and solutions, emerging best practices, cautionary tales, postmortems, corrigenda, and debunking. |\n| Submission and review process | Authors should email the Practice section first, then may brainstorm with the editors and develop an outline; submissions are evaluated primarily for practicality and rigor, including actionable improvements, clarity, concreteness, working code, and hard evidence such as production experience, and accepted articles are polished with professional editors. |\n| Publication year | Not stated. |",
+   "author": "David Roman",
+   "hostname": "Communications of the ACM",
+   "published_date": "2025-10-29",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.emeraldgrouppublishing.com/journal/jeim",
+   "title": "Journal of Enterprise Information Management",
+   "content": "| Requested information | Extracted content |\n|---|---|\n| Exact page title | **Journal of Enterprise Information Management** |\n| Publisher/organization | **Emerald Publishing** |\n| Scope | \u201cJournal of Enterprise Information Management publishes high quality articles of significant intellectual interest and commercial relevance to managers, consultants, academics and students operating within an information intense business driven enterprise.\u201d |\n| Scope | \u201c*Journal of Enterprise Information Management (JEIM) *contributes to the normative literature, providing conceptual and practical insights underpinned by innovative findings that add to the body of knowledge.\u201d |\n| What it accepts for submission | \u201c*JEIM *publishes research findings from internationally distinguished experts.\u201d It also accepts contributions from \u201csenior business managers and consultants, who report on specific enterprise case experiences that promote the learning of others by comparing and contrasting environmental settings.\u201d |\n| Special issue submissions | \u201cJEIM welcomes enquiries and suggestions for Special Issues at any time of the year.\u201d Proposals should include the proposed title, a brief summary of scope and justification, a proposed timeline, and brief details of guest editors. The number of guest editors should be no more than three. |\n| Review/decision process | For special issue proposals, \u201cA decision on each proposal will be decided within one month of each date where possible.\u201d No general article peer-review process is stated on the page. |\n| Publication year | No publication year for the journal is stated.",
+   "description": "Journal of Enterprise Information Management publishes high quality articles of significant intellectual interest and commercial relevance to managers, consultants, academics and students operating within an information intense business driven enterprise.",
+   "hostname": "Emerald Publishing",
+   "published_date": "2024-08-15",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://sloanreview.mit.edu/authors/",
+   "title": "Author Guidelines",
+   "content": "| Requested information | Extracted content |\n|---|---|\n| **Page title** | **Author Guidelines** |\n| **Publisher/organization** | **MIT Sloan School of Management**; the publication is **MIT Sloan Management Review (MIT SMR)**. |\n| **Scope** | MIT Sloan Management Review offers practical insights and big-picture thinking for companies and leaders seeking to create long-term value and better serve all stakeholders in an increasingly complex world. It examines technology\u2019s impact on strategy, operations, and the workforce; new ideas for managing innovation, fostering diversity and inclusion, and promoting sustainability; and the evolving leadership skills required to navigate uncertain times. |\n| **What/how it accepts for submission** | MIT SMR publishes short essays, opinion pieces, full-length articles, and research highlights; it is looking for shorter essays and research highlights ranging from **1,000\u20132,500 words**. Prospective authors should submit completed articles through the online submissions interface as **Word documents (.doc or .docx), not PDFs**; however, the page states that MIT Sloan School of Management will cease publication of MIT Sloan Management Review later this year and that it will **no longer be accepting submissions**. |\n| **Review process** | Receipt of an article or proposal is acknowledged immediately upon submission. If a submission is promising, it is assigned to an editor as provisionally accepted; the editor works collaboratively with authors, while MIT SMR may edit and rewrite substantially to serve its audience of business executives. |\n| **Publication year** | Not stated. The page is marked \u201cUpdated on May 22, 2026.\u201d |",
+   "description": "MIT Sloan Management Review\u2019s author guidelines detail what the magazine is looking for and how to submit content.",
+   "author": "Massachusetts Institute",
+   "hostname": "MIT Sloan Management Review",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.isaca.org/resources/isaca-journal/submit-an-article",
+   "title": "ISACA\u00ae Journal Article Submission",
+   "content": "- **Page title:** ISACA\u00ae Journal Article Submission\n- **Publisher/organization:** ISACA\n\n- **Scope and submission:** The *ISACA Journal* covers relevant, new developments and in-depth technically oriented subjects with broad appeal, focusing on practical matters; it is published six times per year and also offers Online-Exclusive articles. It accepts factual recitations of research or experiential findings, approximately 2,000\u20133,000 words in a Word document, with references and/or endnotes required; articles must be the author\u2019s own creation without artificial intelligence (AI) assistance.\n- **Review process:** Manuscripts are reviewed by two or more members of the *Journal* review team through a double-blind peer-review process that can take up to 8 weeks.\n\n- **Publication year:** Not stated.",
+   "description": "Submit an ISACA Journal article to get your name in front of your peers, earn CPE credit hours and establish yourself as an industry expert.",
+   "hostname": "ISACA",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tmforum.org/member-projects/collaboration",
+   "title": "Collaboration projects | TM Forum",
+   "content": "- **Page title:** Collaboration projects | TM Forum\n- **Publisher/organization:** TM Forum\n- **Scope:** TM Forum\u2019s Collaboration projects address industry challenges across the telecommunications industry by developing standards, best practices, and toolkits. Projects cover topics aligned with TM Forum\u2019s three industry Missions: Composable IT and Ecosystems, Autonomous Networks, and AI and Data Innovation, and directly contribute to Open Digital Architecture (ODA).\n- **Submission types and review process:** The page does not describe article or other submission types, nor a publication review process. It states that the projects are available only to Members, who can join by clicking \u201cJoin the project,\u201d logging in, completing the Intellectual Property Rights (IPR) form, agreeing to its terms, and waiting for approval.\n- **Publication year:** Not stated.",
+   "description": "Do you want a unique opportunity to shape industry direction and deliver meaningful impact across the telecommunications industry? Join a project to co-create standards and best practices that address top industry challenges.",
+   "hostname": "tmforum.org",
+   "published_date": "2025-06-19",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tandfonline.com/journals/tjds20/about-this-journal",
+   "title": "Editorial Board",
+   "content": "- **Page title:** Editorial Board\n- **Publisher/organization:** Taylor & Francis\n- **Scope and submission:** The *Journal of Decision Systems* extends scientific knowledge related to decision making and decision support, including decision-making processes in different environments and the social and/or technical factors influencing them, with applications such as systems development, human resource management, health and wellbeing, marketing, product design, green IT, financial services, and crisis management. The journal accepts research articles using different backgrounds, theories, and methodologies; submissions undergo double-anonymized peer review and can be made via the JDS submission site.\n- **Publication year:** Not stated.",
+   "description": "Learn about Journal of Decision Systems aims & scope, editorial board, journal metrics and more.",
+   "author": "Instructions",
+   "hostname": "Taylor & Francis",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://authors.acm.org/magazines/cacm",
+   "title": "Overview for CACM",
+   "content": "- **Page title:** Overview for CACM\n- **Publisher/organization:** ACM\n- **Venue:** *Communications of the ACM*, the flagship publication of the ACM.\n- **Scope and submission information:** The page provides resources for existing and prospective authors to define, compose, and submit an article or manuscript for *Communications of the ACM*. Authors are strongly encouraged to review the Author Guidelines to understand the scope of submissions and the competition for acceptance; specific submission information depends on the section of CACM to which an author wishes to submit.\n- **Article types:** Not specified on the page.\n- **Review process:** Not specified on the page.\n- **Publication year:** Not stated.",
+   "description": "A webpage that describes the author submission process for Communications of the ACM (CACM).",
+   "author": "Author Guidelines; Submission Information",
+   "hostname": "Theofficialacm",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ]
+}

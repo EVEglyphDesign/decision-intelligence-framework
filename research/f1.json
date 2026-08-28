@@ -1,0 +1,465 @@
+{
+ "t1_DI": [
+  {
+   "url": "https://www.gartner.com/en/information-technology/glossary/decision-intelligence",
+   "title": "Definition of Decision Intelligence - Gartner Information Technology Glossary",
+   "content": "| Requested information | Extracted details |\n|---|---|\n| Exact page/article title | **Definition of Decision Intelligence - Gartner Information Technology Glossary** |\n| Author(s) | Not stated |\n| Publisher or journal | **Gartner Information Technology Glossary**; Gartner |\n| Publication year | **year not stated** |\n| Definition/treatment of decision intelligence | \u201cDecision intelligence (DI) is a practical discipline that advances decision making by explicitly understanding and engineering how decisions are made and how outcomes are evaluated, managed and improved via feedback.\u201d |\n| Boundary versus business intelligence (BI) or data science | No boundary versus BI or data science is stated on the page. |",
+   "description": "Decision intelligence is a practical domain framing a wide range of decision-making techniques bringing multiple traditional and advanced disciplines together to design, model, align, execute, monitor and tune decision models and processes.",
+   "hostname": "Gartner",
+   "published_date": "2025-01-01",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.gartner.com/en/research/methodologies/gartner-hype-cycle",
+   "title": "Gartner Hype Cycle Research Methodology | Gartner",
+   "content": "| Requested information | Extracted content |\n|---|---|\n| Exact page/article title | **Gartner Hype Cycle Research Methodology \\| Gartner** |\n| Author(s) | Not stated |\n| Publisher or journal | **Gartner** |\n| Publication year | **Year not stated** |\n| Definition or treatment of decision intelligence / decision-making with analytics and AI | Decision intelligence is not mentioned. The page states that Gartner Hype Cycles represent the maturity and adoption of technologies and applications, their potential relevance to solving real business problems and exploiting new opportunities, and how a technology or application may evolve over time to help manage deployment in the context of specific business goals. |\n| Boundary versus business intelligence (BI) or data science | No boundary or comparison with BI or data science is stated.",
+   "description": "Gartner Hype Cycle methodology gives you a view of how a technology or application will evolve over time, providing a sound source of insight to manage its deployment within the context of your specific business goals.",
+   "hostname": "Gartner",
+   "published_date": "2024-02-25",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.gartner.com/en/newsroom/press-releases/2024-08-21-gartner-2024-hype-cycle-for-emerging-technologies-highlights-developer-productivity-total-experience-ai-and-security",
+   "title": "Gartner 2024 Hype Cycle for Emerging Technologies Highlights Developer Productivity, Total Experience, AI and Security",
+   "content": "- **Article title:** \u201cGartner 2024 Hype Cycle for Emerging Technologies Highlights Developer Productivity, Total Experience, AI and Security\u201d\n- **Author(s):** Author not stated. Arun Chandrasekaran is quoted as a Distinguished VP Analyst at Gartner; Matt LoDolce and Catherine Howley are listed as Gartner media contacts.\n- **Publisher:** Gartner, Inc.\n- **Journal:** Not stated\n- **Publication year:** 2024\n- **Decision intelligence / decision-making with analytics and AI:** The page states that autonomous AI systems can \u201cimprove themselves and become effective at decision-making in complex environments.\u201d It identifies autonomous AI technologies including multiagent systems, large action models, machine customers, humanoid working robots, autonomous agents, and reinforcement learning.\n- **Boundary versus business intelligence or data science:** The page does not define decision intelligence or describe boundaries between decision intelligence, business intelligence, or data science.",
+   "description": "The 25 disruptive technologies to watch on the Gartner, Inc. Hype Cycle for Emerging Technologies, 2024 fall into four key areas: autonomous AI, developer productivity, total experience, and human-centric security and privacy programs.",
+   "hostname": "Gartner",
+   "published_date": "2024-08-21",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://medium.com/data-science/introduction-to-decision-intelligence-5d147ddab767",
+   "title": "What is Decision Intelligence?",
+   "content": "| Field | Extracted information |\n|---|---|\n| Article title | **Introduction to Decision Intelligence** |\n| Author | **Cassie Kozyrkov** |\n| Publisher or journal | **TDS Archive**; published on **Medium** |\n| Publication year | **2019** \u2014 Aug 2, 2019 |\n| Definition and treatment | \u201cDecision intelligence is a new academic discipline concerned with all aspects of selecting between options.\u201d It \u201cbrings together the best of applied data science, social science, and managerial science into a unified field\u201d and is \u201cthe discipline of turning information into better actions at any scale.\u201d |\n| Role in AI and analytics | It covers \u201cthe skills needed to lead AI projects responsibly and design objectives, metrics, and safety-nets for automation at scale.\u201d |\n| Boundary versus BI or data science | The page states that decision intelligence brings together applied data science, social science, and managerial science, but it does not explicitly define a boundary versus business intelligence (BI) or data science. |",
+   "description": "A new discipline for leadership in the AI era",
+   "author": "Cassie Kozyrkov",
+   "hostname": "TDS Archive",
+   "published_date": "2019-08-02",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://towardsdatascience.com/decision-intelligence-a-preliminary-summary-2098a9b79b46/",
+   "title": "Digging into decision intelligence | Towards Data Science",
+   "content": "| Requested information | Extracted details |\n|---|---|\n| Exact page/article title | **Digging into decision intelligence** |\n| Author(s) | **Not stated in the provided page content.** Cassie Kozyrkov, at Google, is identified as promoting the idea of decision intelligence and coining the term. |\n| Publisher or journal | **Towards Data Science** |\n| Publication year | **Year not stated** |\n| Definition/treatment of decision intelligence and decision-making with analytics and AI | Decision intelligence, a term coined by Cassie Kozyrkov, aims to regroup known decision-making methods, insights, and best practices under a common umbrella, including analytics; frequentist and Bayesian statistics; machine learning; decision science; behavioral economics; and the psychology and neurology of decisions. It treats decision-making according to scale and readiness: machine learning for making decisions at scale, statistics for a small number of rigorous decisions, and analytics for situations where insight is needed before making a decision. |\n| Boundary versus BI or data science | Data science is purposefully omitted from the listed decision-intelligence methods because it is described as a popular but not well-defined term; the post presents decision intelligence as an experiment to determine whether it better demarcates a coherent field of interest. The article describes decision intelligence as \u201cdefragmenting the current decision making landscape\u201d and as encompassing both practical application and theoretical understanding of decision methods. |",
+   "description": "Cassie Kozyrkov, at Google, promotes the term decision intelligence. This post distills a large number of Cassies's posts to dig in deeper.",
+   "author": "Sanne de Roever",
+   "hostname": "Towards Data Science",
+   "published_date": "2025-01-26",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.wired.com/story/google-chief-decision-scientist-cassie-kozyrkov/",
+   "title": "Google's got a chief decision scientist. Here's what she does",
+   "content": "- **Title:** \u201cGoogle's got a chief decision scientist. Here's what she does\u201d\n- **Author(s):** Not stated on the page content.\n- **Publisher or journal:** WIRED; the article was initially published by WIRED UK.\n- **Publication year:** 2019\n- **Decision intelligence / decision-making with analytics and AI:** Kozyrkov describes decision intelligence as using applied data science, artificial intelligence, and analytics to develop better tools and products. It combines data and behavioral science with human decision-making to help well-conceived projects succeed, identify misguided initiatives before they gain momentum, and mitigate biases in algorithms.\n- **Boundary versus business intelligence (BI) or traditional data science:** The page states that her role transcends traditional data science and connects data science with behavioral science and human decision-making. A distinction from or boundary with business intelligence (BI) is not stated.",
+   "description": "Cassie Kozyrkov wants to use applied data science, AI and analytics to create better tools and products \u2013 a discipline that she calls decision intelligence",
+   "author": "Emma Sheppard",
+   "hostname": "www.wired.com",
+   "published_date": "2019-10-25",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://aisel.aisnet.org/misqe/vol19/iss2/5/",
+   "title": "\"Data Analytics Contributes to Better Decision-Making Beyond ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Article title | \u201cData Analytics Contributes to Better Decision-Making Beyond Organizational Boundaries\u201d |\n| Author(s) | Wenyu (Derek) Du; Shan L. Pan; Kang Xie; Jinghua Xiao |\n| Journal | *MIS Quarterly Executive* |\n| Publication year | 2020 |\n| Decision-making with analytics | The article describes how GSE, a leading Chinese garment company, deployed data analytics to orchestrate a networked organization. Data analytics helps align partners\u2019 operations with GSE\u2019s goals while empowering partners to perform actions that optimize their local outcomes. |\n| Decision intelligence / AI / boundary with BI or data science | The page does not explicitly define or mention \u201cdecision intelligence,\u201d artificial intelligence (AI), business intelligence (BI), or data science, nor does it state a boundary between these concepts.",
+   "description": "We describe how GSE, a leading Chinese garment company, deployed data analytics to orchestrate a networked organization. Data analytics helps to align partners\u2019 operations with GSE\u2019s goals while simultaneously empowering partners to perform actions that optimize their local outcomes. The GSE case highlights the emerging strategic role of the IT department during the adoption of data analytics. Based on the case analysis, we provide nine recommended actions for using data analytics to orchestrate a networked organization.",
+   "author": "Wenyu Du; Shan L Pan; Kang Xie; Jinghua Xiao",
+   "hostname": "AIS Electronic Library (AISeL)",
+   "published_date": "2020-05-31",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://sloanreview.mit.edu/article/intelligent-choices-reshape-decision-making-and-productivity/",
+   "title": "Intelligent Choices Reshape Decision-Making and ...",
+   "content": "| Requested information | Extracted detail |\n|---|---|\n| Exact page/article title | **Intelligent Choices Reshape Decision-Making and Productivity** |\n| Author(s) | **Michael Schrage**; **David Kiron** |\n| Publisher/journal | **MIT Sloan Management Review** |\n| Publication year | **year not stated** |\n| Treatment of decision intelligence / decision-making with analytics and AI | The article presents \u201cintelligent choice architectures\u201d and intelligent measurement systems as AI-enabled structures that use data analysis, synthesis, pattern recognition, predictive analytics, and generative AI to generate diverse, detailed, personalized, predictive, and ethically aware options that help people make better decisions and achieve better outcomes. |\n| Boundary versus traditional BI or data science | It distinguishes these systems from traditional dashboards and scorecards, which measure progress based on legacy accounting and compliance imperatives but cannot generate the insights or foresight needed to create superior choices; predictive and generative AI systems can surface hidden options, reveal overlooked interdependencies, suggest novel pathways, predict outcomes, and guide choices. |",
+   "description": "Research shows that better decision-making can be achieved through the strategic use of artificial intelligence systems.",
+   "author": "Michael Schrage; David Kiron",
+   "hostname": "MIT Sloan Management Review",
+   "published_date": "2024-10-29",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://sloanreview.mit.edu/article/the-great-power-shift-how-intelligent-choice-architectures-rewrite-decision-rights/",
+   "title": "How Intelligent Choice Architectures Rewrite Decision Rights",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact page/article title | **How Intelligent Choice Architectures Rewrite Decision Rights** |\n| Author(s) | **Michael Schrage**; **David Kiron** |\n| Publisher/journal | **MIT Sloan Management Review** |\n| Publication year | **Year not stated** |\n| Definition/treatment of decision intelligence and AI-enabled decision-making | The article describes intelligent choice architectures (ICAs) as systems that combine generative and predictive AI to \u201ccreate, refine, prioritize, and present options,\u201d while articulating and explaining trade-offs, surfacing hidden opportunities, and learning from outcomes to refine future choice sets. It presents these systems as a shift from using algorithms primarily for task-automation efficiencies to deploying AI to design superior decision environments and to reshape decision rights, accountability frameworks, and power dynamics among decision makers. |\n| Boundary versus business intelligence (BI) or data science | **Not stated in the page content.** |",
+   "description": "Agentic AI adopters must proactively address decision rights allocations, power dynamics, and decision-making practices.",
+   "author": "Michael Schrage; David Kiron",
+   "hostname": "MIT Sloan Management Review",
+   "published_date": "2025-01-28",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://sloanreview.mit.edu/article/genai-tools-and-decision-making-beware-a-new-control-trap/",
+   "title": "GenAI Tools and Decision-Making: Beware a New Control Trap",
+   "content": "- **Article title:** \u201cGenAI Tools and Decision-Making: Beware a New Control Trap\u201d\n- **Author(s):**\n  - J. Mauricio Galli Geleilate, Ph.D., associate professor of strategy at the Manning School of Business at the University of Massachusetts Lowell\n  - Beth K. Humberd, Ph.D., associate professor of management at the Manning School of Business\n- **Publisher or journal:** Not stated in the page content.\n- **Publication year:** year not stated\n- **Treatment of decision-making with analytics and AI:** The article states that generative AI tools can aid managers in strategic decision-making and assist with problem-solving in contexts ranging from product development to employee conflicts; ChatGPT is also being used as a debating partner in managerial decision-making processes. It reports that managers who used ChatGPT to help solve a problem concerning employee behavior and working conditions were more likely to propose control-oriented rather than people-oriented solutions, potentially nudging them toward a more rigid and mechanistic approach.\n- **Boundary versus business intelligence or data science:** Not stated in the page content.",
+   "description": "Consider these three takeaways for leaders on how to avoid pitfalls while using generative AI tools in decision-making.",
+   "author": "J Mauricio Galli Geleilate; Beth K Humberd",
+   "hostname": "MIT Sloan Management Review",
+   "published_date": "2024-11-18",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tandfonline.com/journals/tjds20/about-this-journal",
+   "title": "Editorial Board",
+   "content": "| Requested information | Extracted details |\n|---|---|\n| Exact page/article title | **Editorial Board** |\n| Journal | **Journal of Decision Systems (JDS)** |\n| Author(s) | **Not stated.** The page identifies Ciara Heavin as Editor-in-Chief and lists the journal\u2019s editorial board. |\n| Publisher | **Not explicitly stated.** The page references Taylor & Francis Online, Taylor & Francis Open Select, and Taylor & Francis author services. |\n| Publication year | **Year not stated** |\n| Definition/treatment of decision-making, analytics, and AI | Decision support is defined as \u201cthe routine, techniques, support staff and computer-based applications that provide dedicated support or dedicated information to facilitate individuals or groups in their decision-making tasks.\u201d The journal\u2019s scope includes **Big Data and Data Analytics**, **Business Intelligence**, and **Intelligent or Augmented Decision Systems**, but the page does not provide a specific definition of decision intelligence or describe a boundary between decision intelligence, business intelligence, and data science. |",
+   "description": "Learn about Journal of Decision Systems aims & scope, editorial board, journal metrics and more.",
+   "author": "Instructions",
+   "hostname": "Taylor & Francis",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://journals.sagepub.com/doi/10.1177/18724981251316079",
+   "title": "Intelligent decision technologies: An international journal (IDT) heading into its 19th year \u2013 A short note from the editors-in-chief - George A Tsihrintzis, Gloria Phillips-Wren, Lakhmi C Jain, 2025",
+   "content": "| Field | Extracted information |\n|---|---|\n| Article title | *Intelligent decision technologies: An international journal (IDT) heading into its 19th year \u2013 A short note from the editors-in-chief* |\n| Authors | George A. Tsihrintzis; Gloria Phillips-Wren; Lakhmi C. Jain |\n| Journal | *Intelligent Decision Technologies* |\n| Publisher | Sage; IOS Press was acquired by Sage on November 1, 2023 |\n| Publication year | 2025 |\n| Article first published online | February 13, 2025 |\n| Treatment of decision intelligence / decision-making with analytics and AI | The journal\u2019s purpose is \u201cto develop a forum for theoretical and applied research that combines artificial intelligence based in computer science, decision support based in information technology, and systems development based in engineering science.\u201d It states that synergies between intelligent and information technologies can enhance human judgment, perceive anomalies in data, enable collaboration, speed processing of new information, assist in risk assessment, identify and retrieve needed knowledge, suggest alternatives to the decision maker, and automate some decisional tasks. |\n| Boundary versus business intelligence or data science | No explicit boundary between decision intelligence, business intelligence, and data science is stated on the page. |",
+   "author": "George A Tsihrintzis; Gloria Phillips-Wren; Lakhmi C Jain",
+   "hostname": "Sage Journals",
+   "published_date": "2025-01-13",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ],
+ "t2_TMF": [
+  {
+   "url": "https://www.tmforum.org/digital-twin-for-decision-intelligence-dt4di/",
+   "title": "Digital twin for decision intelligence DT4DI \u2013 TM Forum",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **Digital twin for decision intelligence DT4DI** |\n| Document/asset ID | Not stated |\n| Publisher | **TM Forum** |\n| Version | Not stated |\n| Publication year/date | **year not stated** |\n| Content | The DT4DI project aims to define and develop an industry decision intelligence framework integrating digital twins, artificial intelligence, other technologies, and business processes to enable faster, more consistent, and more accurate analysis, diagnosis, predictions, and decisions. It also aims to establish a foundational ontology with domain concepts, definitions, and baselines, and to design and engineer knowledge-driven Decision Intelligence solutions supporting CSP business processes and tactical and strategic decision-making. |\n| Named operators/case studies | None stated |\n\n### Related asset\n\n- **DT4DI Whitepaper** \u2014 described as covering the context, background, scope, and project deliverables.\n- Document/asset ID: Not stated\n- Version: Not stated\n- Publication year/date: **year not stated**\n- Named operators/case studies: None stated",
+   "description": "Enabling CSPs to adopt and deploy decision intelligence (DI) solutions and practices The Digital twin for decision intelligence (DT4DI) project aims to",
+   "hostname": "TM Forum",
+   "published_date": "2024-04-16",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tmforum.org/toolkits/digital-twin-for-decision-intelligence-dt4di-toolkit/",
+   "title": "Digital Twin for Decision Intelligence (DT4DI) Toolkit",
+   "content": "| Exact title | Document/asset ID | Publisher | Version | Publication date/year | Content and named operators/case studies |\n|---|---|---|---|---|---|\n| **IG1307 Digital Twin for Decision Intelligence (DT4DI): From Strategy to Implementation v3.0.0** | IG1307 | Not stated | 3.0.0 | 15 May 2025 | The title indicates coverage of digital twin for decision intelligence from strategy to implementation. The page states that DT4DI assets help upgrade decision-making and business processes using digital twin and AI. No operators or case studies are named. |\n| **Title not stated** | ID not stated | Not stated | 3.7.0 | 7 Nov 2024 | The page identifies this as an Introductory Guide related to DT4DI, but does not state what it specifies. No operators or case studies are named. |\n| **IG1310A Digital Twin for Decision Intelligence (DT4DI) Reference Architecture v2.2.0** | IG1310A | Not stated | 2.2.0 | 18 Oct 2023 | The document is identified as a DT4DI Reference Architecture. The page does not provide further architectural details. No operators or case studies are named. |\n| **IG1310B Digital Twin for Decision Intelligence (DT4DI) Maturity Model v1.0.0** | IG1310B | Not stated | 1.0.0 | 18 Aug 2023 | The document is identified as a DT4DI Maturity Model. The page does not provide further maturity-model details. No operators or case studies are named. |\n| **Title not stated** | ID not stated | Not stated | 10.0.0 | 14 May 2025 | The page identifies this as an Introductory Guide related to DT4DI, but does not state what it specifies. No operators or case studies are named. |\n\n- The page states that the resources relate to digital twin for decision intelligence (DT4DI).\n- The page states that DT4DI assets help upgrade decision-making and business processes using digital twin and AI.\n- No document on the page is identified as specifying an ontology.\n- No named operators or case studies are stated.\n",
+   "description": "Open Digital Architecture Quick links Open APIs eTOM SID ODA Manifesto Open API Manifesto ODA Training Open API conformance certification How to apply ODA",
+   "hostname": "TM Forum",
+   "published_date": "2024-07-02",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tmforum.org/resources/introductory-guide/ig1310-digital-twin-for-decision-intelligence-dt4di-aiops-ontology-v3-3-0/",
+   "title": "IG1310 Digital Twin for Decision Intelligence (DT4DI) & AIOps ...",
+   "content": "- **Title:** IG1310 Digital Twin for Decision Intelligence (DT4DI) & AIOps Ontology v3.3.0\n- **Document/asset ID:** IG1310\n- **Publisher:** TM Forum\n- **Version:** 3.3.0\n- **Publication date:** 22-Dec-2023\n- **Publication year:** 2023\n- **Content:** The document specifies an ontology defining a common vocabulary to model knowledge domains including Decision Intelligence (DI), related disciplines such as Business Intelligence (BI) and Analytics, and enabling technologies such as Digital Twin (DT) and AI.\n- **Named operators/case studies:** None stated.",
+   "description": "It is the scope and goal of the ontology to define a common vocabulary to model knowledge domains, which are, in our case, Decision Intelligence (DI),",
+   "hostname": "TM Forum",
+   "published_date": "2024-11-05",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tmforum.org/resources/introductory-guide/ig1310b-dt4di-maturity-model-v1-0-0/",
+   "title": "IG1310B Digital Twin for Decision Intelligence (DT4DI) ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | IG1310B Digital Twin for Decision Intelligence (DT4DI) Maturity Model v1.0.0 |\n| Document/asset ID | IG1310B |\n| Publisher | TM Forum |\n| Version | 1.0.0 |\n| Publication date | 22-Aug-2023 |\n| Publication year | 2023 |\n| Content | The document specifies the Digital Twin for Decision Intelligence (DT4DI) Maturity Model, a strategic framework defining levels of organizational development in the DT4DI domain. It comprises five maturity levels determined by five dimensions with related subdimensions, weight (priority), criteria, and suggested metrics, and refers to TM Forum\u2019s Data, AI, and AIOps Maturity Models. |\n| Named operators/case studies | None stated. |",
+   "description": "The Digital Twin for Decision Intelligence (DT4DI) Maturity Model is a strategic framework that defines the different levels of development that an",
+   "hostname": "TM Forum",
+   "published_date": "2024-11-05",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tmforum.org/resources/introductory-guide/digital-twin-for-decision-intelligence-dt4di-use-case-repository-v3-0-0-ig1310c/",
+   "title": "Digital Twin for Decision Intelligence (DT4DI) Use Case Repository v3.0.0 (IG1310C)",
+   "content": "- **Title:** Digital Twin for Decision Intelligence (DT4DI) Use Case Repository v3.0.0 (IG1310C)\n- **Document/asset ID:** IG1310C\n- **Publisher:** Not explicitly stated; created by the Digital Twin for Decision Intelligence Project\n- **Version:** 3.0.0\n- **Publication date:** 05-Mar-2024\n- **Publication year:** 2024\n- **Content:** The document is a collection of Digital Twin for Decision Intelligence (DT4DI) use cases that have been documented and organized to make them easy to disclose and use. It aims to provide a comprehensive reference point for documenting, tracking, and leveraging DT4DI use cases across TM Forum.\n- **Named operators/case studies:** None stated.",
+   "description": "The DT4DI Use Case Repository is a collection of use cases that have been documented and organized to make them easy to disclose and use. This repository",
+   "hostname": "TM Forum",
+   "published_date": "2024-11-05",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tmforum.org/resources/how-to-guide/ig1247-data-governance-tools-panorama-v2-0-0/",
+   "title": "IG1247 Data Governance Tools Panorama v2.0.0",
+   "content": "- **Title:** IG1247 Data Governance Tools Panorama v2.0.0\n- **Document/asset ID:** IG1247; Document series: GB1247\n- **Publisher:** Not stated\n- **Version:** 2.0.0\n- **Publication date:** 15-Aug-2022\n- **Publication year:** 2022\n- **Content:** Provides a quick overview of tooling that supports data governance. It uses the capability model defined in the guidebook and maturity model, describes features to look for, and assesses how a range of products assist in increasing maturity in data governance.\n- **Architecture, use cases, or ontology:** Not stated\n- **Named operators or case studies:** None stated",
+   "description": "This paper provides a quick overview of the tooling that supports data governance. It takes the capability model defined in the guidebook and maturity",
+   "hostname": "TM Forum",
+   "published_date": "2022-09-15",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://inform.tmforum.org/features-and-opinion/how-digital-twins-and-ai-are-driving-new-decision-intelligence",
+   "title": "How digital twins and AI are driving new decision intelligence",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | **How digital twins and AI are driving new decision intelligence** |\n| Document/asset ID | Not stated |\n| Publisher | TM Forum |\n| Version | Not stated |\n| Publication year/date | Year not stated |\n| Content | The TM Forum DT4DI project aims to define and develop an industry Decision Intelligence framework that integrates Digital Twin (DT), AI, and other technologies with business processes to help organizations perform analysis, diagnosis, predictions, and decisions faster, more consistently, and more accurately. The whitepaper examines how CSPs are using Digital Twin and AI to move from traditional Business Intelligence to Decision Intelligence. |\n| Named operators/case studies | No operators or case studies are named. |",
+   "description": "How to manage Digital Transformation, Agile Business Operations & Connected Digital Ecosystems.",
+   "author": "Aaron Boasman-Patel; Luca Franco Varvello",
+   "hostname": "TMForum",
+   "published_date": "2023-02-14",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://inform.tmforum.org/research-and-analysis/proofs-of-concept/using-digital-twins-and-agentic-ai-to-enable-level-4-autonomous-network-operations",
+   "title": "Using digital twins and agentic AI to enable level 4+ ...",
+   "content": "| Field | Extracted information |\n|---|---|\n| **Title** | **Using digital twins and agentic AI to enable level 4+ autonomous network operations** |\n| **Document/asset IDs** | **TMF638, TMF639, TMF642, TMF628** \u2014 TM Forum Open APIs referenced for service and resource inventory, alarm and performance data, service quality metrics, and topology insights.<br><br>**GB1042** \u2014 Autonomous Operations Maturity Model.<br>**IG1307, IG1310** \u2014 Digital Twin for Decision Intelligence.<br>**IG1369** \u2014 GenAI Use Cases. |\n| **Publisher** | Not stated. |\n| **Version** | Not stated. |\n| **Publication year/date** | year not stated |\n| **Content** | The BIND Catalyst (\u201cBridging Intelligence, Networks and Digital Twins\u201d) specifies a standards-based architecture combining siloed network data, real-time digital twins, genAI-powered network agents, and Google\u2019s open Agent-to-Agent (A2A) Protocol to support predictive, intent-driven, level 4+ autonomous network operations. It references TM Forum\u2019s Autonomous Operations Maturity Model, Digital Twin for Decision Intelligence assets, GenAI Use Cases, and Open APIs, and describes use cases including fault prediction, simulated and automated remediation, assurance automation, service-quality maintenance, and reduced truck rolls. |\n| **Named operators/case studies** | **Vodafone** \u2014 Andreas Quiskamp, Senior Manager Network Engineering - Inventory, Discovery & Asset Management, is quoted discussing commoditization of network services, reduced ARPU, service interruptions, infrastructure investment, and internet traffic being up by 60% compared to pre-pandemic levels. The page also names the **BIND Catalyst** project.",
+   "description": "The BIND Catalyst combines digital twins, AI and interoperable AI agents to enable predictive, intent-driven network management. It shows how CSPs can reach TM Forum\u2019s Level 4+ autonomy by breaking down data silos and automating operations.",
+   "author": "Ryan Andrew",
+   "hostname": "TMForum",
+   "published_date": "2025-06-10",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tmforum.org/catalysts/projects/C25.0.775/bind-bridging-intelligence-networks-and-digital-twin",
+   "title": "BIND: Bridging Intelligence, Networks, and Digital Twin - TM Forum",
+   "content": "| Exact title | Document/asset ID | Publisher | Version | Publication year/date | Content | Named operators/case studies |\n|---|---|---|---|---|---|---|\n| **BIND: Bridging Intelligence, Networks, and Digital Twin** | Project identifier in URL: **C25.0.775**; no separate document/asset ID stated | TM Forum | Not stated | year not stated | Provides CSPs with a single comprehensive view of their network operations through a solution using generative AI and digital twins, enabling CSPs to federate data from multiple sources. | No operators or case studies named. |\n| **Agent2Agent Protocol** | No document/asset ID stated | Not stated | Not stated | year not stated | The page lists this asset but provides no further description of its architecture, maturity model, use cases, or ontology. | No operators or case studies named. |\n| **Github - A2A** | No document/asset ID stated | Not stated | Not stated | year not stated | The page lists this GitHub asset but provides no further content description. | No operators or case studies named. |\n| **BIND Datasheet** | No document/asset ID stated | Not stated | Not stated | year not stated | The page lists this datasheet but provides no further description of what it specifies. | No operators or case studies named. |\n| **BIND Overview Presentation** | No document/asset ID stated | Not stated | Not stated | year not stated | The page lists this presentation but provides no further description of its architecture, use cases, or other contents. | No operators or case studies named. |\n| **TM Forum Informa Article** | No document/asset ID stated | Not stated | Not stated | year not stated | The page lists this article but provides no further content description. | No operators or case studies named. |\n| **Guide: 7 Practical Steps to Building a Digital Twin** | No document/asset ID stated | Not stated | Not stated | year not stated | The title identifies a guide covering seven practical steps to building a digital twin. No further architecture, maturity model, use-case, or ontology details are provided. | No operators or case studies named. |\n| **Video: Agentic AI & Digital Twin Concept** | No document/asset ID stated | Not stated | Not stated | year not stated | The title identifies a video about the agentic AI and digital twin concept. No further content details are provided. | No operators or case studies named. |\n| **Project Summary Infographic** | No document/asset ID stated | Not stated | Not stated | year not stated | The page lists this infographic but provides no further content description. | No operators or case studies named. |\n| **Hackathon: The Google Cloud AI Autonomous Networking** | No document/asset ID stated | Not stated | Not stated | year not stated | The title identifies a hackathon named \u201cThe Google Cloud AI Autonomous Networking.\u201d No further architecture, use-case, or case-study details are provided. | Google Cloud is named in the hackathon title; no operator or case study is named. |\n| **TMF Assets Used and Contributed** | No document/asset ID stated | Not stated | Not stated | year not stated | The page lists this asset but provides no further description of the assets used or contributed. | No operators or case studies named. |\n| **Updated Infographic** | No document/asset ID stated | Not stated | Not stated | year not stated | The page lists this infographic but provides no further content description. | No operators or case studies named. |\n| **AI wireless ops, empowering Beijing, extending to 31 provinces\uff01** | No document/asset ID stated | Not stated | Not stated | year not stated | The title states that the subject concerns AI wireless operations, empowering Beijing, and extending to 31 provinces. No further architecture, maturity model, ontology, or use-case details are provided. | Beijing and 31 provinces are named; no operator or case study is named. |\n| **The AI Agent for B/OSS Best Practices, Validation & Visibility Extension** | No document/asset ID stated | Not stated | Not stated | year not stated | The title identifies an AI agent for B/OSS best practices, validation, and visibility extension. No further architecture, maturity model, ontology, or use-case details are provided. | No operators or case studies named. |\n| **Unifying edge AI and telco innovation to deliver intelligent, monetizable services across the Asia-Pacific network landscape using CAMARA API\u2019s** | No document/asset ID stated | Not stated | Not stated | year not stated | The title states that the subject unifies edge AI and telco innovation to deliver intelligent, monetizable services across the Asia-Pacific network landscape using CAMARA APIs. | The Asia-Pacific network landscape and CAMARA APIs are named; no operator or case study is named. |",
+   "description": "Providing CSPs with a single comprehensive view of their network operations, through a solution using generative AI and digital twins to enable CSPs to federate data from multiple sources.",
+   "author": "Simon Norton; Andreas Quiskamp; CAROLINA ROBLES; Valery Eysman; Yuval Stein; Ron Porter; Jose Carlos Mendez; Nir Lev On; Simon Dowling; Jen Hawes-Hewitt; Mamadou Camara; Sana Tariq; Ali Tizghadam; Nikhil Shah; Manish Behera; Anuj Pal; Senthoorkumaran Punniamoorthy; Anuroop Awasthi",
+   "hostname": "tmforum.org",
+   "published_date": "2024-12-23",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.tmforum.org/resources/best-practice/gb1003a-ai-maturity-model-v3-0-0/",
+   "title": "GB1003A AI Maturity Model v3.0.0",
+   "content": "| Field | Extracted information |\n|---|---|\n| Exact title | GB1003A AI Maturity Model v3.0.0 |\n| Document/asset ID | GB1003A |\n| Publisher | Not stated |\n| Version | 3.0.0 |\n| Publication date | 09-Feb-2024 (TM Forum Approved) |\n| Publication year | 2024 |\n| Content | Provides details of the TM Forum AI Maturity Model in Excel format. |\n| Named operators/case studies | None stated |",
+   "description": "This document provides details of the TM Forum AI Maturity Model in Excel format.",
+   "hostname": "TM Forum",
+   "published_date": "2024-11-05",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ],
+ "t3_APQC": [
+  {
+   "url": "https://www.apqc.org/process-frameworks",
+   "title": "Process Frameworks",
+   "content": "| Requested information | Extracted detail |\n|---|---|\n| Title | Process Frameworks |\n| Publisher | APQC |\n| Current PCF version number stated | Cross-Industry PCF (Excel 7.4) |\n| Publication/update year | Year not stated. The page states that the PCF was developed in 1992. |\n| PCF structure, levels, numbering/hierarchy | Process frameworks are lists of key processes performed in an organization, grouped hierarchically to show how they relate to each other. The page refers to the PCF\u2019s \u201cstructure and key elements,\u201d but does not state specific levels or numbering. |\n| Cross-industry vs. industry-specific variants | In addition to the cross-industry PCF, APQC provides versions that include industry-specific processes and nuances. |\n| Use as a common process taxonomy | The PCF is a taxonomy of business processes that allows organizations to objectively track and compare performance internally and externally with organizations from any industry. It also creates a common language to help organizations improve process management. |",
+   "hostname": "APQC",
+   "published_date": "2025-06-10",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.apqc.org/process-frameworks/pcf-faqs",
+   "title": "APQC's Process Classification Framework\u00ae (PCF) Frequently Asked Questions",
+   "content": "- **Title:** APQC's Process Classification Framework\u00ae (PCF) Frequently Asked Questions\n- **Publisher:** APQC\n- **Current PCF version:** Version 7.4\n- **Publication/update year:** year not stated\n\n- **PCF structure and use:** The PCF is a taxonomy and catalog, or index, of an organization\u2019s process activities, organized to rationally capture, group, and decompose activities from a high-level process category to a process activity. Its elements include a hierarchy ID showing where an element sits among the other elements and a unique five-digit PCF element ID used for benchmarking, even when process element names and definitions change.\n- **Versions:** APQC has a cross-industry version and industry-specific versions to better suit organizations; all versions are housed in APQC\u2019s Resource Library.\n- **Common process taxonomy:** The PCF creates a common language for organizations to communicate and define work processes comprehensively and without redundancies, and allows organizations to objectively track and compare performance internally and externally with organizations from any industry.",
+   "hostname": "APQC",
+   "published_date": "2025-06-10",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.apqc.org/process-frameworks/industry-specific-process-frameworks",
+   "title": "Industry-Specific Process Classification Frameworks",
+   "content": "| Requested information | Extracted details |\n|---|---|\n| Exact title | **Industry-Specific Process Classification Frameworks** |\n| Publisher | **APQC** |\n| Current PCF version number stated | Not stated. The page says the links default to the **most recent PDF version** of the industry-specific process classification framework (PCF), but it does not provide a version number. |\n| Publication/update year | **year not stated** |\n| PCF structure: levels, numbering, and hierarchy | The page does not state the PCF\u2019s levels, numbering system, or hierarchy. |\n| Cross-industry vs. industry variants | The page refers to **industry-specific process classification frameworks** and separately says that the **cross-industry PCF** can be downloaded. It also states that additional versions may include previous releases, an Excel version, and alternative languages where available. |\n| Use as a common process taxonomy | The page describes the PCF as creating **\u201ca baseline\u201d** and says, **\u201cWhy reinvent the wheel when the PCF creates a baseline for us.\u201d** It does not explicitly use the phrase \u201ccommon process taxonomy.\u201d |",
+   "hostname": "APQC",
+   "published_date": "2025-07-18",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.apqc.org/resource-library/resource-listing/introduction-apqcs-process-classification-framework-pcf",
+   "title": "Introduction to APQC's Process Classification Framework (PCF)",
+   "content": "| Requested information | Extracted detail |\n|---|---|\n| Exact title | **Introduction to APQC's Process Classification Framework (PCF)** |\n| Publisher | **APQC** |\n| Current PCF version number stated | **Not stated** |\n| Publication/update year | **Year not stated** |\n| PCF structure | The provided page content does not state the PCF\u2019s levels, numbering, or hierarchy. |\n| Cross-industry vs. industry variants | The article covers \u201cthe difference between cross-industry and industry-specific PCFs,\u201d but does not provide further details in the provided content. |\n| Common process taxonomy | APQC\u2019s PCF\u00ae \u201ccreates a common language to discuss, benchmark, and organize the work that businesses perform.\u201d",
+   "description": "APQC\u2019s Process Classification Framework (PCF)\u00ae creates a common language to discuss, benchmark, and organize the work that businesses perform. In this article, you will learn:what the PCF is, why organizations use it, the difference between cross-industry and industry-specific PCFs, and how to access process definitions and metrics for processes in the PCF.",
+   "hostname": "APQC",
+   "published_date": "2024-01-09",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.apqc.org/resource-library/resource-collection/pcf-version-74-process-definitions-and-key-measures-collection",
+   "title": "PCF Version 7.4 Process Definitions and Key Measures Collection",
+   "content": "| Requested information | Extracted detail |\n|---|---|\n| Exact title | **PCF Version 7.4 Process Definitions and Key Measures Collection** |\n| Publisher | **APQC** |\n| Current PCF version number stated | **PCF version 7.4** |\n| Publication/update year | **Year not stated** |\n| PCF structure: levels, numbering, or hierarchy | The page states that APQC\u2019s Process Classification Framework\u00ae contains **hundreds of processes** and that the documents contain detailed definitions for **all process elements** within PCF version 7.4. It does not state the framework\u2019s levels, numbering system, or hierarchy. |\n| Cross-industry versus industry variants | **Not stated on the page.** |\n| Use as a common process taxonomy | The page says the documents are designed as references to help organizations **identify and align their activities with global terminology**. It does not explicitly describe the PCF as a common process taxonomy. |",
+   "description": "APQC's Process Classification Framework\u00ae (PCF) contains hundreds of processes. The documents in this collection contain detailed definitions for all process elements within the PCF version 7.4. They are designed as references to help organizations identify and align their activities with global terminology. The documents also provide key performance indicators (KPIs) that APQC recommends for measuring and tracking the performance of each process group.",
+   "hostname": "APQC",
+   "published_date": "2024-08-21",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-automotive-oem-pdf-0",
+   "title": "APQC Process Classification Framework (PCF) - Automotive (OEM) - PDF Version 7.2.2",
+   "content": "- **Exact title:** APQC Process Classification Framework (PCF) - Automotive (OEM) - PDF Version 7.2.2\n- **Publisher:** APQC\n- **Current PCF version:** Version 7.2.2\n- **Publication/update year:** year not stated\n- **PCF structure (levels, numbering, and hierarchy):** Not stated on the page.\n- **Cross-industry versus industry-specific variants:** \u201cThe original Process Classification Framework\u00ae (PCF) provides a common language and open standard that allows organizations to see and discuss their activities from an industry-neutral viewpoint.\u201d \u201cAPQC maintains a number of industry-specific frameworks to enable faster, more relevant use and comparisons.\u201d\n- **Use as a common process taxonomy:** \u201cEffective benchmarking requires common definitions and processes.\u201d \u201cLike a shared language, organizations need to make apples-to-apples comparisons to obtain accurate benchmarks and metrics.\u201d",
+   "description": "Effective benchmarking requires common definitions and processes. Like a shared language, organizations need to make apples-to-apples comparisons to obtain accurate benchmarks and metrics. The original Process Classification Framework\u00ae (PCF) provides a common language and open standard that allows organizations to see and discuss their activities from an industry-neutral viewpoint.",
+   "hostname": "APQC",
+   "published_date": "2025-03-27",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-retail-pdf-version-721",
+   "title": "APQC Process Classification Framework (PCF) - Retail - PDF Version 7.2.1",
+   "content": "| Requested information | Extracted detail |\n|---|---|\n| Exact title | **APQC Process Classification Framework (PCF) - Retail - PDF Version 7.2.1** |\n| Publisher | **APQC** |\n| Current PCF version number stated | **7.2.1** |\n| Publication/update year | **Year not stated** |\n| PCF structure, levels, and numbering/hierarchy | The page does not state the PCF\u2019s levels, numbering, or hierarchy. |\n| Cross-industry vs. industry variants | The original PCF provides an industry-neutral framework, while APQC also releases industry-specific frameworks because applying a cross-industry framework can be more difficult in some industries. The retail industry PCF was developed with subject matter expertise and intellectual property provided by Microsoft. |\n| Use as a common process taxonomy | The PCF provides a common language and open standard that allows organizations to view and discuss their activities from an industry-neutral viewpoint, supporting apples-to-apples comparisons for benchmarking and metrics. |",
+   "description": "Effective benchmarking requires common definitions and processes. Like a shared language, organizations need to make apples-to-apples comparisons to obtain accurate benchmarks and metrics. The Process Classification FrameworkSM (PCF) provides a common language and open standard to allow organizations to see and discuss their activities from an industry-neutral viewpoint.",
+   "hostname": "APQC",
+   "published_date": "2023-04-28",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-banking-pcf-pdf-1",
+   "title": "APQC Process Classification Framework (PCF) - Banking PCF- PDF Version 7.2.2",
+   "content": "| Requested information | Extracted detail |\n|---|---|\n| Exact title | **APQC Process Classification Framework (PCF) - Banking PCF- PDF Version 7.2.2** |\n| Publisher | **APQC** |\n| Current PCF version number stated | **7.2.2** |\n| Publication/update year | **Year not stated** |\n| PCF structure and use | The original PCF provides a common language and open standard that allows organizations to see and discuss their activities from an industry-neutral viewpoint. The Banking PCF restructures the cross-industry PCF taxonomy to include categories of processes relevant to banking organizations; levels, numbering, and hierarchy are not stated on the page. |\n| Cross-industry versus industry variants | APQC states that cross-industry content is valuable but that industry-specific nuances may occur, so it releases industry-specific frameworks to enable faster, more relevant use and comparisons. |",
+   "description": "Effective benchmarking requires common definitions and processes. Like a shared language, organizations need to make apples-to-apples comparisons to obtain accurate benchmarks and metrics. The original Process Classification Framework\u00ae (PCF) provides a common language and open standard that allows organizations to see and discuss their activities from an industry-neutral viewpoint.",
+   "hostname": "APQC",
+   "published_date": "2025-03-27",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.apqc.org/resource-library/resource-listing/analyzing-processes-how-use-process-classification-framework-pcfr",
+   "title": "Analyzing Processes: How to Use a Process Classification Framework (PCF)\u00ae",
+   "content": "| Requested information | Extracted detail |\n|---|---|\n| Exact title | **Analyzing Processes: How to Use a Process Classification Framework (PCF)\u00ae** |\n| Publisher | Not stated |\n| Current PCF version number | Not stated |\n| Publication/update year | year not stated |\n| PCF structure | The page states that it explores using a process classification framework to analyze processes, but it does not state details about the PCF\u2019s levels, numbering, or hierarchy. |\n| Cross-industry vs. industry variants | Not stated |\n| Use as a common process taxonomy | Not stated |",
+   "description": "Process analysis involves gathering a set of requirements and needs to guide process design, improvement, and measurement. Organizations can use process analysis to either: design a new process, or improve an existing process. This article explores using a process classification framework to analyze processes.",
+   "hostname": "APQC",
+   "published_date": "2025-06-25",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.apqc.org/sites/default/files/files/PCF%20Collateral/Intro%20to%20PCF%20-%20FINAL.pdf",
+   "title": "INTRODUCTION TO APQC\u2019S PROCESS CLASSIFICATION FRAMEWORK\u00ae",
+   "content": "| Requested information | Extracted details |\n|---|---|\n| Exact title | **INTRODUCTION TO APQC\u2019S PROCESS CLASSIFICATION FRAMEWORK\u00ae** |\n| Publisher | **APQC** |\n| Current PCF version number | **Not stated** |\n| Publication/update year | **2018** \u2014 \u00a92018 APQC |\n| PCF structure, levels, and numbering/hierarchy | The PCF is \u201ca hierarchical list of business processes\u201d with 13 high-level Categories. Each Category breaks down into increasingly granular levels called Process Group, Process, Activity, and Task; hierarchy numbers locate process elements within the hierarchy, while each element also has a unique process element identification number. |\n| Cross-industry versus industry-specific PCFs | APQC offers cross-industry and industry-specific PCFs: the cross-industry PCF is generic and can be applied to any organization, while industry-specific frameworks are tailored to the unique needs of different industries. The core PCF structure and reference numbers remain the same as the cross-industry PCF, enabling benchmarking across industries. |\n| PCF as a common process taxonomy | The PCF creates \u201ca common language to discuss, benchmark, and organize the work that businesses perform.\u201d It provides a baseline for organizations to develop their own process definitions and a consistent language for bringing enterprise models together. |",
+   "hostname": "apqc",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ],
+ "t4_SAP_Activate": [
+  {
+   "url": "https://www.sap.com/products/erp/activate-methodology.html",
+   "title": "SAP Activate | Accelerate SAP Cloud ERP Deployment",
+   "content": "| Requested item | Extracted information |\n|---|---|\n| Exact title | **SAP Activate \\| Accelerate SAP Cloud ERP Deployment** |\n| Publisher (SAP entity) | **SAP** |\n| Publication/update year | **year not stated** |\n| SAP Activate phases | **Discover, Prepare, Explore, Realize, Deploy, Run.** Discover covers understanding solution options and defining scope; Prepare covers finalizing the project plan, setting up the environment, and aligning the team; Explore covers fit-to-standard workshops and confirming the solution design; Realize covers configuring, building, testing, and validating the solution; Deploy covers cutting over to the new system and transitioning to production; Run covers operating, supporting, and continuously optimizing the solution. |\n| SAP Cloud ALM relative to SAP Activate | SAP Cloud ALM is positioned as a tool for deploying and running SAP solutions using SAP Activate project road maps with quality gates and checkpoints for each phase. The SAP Activate framework\u2019s task content\u2014including setup guidance, enablement resources, templates and accelerators for fit-to-standard workshops, and detailed guidance for test sprints\u2014is embedded in SAP Cloud ALM with detailed, role-based guidance for project team members across the implementation journey. |\n| SAP Signavio relative to SAP Activate | SAP Signavio Process Navigator is presented as a resource for gaining insights into SAP\u2019s process portfolio, including process models, documentation, and implementation accelerators. |\n| SAP Solution Manager relative to SAP Activate | **SAP Solution Manager is not mentioned on the page.** |",
+   "description": "SAP Activate combines best practices, proven implementation methodology, and guided configuration tools to fast-track the deployment of SAP S/4HANA Cloud.",
+   "hostname": "SAP SE",
+   "published_date": "2026-07-23",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://learning.sap.com/courses/exploring-sap-cloud-erp/utilizing-the-sap-activate-implementation-methodology-and-sap-cloud-alm_a68867ac-cb61-44de-b358-5114b6ebd68e",
+   "title": "Utilizing the SAP Activate Implementation Methodology ...",
+   "content": "| Requested information | Extracted content |\n|---|---|\n| Exact title | **Utilizing the SAP Activate Implementation Methodology ...** |\n| Publisher (SAP entity) | Not stated |\n| Publication/update year | year not stated |\n| SAP Activate phases named | **Discover; Prepare; Explore; Realize; Deploy; Run.** |\n| SAP Activate phases description | The SAP Activate Methodology covers six implementation phases: Discover is the sales phase; Prepare covers planning, preparation, and system access; Explore includes Fit-to-Standard Analysis workshops; Realize covers implementation, configuration, data migration, integrations, extensions, and user acceptance testing; Deploy covers system cutover, end-user training, and organizational readiness; Run covers release upgrades and monitoring system health. |\n| SAP Cloud ALM relative to the methodology | SAP Cloud ALM is part of the foundational support package included for all customers purchasing an SAP Cloud solution. The SAP Activate Methodology defines the tasks required to implement a solution, while the implementation apps in SAP Cloud ALM make those tasks actionable by enabling project managers to assign tasks and project members to track notes and completion. |\n| SAP Signavio relative to the methodology | SAP Signavio is not mentioned in the page content. |\n| SAP Solution Manager relative to the methodology | SAP Solution Manager is not mentioned in the page content. |",
+   "description": "After completing this lesson, you will be able to:Organize implementation projects using the SAP Activate methodology and SAP Cloud ALM",
+   "hostname": "learning.sap.com",
+   "published_date": "2024-10-04",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://learning.sap.com/courses/discovering-sap-activate-implementation-tools-and-methodology/understanding-the-sap-integrated-toolchain_ce528715-8830-4aff-94b1-f31ab143421c",
+   "title": "Understanding the SAP Integrated Toolchain",
+   "content": "| Requested information | Extracted content |\n|---|---|\n| **Title** | **Understanding the SAP Integrated Toolchain** |\n| **Publisher (SAP entity)** | SAP |\n| **Publication/update year** | year not stated |\n\n- **SAP Activate phases named:** Discover, Prepare, Explore, Realize, Deploy, and Run. The page describes SAP Activate as \u201ca standardized, agile framework for implementing SAP solutions through six phases,\u201d supported by SAP Best Practices, Guided Configuration, and methodology.\n- **Positioning relative to the methodology:** SAP Cloud ALM is presented as a project and quality management solution offering lifecycle orchestration, implementation tracking, quality gates, and a success plan aligned with the SAP Activate framework. SAP Signavio is positioned as the business process management solution for analyzing, modeling, optimizing, and transforming processes in support of the transformation journey.\n- **SAP Solution Manager:** SAP Solution Manager is not mentioned on the page.",
+   "description": "After completing this lesson, you will be able to:Describe SAP Signavio.Explain how SAP LeanIX, SAP Signavio, and SAP Cloud ALM utilize a unified meta mode",
+   "hostname": "learning.sap.com",
+   "published_date": "2024-10-04",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://support.sap.com/en/alm/sap-cloud-alm.html",
+   "title": "SAP Cloud ALM",
+   "content": "- **Title:** SAP Cloud ALM\n- **Publisher (SAP entity):** Not explicitly stated on the page; the page refers to **SAP**.\n- **Publication/update year:** year not stated.\n- **SAP Activate phases named:** No SAP Activate phases are named on the page.\n- **Positioning relative to the methodology:** SAP Cloud ALM is positioned as a \u201cnative cloud solution\u201d and \u201ccentral entry point\u201d for managing an SAP landscape, with \u201ccontent-driven guided implementation.\u201d The page states that SAP provides offerings to support the transition from SAP Solution Manager to SAP Cloud ALM, while SAP Signavio is not mentioned.",
+   "description": "SAP Cloud ALM",
+   "hostname": "support.sap.com",
+   "published_date": "2026-08-18",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://support.sap.com/en/alm/sap-cloud-alm/transition-to-sap-cloud-alm.html",
+   "title": "Transition to SAP Cloud ALM",
+   "content": "| Requested item | Extracted information |\n|---|---|\n| Exact title | **Transition to SAP Cloud ALM** |\n| Publisher (SAP entity) | **SAP**; no more specific SAP legal entity is stated. |\n| Publication/update year | **year not stated** |\n\n### SAP Activate phases named\n\nNo specific SAP Activate phases are named on the page. The page references the **SAP Activate Roadmap \u201cTransition to SAP Cloud ALM\u201d**, which provides guidance \u201cin the format of SAP Activate Best Practices.\u201d\n\n### Positioning relative to the methodology\n\nSAP Cloud ALM is positioned as \u201cthe strategic, next-generation ALM platform from SAP\u201d to support the SAP Business Suite and current hybrid landscapes. SAP Solution Manager is the platform from which SAP recommends transitioning to SAP Cloud ALM before mainstream maintenance ends on **December 31st, 2027**; the transition is supported by an SAP Activate roadmap.\n\n**SAP Signavio is not mentioned on the page.**",
+   "description": "This page provides relevant information on various aspects of the Transition to SAP Cloud ALM.",
+   "hostname": "support.sap.com",
+   "published_date": "2026-05-20",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://help.sap.com/docs/cloud-alm",
+   "title": "SAP Cloud ALM",
+   "content": "| Requested information | Extracted content |\n|---|---|\n| Exact title | SAP Cloud ALM |\n| Publisher (SAP entity) | Not stated |\n| Publication/update year | year not stated |\n| SAP Activate phases named | No SAP Activate phases are named. |\n| Positioning of SAP Cloud ALM, SAP Signavio, and SAP Solution Manager relative to the methodology | The page does not state how SAP Cloud ALM, SAP Signavio, or SAP Solution Manager are positioned relative to the SAP Activate methodology. |",
+   "description": "SAP Cloud ALM",
+   "hostname": "help.sap.com",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.sap.com/products/business-transformation-management/signavio-process-manager.html",
+   "title": "SAP Signavio Process Manager",
+   "content": "- **Exact title:** SAP Signavio Process Manager\n- **Publisher (SAP entity):** SAP\n- **Publication/update year:** year not stated\n- **SAP Activate phases named:** Not stated on the page.\n- **Positioning of SAP Cloud ALM, SAP Signavio, and SAP Solution Manager relative to the methodology:** Not stated on the page.",
+   "description": "Take control of your business processes with a comprehensive and intuitive modeling platform.",
+   "hostname": "SAP SE",
+   "published_date": "2026-08-23",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://learning.sap.com/courses/sap-signavio-process-management/synchronizing-sap-signavio-with-sap-cloud-alm-3",
+   "title": "Synchronizing SAP Signavio with SAP Cloud ALM",
+   "content": "- **Title:** Synchronizing SAP Signavio with SAP Cloud ALM\n- **Publisher (SAP entity):** Not stated\n- **Publication/update year:** year not stated\n- **SAP Activate phases named:** Discover; deploy\n- **Positioning relative to the methodology:** SAP Signavio lays the foundation for designing reusable process structures. SAP Cloud ALM drives implementation using the SAP Activate road map, guiding teams from discover to deploy; SAP Solution Manager is not mentioned.",
+   "description": "After completing this lesson, you will be able to:After completing this lesson, you will be able to synchronize process diagrams between SAP Signavio and S",
+   "hostname": "learning.sap.com",
+   "published_date": "2024-10-04",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  },
+  {
+   "url": "https://www.signavio.com/products/process-transformation-suite/",
+   "title": "SAP Signavio Process Transformation Suite",
+   "content": "| Requested item | Extracted information |\n|---|---|\n| Exact title | SAP Signavio Process Transformation Suite |\n| Publisher (SAP entity) | Not stated |\n| Publication/update year | year not stated |\n| SAP Activate phases named | None stated |\n| Positioning of SAP Cloud ALM, SAP Signavio, and SAP Solution Manager relative to the methodology | Not stated |",
+   "description": "Understand, improve, and transform your business processes, and drive operational change \u2013 fast and at scale",
+   "hostname": "SAP Signavio | Business Process Transformation Suite",
+   "published_date": "2026-08-04",
+   "is_paywall": false,
+   "is_cached": true,
+   "error": null
+  }
+ ]
+}
