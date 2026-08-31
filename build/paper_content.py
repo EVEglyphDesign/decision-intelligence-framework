@@ -351,10 +351,11 @@ add(
     "p",
     "The framework's third choice is to move learning and role design forward "
     "in the plan, on the evidence that people, not technology, are now the "
-    "binding constraint. The strongest quantitative support is Prosci's "
-    "finding that 63% of AI implementation challenges are human-factor and "
-    "user proficiency accounts for 38% of failure points versus 16% "
-    "attributable to technical issues "
+    "binding constraint. The strongest quantitative support, all on "
+    "cross-sectional survey evidence rather than experimental tests, is "
+    "Prosci's finding that 63% of AI implementation challenges are "
+    "human-factor and user proficiency accounts for 38% of failure points "
+    "versus 16% attributable to technical issues "
     "(" + L("Prosci, 2025", "https://www.prosci.com/blog/why-ai-transformation-fails") + "), "
     "the Wharton/GBK AI Adoption Report's statement that people and processes "
     "are the new constraint with training a top challenge for 46% of "
@@ -385,12 +386,35 @@ add(
     "from artifact completeness to authorised-decision throughput.",
 )
 
-add("h3", "3.4 The human-authorised decision as the control boundary")
+add(
+    "p",
+    "Adoption-first sequencing composes with Prosci's ADKAR model and "
+    "Kotter's eight-step model rather than replacing them. Awareness and "
+    "Desire (ADKAR) sequence against Discover and Prepare; Knowledge and "
+    "Ability against Explore and Realize; Reinforcement against Deploy and "
+    "Run. What is different is the priority: learning-path assignment and "
+    "human-authorised decision rehearsal are scheduled in Prepare, not after "
+    "Realize, because the empirical constraint is now people rather than "
+    "technical delivery. Change management is approximately 40% of "
+    "ERP-adjacent success versus 25% for technical configuration "
+    "(" + L("ERP Today", "https://erp.today/how-ai-is-forcing-erp-vendors-to-rethink-the-human-side-of-transformation/") + "), "
+    "which is consistent with Panorama's fewer-than-25% OCM finding. The "
+    "framework proposes that programs treat the OCM budget line as the "
+    "primary variable and design the technical plan around it, rather than "
+    "the reverse. Formal causal testing of adoption-first sequencing is "
+    "\"n.a.\" in the current literature; this is one of the paper's open "
+    "invitations to peer review.",
+)
+
+add("h3", "3.4 The control boundary shared across the three choices")
 
 add(
     "p",
-    "The framework's control boundary between AI-prepared analysis and "
-    "accountable human action is the human-authorised decision artifact. AI "
+    "The three choices above share a single control boundary: the "
+    "human-authorised decision artifact. It is not a fourth choice but the "
+    "primitive that makes the other three defensible — the sovereign surface "
+    "holds evidence, the APQC spine identifies it, adoption-first sequencing "
+    "rehearses it, and a named human authorises the outbound artifact. AI "
     "assembles evidence, reconciles figures, drafts the summary, and proposes "
     "recipients. A named person amends, rejects, or authorises the package. "
     "The retained record is the point-in-time evidence plus the communication "
@@ -446,7 +470,7 @@ add(
             ["Explore", "Fit-to-standard sessions traced by PCF ID; human-authorised decision rehearsal", "SAP Cloud ALM (requirement generation)"],
             ["Realize", "Test plan and dataset lineage on the same PCF ID; migration objects registered", "SAP Cloud ALM; migration cockpit"],
             ["Deploy", "Cutover authorised as decision artifact; hypercare designed against adoption gaps", "SAP Cloud ALM; ticketing"],
-            ["Run", "Sovereign context repository handed to client; DT4DI-style maturity metric adopted", "Client-owned DMZ surface"],
+            ["Run", "Sovereign context repository handed to client; IG1310B maturity metric adopted", "Client-owned DMZ surface"],
         ],
     ),
 )
@@ -576,43 +600,10 @@ add(
 )
 
 
-# 7. Adoption-first, in detail -------------------------------------------
 
-add("h2", "7. Adoption sequencing and the ADKAR handshake")
+# 7. Open questions / peer review invitation ----------------------------
 
-add(
-    "p",
-    "The framework's adoption-first sequencing is designed to compose with "
-    "Prosci's ADKAR model and Kotter's eight-step model rather than replace "
-    "them. The primary handshake is that Awareness and Desire (ADKAR) are "
-    "sequenced against the Discover and Prepare phases; Knowledge and "
-    "Ability against Explore and Realize; and Reinforcement against Deploy "
-    "and Run. What is different is the priority: learning-path assignment "
-    "and human-authorised decision rehearsal are scheduled in Prepare, not "
-    "after Realize, because the empirical constraint is now people rather "
-    "than technical delivery.",
-)
-
-add(
-    "p",
-    "The change-management literature also gives a specific number for the "
-    "ERP context: change management is approximately 40% of ERP-adjacent "
-    "success versus 25% for technical configuration "
-    "(" + L("ERP Today", "https://erp.today/how-ai-is-forcing-erp-vendors-to-rethink-the-human-side-of-transformation/") + "), "
-    "which is consistent with Panorama's finding that fewer than 25% of "
-    "surveyed programs report intense OCM focus "
-    "(" + L("Panorama, 2026", "https://4439340.fs1.hubspotusercontent-na1.net/hubfs/4439340/Reports/ERP%20Report/2026-erp-report-panorama-consulting-group.pdf") + "). "
-    "The framework proposes that programs treat the OCM budget line as the "
-    "primary variable and design the technical plan around it, rather than "
-    "the reverse. Formal causal testing of adoption-first sequencing is "
-    "\"n.a.\" in the current literature; this is one of the paper's open "
-    "invitations to peer review.",
-)
-
-
-# 8. Open questions / peer review invitation ----------------------------
-
-add("h2", "8. Open questions and peer-review invitation")
+add("h2", "7. Open questions and peer-review invitation")
 
 add(
     "p",
@@ -640,8 +631,8 @@ add(
 
 add(
     "p",
-    "Reviewers are asked to focus, where possible, on the four claims that "
-    "are load-bearing for the framework as a whole: (1) the client-DMZ "
+    "Reviewers are asked to focus, where possible, on the three load-bearing "
+    "choices plus the shared control-boundary primitive: (1) the client-DMZ "
     "sovereignty claim, (2) the APQC-spine traceability claim, (3) the "
     "adoption-first sequencing claim, and (4) the human-authorised decision "
     "artifact as the control boundary. Commentary is invited via GitHub "
@@ -652,7 +643,7 @@ add(
 
 # 9. Closing ------------------------------------------------------------
 
-add("h2", "9. Conclusion")
+add("h2", "8. Conclusion")
 
 add(
     "p",
@@ -698,14 +689,68 @@ add(
     ],
 )
 
-add("h2", "Appendix B. Framework primitives (glossary)")
+add("h2", "Appendix B. Worked example \u2014 one PCF ID threaded through the phase model")
+
+add(
+    "p",
+    "The APQC-spine claim in §3.2 is easier to defend on a single worked "
+    "example than in the abstract. This appendix takes one real "
+    "cross-industry PCF v7.4 process element and threads it through the six "
+    "artifact classes named in the spine and the six SAP Activate phases. "
+    "The IDs are the actual APQC IDs "
+    "(" + L("APQC cross-industry PCF v7.4", "https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-cross-industry-excel-11") + ").",
+)
+
+add(
+    "p",
+    "<b>Anchor process element.</b> Hierarchy 4.2.1.1 <i>Develop procurement "
+    "plan</i> — APQC PCF ID <b>10281</b>, a child of 4.2.1 <i>Provide sourcing "
+    "governance and perform category management</i> (10277), under 4.2 "
+    "<i>Procure materials and services</i> (10216). The five-digit ID is "
+    "stable across releases and across industry variants "
+    "(" + L("APQC PCF FAQs", "https://www.apqc.org/process-frameworks/pcf-faqs") + "). "
+    "The hierarchy number may move; 10281 will not.",
+)
+
+add(
+    "tbl",
+    (
+        ["Artifact class", "Record keyed on 10281", "SAP Activate phase"],
+        [
+            ["Blueprint entry", "Fit-to-standard workshop record: as-is vs to-be, decisions, owners", "Explore"],
+            ["Technical design", "Functional/technical spec for procurement-plan generation and approval", "Explore → Realize"],
+            ["Technical object", "Configured MM/S4 objects and any WRICEF item(s) for plan handling", "Realize"],
+            ["Test plan / scripts", "Test cases exercising plan creation, approval, exception paths", "Realize"],
+            ["Dataset / migration", "Master data and open-plan migration objects with lineage", "Realize → Deploy"],
+            ["Role and authorisation", "Roles, positions, authorisations that can create, approve, or override the plan", "Prepare → Realize"],
+        ],
+    ),
+)
+
+add(
+    "p",
+    "Every row above carries the same key — 10281 — in whatever repository "
+    "holds it (Cloud ALM task, Signavio process, migration cockpit object, "
+    "IdM role). A reviewer, an auditor, or a hypercare engineer entering "
+    "10281 recovers the full lineage: which fit-to-standard produced the "
+    "decision, which technical object realised it, which test proved it, "
+    "which dataset migrated it, and which named person can authorise it. "
+    "That is what the paper means by “spine”: not a taxonomy, but a single "
+    "stable key that makes point-in-time deliverables addressable as a "
+    "traceable program record after the delivery team has rolled off. The "
+    "same shape holds for any anchor process element the program chooses; "
+    "the framework is nomenclature-neutral, provided the replacement carries "
+    "stable IDs.",
+)
+
+add("h3", "Framework primitives (short glossary)")
 
 add(
     "bul",
     [
         "<b>Sovereign context-reasoning surface.</b> An AI reasoning surface running inside the client's DMZ that holds program context (transcripts, decisions, rationale) as a client-owned capital asset.",
         "<b>APQC-spined traceability.</b> A program-wide numbering scheme anchored on APQC PCF five-digit stable IDs, threaded through blueprint, technical design, technical object, test plan, dataset, and role and authorisation records.",
-        "<b>Human-authorised decision artifact.</b> The point-in-time evidence package plus the communication a named person reviewed, edited, and chose to send. The control boundary between AI-prepared analysis and accountable human action.",
+        "<b>Human-authorised decision artifact.</b> The point-in-time evidence package plus the communication a named person reviewed, edited, and chose to send. The control boundary shared across the three load-bearing choices.",
         "<b>Adoption-first sequencing.</b> Scheduling role design, learning-path assignment, and human-authorised decision rehearsal in the Prepare and Explore phases of SAP Activate rather than deferring them to Deploy.",
         "<b>Program memory.</b> The sovereign, indexed, and searchable record of what the program decided and why. Retained across engagements as a compounding client-owned asset rather than lost when consultants roll off.",
         "<b>Additive positioning.</b> The framework does not displace SAP Cloud ALM, Signavio, Solution Manager, Joule, Jira, or Azure DevOps. It orchestrates work around them and holds the sovereign record beside them.",
